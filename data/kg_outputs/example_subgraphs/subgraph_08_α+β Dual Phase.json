@@ -1,0 +1,567 @@
+{
+  "center_node": {
+    "id": "n00018",
+    "type": "Microstructure",
+    "name": "α+β Dual Phase"
+  },
+  "degree": 118,
+  "nodes": [
+    {
+      "id": "n00001",
+      "type": "Paper",
+      "name": "A comprehensive mean-field approach to simulate the microstr"
+    },
+    {
+      "id": "n00010",
+      "type": "Process",
+      "name": "Annealing"
+    },
+    {
+      "id": "n00011",
+      "type": "Process",
+      "name": "Quenching"
+    },
+    {
+      "id": "n00012",
+      "type": "Process",
+      "name": "Hot Compression"
+    },
+    {
+      "id": "n00018",
+      "type": "Microstructure",
+      "name": "α+β Dual Phase"
+    },
+    {
+      "id": "n00021",
+      "type": "Property",
+      "name": "Yield Strength"
+    },
+    {
+      "id": "n00022",
+      "type": "Property",
+      "name": "Elongation/Ductility"
+    },
+    {
+      "id": "n00023",
+      "type": "Property",
+      "name": "Corrosion Resistance"
+    },
+    {
+      "id": "n00024",
+      "type": "Property",
+      "name": "Creep Resistance"
+    },
+    {
+      "id": "n00025",
+      "type": "Property",
+      "name": "Work Hardening"
+    },
+    {
+      "id": "n00029",
+      "type": "Paper",
+      "name": "A full-field model for hydrogen diffusion and trapping in tw"
+    },
+    {
+      "id": "n00032",
+      "type": "Process",
+      "name": "Powder Metallurgy"
+    },
+    {
+      "id": "n00035",
+      "type": "Property",
+      "name": "TWIP Effect"
+    },
+    {
+      "id": "n00036",
+      "type": "Paper",
+      "name": "A strategy to regulate the yield ratio of a metastable high"
+    },
+    {
+      "id": "n00041",
+      "type": "Process",
+      "name": "Aging"
+    },
+    {
+      "id": "n00042",
+      "type": "Process",
+      "name": "Solution Treatment"
+    },
+    {
+      "id": "n00043",
+      "type": "Process",
+      "name": "Additive Manufacturing"
+    },
+    {
+      "id": "n00046",
+      "type": "Property",
+      "name": "Ultimate Tensile Strength"
+    },
+    {
+      "id": "n00047",
+      "type": "Property",
+      "name": "Fatigue Performance"
+    },
+    {
+      "id": "n00048",
+      "type": "Property",
+      "name": "Biocompatibility"
+    },
+    {
+      "id": "n00049",
+      "type": "Property",
+      "name": "Elastic Modulus"
+    },
+    {
+      "id": "n00050",
+      "type": "Property",
+      "name": "Ductility"
+    },
+    {
+      "id": "n00051",
+      "type": "Property",
+      "name": "Strength-Ductility Balance"
+    },
+    {
+      "id": "n00058",
+      "type": "Process",
+      "name": "Hot Rolling"
+    },
+    {
+      "id": "n00059",
+      "type": "Process",
+      "name": "SLM"
+    },
+    {
+      "id": "n00060",
+      "type": "Process",
+      "name": "DED"
+    },
+    {
+      "id": "n00062",
+      "type": "Process",
+      "name": "EBM"
+    },
+    {
+      "id": "n00066",
+      "type": "Property",
+      "name": "Fracture Toughness"
+    },
+    {
+      "id": "n00069",
+      "type": "Paper",
+      "name": "Achieving high density and controlled microstructure by pred"
+    },
+    {
+      "id": "n00070",
+      "type": "Process",
+      "name": "Hot Forging"
+    },
+    {
+      "id": "n00071",
+      "type": "Process",
+      "name": "Sintering/SPS"
+    },
+    {
+      "id": "n00072",
+      "type": "Property",
+      "name": "Hardness"
+    },
+    {
+      "id": "n00077",
+      "type": "Paper",
+      "name": "Achieving high work-hardening and high plasticity of metasta"
+    },
+    {
+      "id": "n00080",
+      "type": "Property",
+      "name": "TRIP Effect"
+    },
+    {
+      "id": "n00083",
+      "type": "Paper",
+      "name": "An investigation on microstructure evolution and deformation"
+    },
+    {
+      "id": "n00084",
+      "type": "Process",
+      "name": "Welding"
+    },
+    {
+      "id": "n00090",
+      "type": "Process",
+      "name": "LPBF"
+    },
+    {
+      "id": "n00097",
+      "type": "Process",
+      "name": "HIP"
+    },
+    {
+      "id": "n00099",
+      "type": "Paper",
+      "name": "Biomedical mmlmathaltimgsi38svgdisplayinlineidd1e781mmlmiβmm"
+    },
+    {
+      "id": "n00100",
+      "type": "Property",
+      "name": "Wear Resistance"
+    },
+    {
+      "id": "n00106",
+      "type": "Paper",
+      "name": "Characterization of hot deformation and microstructure evolu"
+    },
+    {
+      "id": "n00111",
+      "type": "Paper",
+      "name": "Combination of multiple strengthening mechanisms facilitates"
+    },
+    {
+      "id": "n00115",
+      "type": "Paper",
+      "name": "Cooling rate effects on microstructure and diffusion behavio"
+    },
+    {
+      "id": "n00117",
+      "type": "Paper",
+      "name": "Cost-affordable and qualified powder metallurgy metastable b"
+    },
+    {
+      "id": "n00120",
+      "type": "Paper",
+      "name": "Deciphering the microstructural evolution and adiabatic shea"
+    },
+    {
+      "id": "n00128",
+      "type": "Paper",
+      "name": "Dynamic α globularization in laser powder bed fusion additiv"
+    },
+    {
+      "id": "n00131",
+      "type": "Paper",
+      "name": "Effect of cross-section change on microstructure and propert"
+    },
+    {
+      "id": "n00132",
+      "type": "Paper",
+      "name": "Effect of cryogenic and electropulsing coupling treatment on"
+    },
+    {
+      "id": "n00133",
+      "type": "Paper",
+      "name": "Effect of cyclic heat treatment on microstructure and mechan"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00138",
+      "type": "Paper",
+      "name": "Effect of heat treatments on the microstructure and mechanic"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00001",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 46
+    },
+    {
+      "source": "n00011",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 28
+    },
+    {
+      "source": "n00012",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 15
+    },
+    {
+      "source": "n00018",
+      "target": "n00021",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 66
+    },
+    {
+      "source": "n00018",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 78
+    },
+    {
+      "source": "n00018",
+      "target": "n00023",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 64
+    },
+    {
+      "source": "n00018",
+      "target": "n00024",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 37
+    },
+    {
+      "source": "n00018",
+      "target": "n00025",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 26
+    },
+    {
+      "source": "n00029",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00032",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 29
+    },
+    {
+      "source": "n00018",
+      "target": "n00035",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 11
+    },
+    {
+      "source": "n00036",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00041",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 42
+    },
+    {
+      "source": "n00042",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 44
+    },
+    {
+      "source": "n00043",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 60
+    },
+    {
+      "source": "n00018",
+      "target": "n00046",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 42
+    },
+    {
+      "source": "n00018",
+      "target": "n00047",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 71
+    },
+    {
+      "source": "n00018",
+      "target": "n00048",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 22
+    },
+    {
+      "source": "n00018",
+      "target": "n00049",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 26
+    },
+    {
+      "source": "n00018",
+      "target": "n00050",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 68
+    },
+    {
+      "source": "n00018",
+      "target": "n00051",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 16
+    },
+    {
+      "source": "n00069",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00070",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 11
+    },
+    {
+      "source": "n00060",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 20
+    },
+    {
+      "source": "n00071",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 2
+    },
+    {
+      "source": "n00018",
+      "target": "n00072",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 33
+    },
+    {
+      "source": "n00077",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00058",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 12
+    },
+    {
+      "source": "n00018",
+      "target": "n00080",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 13
+    },
+    {
+      "source": "n00083",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00059",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 30
+    },
+    {
+      "source": "n00084",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 25
+    },
+    {
+      "source": "n00099",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00090",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 23
+    },
+    {
+      "source": "n00062",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 17
+    },
+    {
+      "source": "n00018",
+      "target": "n00100",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 12
+    },
+    {
+      "source": "n00106",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00111",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00018",
+      "target": "n00066",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 35
+    },
+    {
+      "source": "n00115",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00117",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00097",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 17
+    },
+    {
+      "source": "n00120",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00128",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00131",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00132",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00133",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00138",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    }
+  ]
+}

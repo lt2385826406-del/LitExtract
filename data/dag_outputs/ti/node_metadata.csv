@@ -1,0 +1,648 @@
+node_id,type,name
+Element:Ti,Element,Ti
+Element:N=0.05,Element,N=0.05
+Property:corrosion resistance,Property,corrosion resistance
+Alloy:Ti-17,Alloy,Ti-17
+Processing:Fig:Fig. 2,Processing,Fig:Fig. 2
+Processing:Fig:Fig. 3,Processing,Fig:Fig. 3
+Processing:Fig:Fig. 4,Processing,Fig:Fig. 4
+Processing:heat treatment,Processing,heat treatment
+Processing:hot compression,Processing,hot compression
+Processing:test:EBSD,Processing,test:EBSD
+Processing:test:compression,Processing,test:compression
+Processing:test:hot compression,Processing,test:hot compression
+Processing:Fig:Fig. 1,Processing,Fig:Fig. 1
+Processing:Fig:Fig. 10,Processing,Fig:Fig. 10
+Processing:Fig:Fig. 11,Processing,Fig:Fig. 11
+Processing:Fig:Fig. 2c,Processing,Fig:Fig. 2c
+Processing:Fig:Fig. 7,Processing,Fig:Fig. 7
+Processing:Fig:Fig. 8,Processing,Fig:Fig. 8
+Processing:Fig:Fig. 9,Processing,Fig:Fig. 9
+Processing:Fig:Table 1,Processing,Fig:Table 1
+Processing:hot compression tests,Processing,hot compression tests
+Processing:hot deformation,Processing,hot deformation
+Processing:quenching,Processing,quenching
+Processing:test:BSE,Processing,test:BSE
+Processing:test:SEM,Processing,test:SEM
+Processing:test:compression tests,Processing,test:compression tests
+Microstructure:HAGBs,Microstructure,HAGBs
+Microstructure:LAGBs,Microstructure,LAGBs
+Microstructure:dislocation,Microstructure,dislocation
+Microstructure:high angle grain boundaries,Microstructure,high angle grain boundaries
+Microstructure:high-angle grain boundaries,Microstructure,high-angle grain boundaries
+Microstructure:low angle grain boundaries,Microstructure,low angle grain boundaries
+Microstructure:subgrain,Microstructure,subgrain
+Microstructure:α phase,Microstructure,α phase
+Microstructure:α-phase,Microstructure,α-phase
+Microstructure:β phase,Microstructure,β phase
+Microstructure:β-phase,Microstructure,β-phase
+Processing:solution and ageing treatment,Processing,solution and ageing treatment
+Microstructure:β-grain,Microstructure,β-grain
+Processing:Fig:Fig. 2d,Processing,Fig:Fig. 2d
+Processing:test:finite element method,Processing,test:finite element method
+Microstructure:α and β phases,Microstructure,α and β phases
+Processing:thermomechanical processing,Processing,thermomechanical processing
+Processing:Fig:Fig. 13,Processing,Fig:Fig. 13
+Processing:Fig:Fig. 5,Processing,Fig:Fig. 5
+Processing:Fig:Fig. 6,Processing,Fig:Fig. 6
+Processing:Fig:Table 2,Processing,Fig:Table 2
+Element:Mo,Element,Mo
+Element:Mo=5,Element,Mo=5
+Element:Nb,Element,Nb
+Element:Zr,Element,Zr
+Property:hardness,Property,hardness
+Element:Mo=10,Element,Mo=10
+Element:Mo=3,Element,Mo=3
+Element:Zr=30,Element,Zr=30
+Property:elongation=10%,Property,elongation=10%
+Alloy:Ti-Zr-Nb alloy,Alloy,Ti-Zr-Nb alloy
+Processing:test:TEM,Processing,test:TEM
+Processing:test:XRD,Processing,test:XRD
+Processing:Fig:Fig. 12,Processing,Fig:Fig. 12
+Processing:solution treatment,Processing,solution treatment
+Processing:test:nanoindentation,Processing,test:nanoindentation
+Processing:test:optical microscopy,Processing,test:optical microscopy
+Processing:test:tensile deformation,Processing,test:tensile deformation
+Processing:test:tensile testing,Processing,test:tensile testing
+Microstructure:acicular α phase,Microstructure,acicular α phase
+Microstructure:α' martensite,Microstructure,α' martensite
+Microstructure:α/β interface,Microstructure,α/β interface
+Microstructure:α′ martensite,Microstructure,α′ martensite
+Microstructure:β matrix,Microstructure,β matrix
+Processing:Fig:Fig. 1(b),Processing,Fig:Fig. 1(b)
+Microstructure:α/β phase interfaces,Microstructure,α/β phase interfaces
+Microstructure:single β phase,Microstructure,single β phase
+Element:Al=6,Element,Al=6
+Element:Al=3,Element,Al=3
+Element:Fe,Element,Fe
+Element:Fe=6,Element,Fe=6
+Element:V=4,Element,V=4
+Element:Zr=2,Element,Zr=2
+Property:aspect ratio=1.6None,Property,aspect ratio=1.6None
+Element:V=6,Element,V=6
+Property:aspect ratio=1.5None,Property,aspect ratio=1.5None
+Property:grain size,Property,grain size
+Processing:Directed Energy Deposition (DED),Processing,Directed Energy Deposition (DED)
+Processing:Fig:Fig. 2(a),Processing,Fig:Fig. 2(a)
+Processing:Fig:Table 3,Processing,Fig:Table 3
+Processing:aging treatment,Processing,aging treatment
+Processing:test:EDS,Processing,test:EDS
+Processing:test:tensile,Processing,test:tensile
+Microstructure:equiaxed grains,Microstructure,equiaxed grains
+Microstructure:grain,Microstructure,grain
+Microstructure:ω-phase,Microstructure,ω-phase
+Processing:Fig:Fig. 2(b),Processing,Fig:Fig. 2(b)
+Processing:Fig:Fig. 5(c),Processing,Fig:Fig. 5(c)
+Processing:laser cladding,Processing,laser cladding
+Element:Al=5,Element,Al=5
+Element:Cr=3,Element,Cr=3
+Element:V=5,Element,V=5
+Property:flow stress,Property,flow stress
+Property:strength,Property,strength
+Property:density,Property,density
+Alloy:Ti-5553,Alloy,Ti-5553
+Alloy:Ti-5553 alloy,Alloy,Ti-5553 alloy
+Processing:Fig:Fig. 3c,Processing,Fig:Fig. 3c
+Processing:forging,Processing,forging
+Processing:sintering,Processing,sintering
+Processing:test:tensile test,Processing,test:tensile test
+Processing:Fig:Fig. 4a,Processing,Fig:Fig. 4a
+Processing:hot forging,Processing,hot forging
+Processing:test:hardness test,Processing,test:hardness test
+Processing:test:hot compression test,Processing,test:hot compression test
+Microstructure:pores,Microstructure,pores
+Microstructure:porosity,Microstructure,porosity
+Processing:Fig:Fig. 20,Processing,Fig:Fig. 20
+Microstructure:DRV (dynamic recovery),Microstructure,DRV (dynamic recovery)
+Microstructure:DRX (dynamic recrystallization),Microstructure,DRX (dynamic recrystallization)
+Processing:Fig:Fig. 4b,Processing,Fig:Fig. 4b
+Processing:test:microstructure analysis,Processing,test:microstructure analysis
+Processing:powder metallurgy,Processing,powder metallurgy
+Processing:annealing(1000 °C),Processing,annealing(1000 °C)
+Microstructure:continuous dynamic recrystallization (CDRX),Microstructure,continuous dynamic recrystallization (CDRX)
+Element:Mo=2,Element,Mo=2
+Element:V,Element,V
+Property:elastic modulus,Property,elastic modulus
+Property:plasticity,Property,plasticity
+Property:uniform elongation,Property,uniform elongation
+Property:yield strength,Property,yield strength
+Element:Cr=2,Element,Cr=2
+Element:Sn=4,Element,Sn=4
+Processing:Fig:Fig. 3(d),Processing,Fig:Fig. 3(d)
+Processing:Fig:Fig. 4(b),Processing,Fig:Fig. 4(b)
+Processing:annealing,Processing,annealing
+Processing:hot-rolling,Processing,hot-rolling
+Processing:rolling,Processing,rolling
+Microstructure:ω phase,Microstructure,ω phase
+Processing:hot rolling,Processing,hot rolling
+Microstructure:recrystallized grains,Microstructure,recrystallized grains
+Microstructure:twins,Microstructure,twins
+Microstructure:texture,Microstructure,texture
+Processing:test:deformation mechanism analysis,Processing,test:deformation mechanism analysis
+Microstructure:high dislocation density,Microstructure,high dislocation density
+"Microstructure:α"" martensite",Microstructure,"α"" martensite"
+Microstructure:α″ martensite,Microstructure,α″ martensite
+Element:Al,Element,Al
+Element:Fe=1,Element,Fe=1
+Element:Mn,Element,Mn
+Element:Nb=20,Element,Nb=20
+Element:Sn,Element,Sn
+Element:Ta,Element,Ta
+Property:Young's modulus,Property,Young's modulus
+Property:microhardness,Property,microhardness
+Element:Mo=15,Element,Mo=15
+Element:Nb=13,Element,Nb=13
+Element:Zr=13,Element,Zr=13
+Element:Nb=30,Element,Nb=30
+Element:Si,Element,Si
+Alloy:Ti-6Al-4V,Alloy,Ti-6Al-4V
+Alloy:Ti-13Nb-13Zr,Alloy,Ti-13Nb-13Zr
+Processing:selective laser melting,Processing,selective laser melting
+Alloy:Ti-15Mo,Alloy,Ti-15Mo
+Alloy:Ti6Al4V,Alloy,Ti6Al4V
+Processing:Fig:Table 4,Processing,Fig:Table 4
+Processing:PBF-LB,Processing,PBF-LB
+Processing:additively manufactured,Processing,additively manufactured
+Processing:test:LOM,Processing,test:LOM
+Processing:test:microhardness,Processing,test:microhardness
+Alloy:Ti–6Al–4V,Alloy,Ti–6Al–4V
+Processing:test:resonant ultrasound spectroscopy,Processing,test:resonant ultrasound spectroscopy
+Microstructure:columnar grains,Microstructure,columnar grains
+Microstructure:elongated grains,Microstructure,elongated grains
+Microstructure:powder morphology,Microstructure,powder morphology
+Element:Cr=1,Element,Cr=1
+Property:UTS,Property,UTS
+Property:elongation,Property,elongation
+Alloy:Ti-5Al-5Mo-5V-1Cr-1Fe,Alloy,Ti-5Al-5Mo-5V-1Cr-1Fe
+Alloy:Ti-5Al-5Mo-5V-1Cr-1Fe alloy,Alloy,Ti-5Al-5Mo-5V-1Cr-1Fe alloy
+Microstructure:alpha phase,Microstructure,alpha phase
+Microstructure:beta phase,Microstructure,beta phase
+Microstructure:bphase,Microstructure,bphase
+Microstructure:matrix,Microstructure,matrix
+Element:Nb=25,Element,Nb=25
+Alloy:Ti64,Alloy,Ti64
+Processing:Fig:Fig. 1(a),Processing,Fig:Fig. 1(a)
+Processing:additive manufacturing (AM),Processing,additive manufacturing (AM)
+Processing:arc melting,Processing,arc melting
+Processing:casting,Processing,casting
+Processing:test:nano-indentation,Processing,test:nano-indentation
+Microstructure:α’’ phase,Microstructure,α’’ phase
+Microstructure:α'' phase,Microstructure,α'' phase
+Element:Al=5.16,Element,Al=5.16
+Element:Cr=1.1,Element,Cr=1.1
+Element:Fe=0.98,Element,Fe=0.98
+Element:Mo=4.92,Element,Mo=4.92
+Element:V=4.96,Element,V=4.96
+Alloy:Ti-55511 alloy,Alloy,Ti-55511 alloy
+Processing:Fig:Fig. 3a,Processing,Fig:Fig. 3a
+Processing:Fig:Fig. 5a,Processing,Fig:Fig. 5a
+Processing:Fig:Fig. 5b,Processing,Fig:Fig. 5b
+Processing:Fig:Figs. 3 and 4,Processing,Fig:Figs. 3 and 4
+Processing:hot-rolled,Processing,hot-rolled
+Processing:test:metallography,Processing,test:metallography
+Microstructure:twin,Microstructure,twin
+Microstructure:ultrafine grains,Microstructure,ultrafine grains
+Microstructure:α lath,Microstructure,α lath
+Microstructure:α laths,Microstructure,α laths
+Microstructure:β grains,Microstructure,β grains
+Processing:Fig:Fig. 2b,Processing,Fig:Fig. 2b
+Element:Cr,Element,Cr
+Element:Cr=12,Element,Cr=12
+Element:Sn=3,Element,Sn=3
+Property:hardness=295HV1,Property,hardness=295HV1
+Alloy:TiCr3Sn,Alloy,TiCr3Sn
+Processing:LPBF,Processing,LPBF
+Processing:laser powder bed fusion,Processing,laser powder bed fusion
+Processing:test:EDX,Processing,test:EDX
+Processing:test:corrosion test,Processing,test:corrosion test
+Processing:test:hardness,Processing,test:hardness
+Microstructure:omega phase,Microstructure,omega phase
+Microstructure:ω_iso precipitates,Microstructure,ω_iso precipitates
+Element:B=0.1,Element,B=0.1
+Element:C=0.1,Element,C=0.1
+Element:Sn=2,Element,Sn=2
+Processing:test:hot deformation,Processing,test:hot deformation
+Microstructure:DRX grains,Microstructure,DRX grains
+Microstructure:bcc structure,Microstructure,bcc structure
+Microstructure:dynamic recrystallization,Microstructure,dynamic recrystallization
+Processing:Fig:Fig. 5(d),Processing,Fig:Fig. 5(d)
+Processing:Fig:Fig. 6 a and b,Processing,Fig:Fig. 6 a and b
+Processing:Fig:Fig. 6 c and d,Processing,Fig:Fig. 6 c and d
+Processing:Fig:Fig. 7 a,Processing,Fig:Fig. 7 a
+Processing:SLM,Processing,SLM
+Processing:test:OM,Processing,test:OM
+Microstructure:LAGB,Microstructure,LAGB
+Microstructure:beta grain,Microstructure,beta grain
+Microstructure:beta grains,Microstructure,beta grains
+Microstructure:equiaxed crystals,Microstructure,equiaxed crystals
+Microstructure:fiber texture,Microstructure,fiber texture
+Microstructure:low-angle grain boundaries,Microstructure,low-angle grain boundaries
+Microstructure:prior beta grains,Microstructure,prior beta grains
+Microstructure:recrystallization,Microstructure,recrystallization
+Processing:LMD,Processing,LMD
+Processing:laser metal deposition,Processing,laser metal deposition
+Processing:beta heat treatment,Processing,beta heat treatment
+Microstructure:prior grains,Microstructure,prior grains
+Element:Mo=7,Element,Mo=7
+Element:Mo=4,Element,Mo=4
+Processing:Fig:Fig. 10(a),Processing,Fig:Fig. 10(a)
+Processing:Fig:Fig. 10(b),Processing,Fig:Fig. 10(b)
+Processing:Fig:Fig. 14,Processing,Fig:Fig. 14
+Processing:test:X-ray diffraction (XRD),Processing,test:X-ray diffraction (XRD)
+Processing:test:electron backscatter diffraction (EBSD),Processing,test:electron backscatter diffraction (EBSD)
+Processing:test:uniaxial tensile test,Processing,test:uniaxial tensile test
+Microstructure:sub-grain boundaries,Microstructure,sub-grain boundaries
+Microstructure:β grain,Microstructure,β grain
+Processing:test:transmission electron microscopy (TEM),Processing,test:transmission electron microscopy (TEM)
+Microstructure:twin boundaries,Microstructure,twin boundaries
+Element:W,Element,W
+Alloy:Ti65 alloy,Alloy,Ti65 alloy
+Processing:test:cooling rate experiment,Processing,test:cooling rate experiment
+Processing:test:simulation,Processing,test:simulation
+Microstructure:matrix phase,Microstructure,matrix phase
+Microstructure:αp grains,Microstructure,αp grains
+Property:ductility,Property,ductility
+Processing:Fig:Fig. 15,Processing,Fig:Fig. 15
+Processing:Fig:Graphical abstract,Processing,Fig:Graphical abstract
+Processing:test:optical microscopy (OM),Processing,test:optical microscopy (OM)
+Processing:test:scanning electron microscopy (SEM),Processing,test:scanning electron microscopy (SEM)
+Microstructure:coarse grains,Microstructure,coarse grains
+Microstructure:dynamic recrystallization (DRX),Microstructure,dynamic recrystallization (DRX)
+Processing:Fig:Fig. 25,Processing,Fig:Fig. 25
+Processing:water quenching,Processing,water quenching
+Microstructure:grain structure,Microstructure,grain structure
+Microstructure:α colony,Microstructure,α colony
+Microstructure:macrostructure,Microstructure,macrostructure
+Microstructure:GB-α,Microstructure,GB-α
+Element:Al=2,Element,Al=2
+Element:Fe=2,Element,Fe=2
+Element:Mo=9.2,Element,Mo=9.2
+Element:Zr=1,Element,Zr=1
+Element:Mo=6,Element,Mo=6
+Processing:test:SAED,Processing,test:SAED
+Microstructure:martensite,Microstructure,martensite
+Processing:homogenization,Processing,homogenization
+Processing:water quench,Processing,water quench
+Microstructure:adiabatic shear band,Microstructure,adiabatic shear band
+Microstructure:adiabatic shear band (ASB),Microstructure,adiabatic shear band (ASB)
+Microstructure:micro-voids,Microstructure,micro-voids
+Property:work hardening rate,Property,work hardening rate
+Property:yield stress,Property,yield stress
+Processing:Fig:Fig. 16,Processing,Fig:Fig. 16
+Processing:solution treatment (ST),Processing,solution treatment (ST)
+Processing:test:compression test,Processing,test:compression test
+Microstructure:dislocations,Microstructure,dislocations
+Microstructure:grain boundaries,Microstructure,grain boundaries
+Microstructure:screw dislocations,Microstructure,screw dislocations
+Processing:Fig:Figs. 9 and 10,Processing,Fig:Figs. 9 and 10
+Processing:Fig:Fig. 17,Processing,Fig:Fig. 17
+Processing:Fig:Fig. 18,Processing,Fig:Fig. 18
+Processing:Fig:Fig. 6(a),Processing,Fig:Fig. 6(a)
+Processing:Fig:Table 5,Processing,Fig:Table 5
+Processing:Fig:Table 6,Processing,Fig:Table 6
+Microstructure:alpha lath,Microstructure,alpha lath
+Microstructure:primary alpha phase,Microstructure,primary alpha phase
+Microstructure:αp,Microstructure,αp
+Processing:test:fracture toughness,Processing,test:fracture toughness
+Microstructure:lamellar α,Microstructure,lamellar α
+Microstructure:βt,Microstructure,βt
+Microstructure:transformed β,Microstructure,transformed β
+Element:Zr=4,Element,Zr=4
+Alloy:Ti-5Al-5Mo-5V-3Cr-1Zr,Alloy,Ti-5Al-5Mo-5V-3Cr-1Zr
+Processing:AM,Processing,AM
+Processing:Fig:Fig. 8b,Processing,Fig:Fig. 8b
+Processing:Fig:Fig. 8c,Processing,Fig:Fig. 8c
+Processing:Fig:Fig. 8d,Processing,Fig:Fig. 8d
+Processing:Fig:Fig. 8e,Processing,Fig:Fig. 8e
+Processing:Fig:Fig. 8a,Processing,Fig:Fig. 8a
+Processing:Fig:Fig. 8f,Processing,Fig:Fig. 8f
+Processing:test:microstructural analysis,Processing,test:microstructural analysis
+Microstructure:α grains,Microstructure,α grains
+Microstructure:α’ martensite,Microstructure,α’ martensite
+Microstructure:colony microstructure,Microstructure,colony microstructure
+Processing:Fig:Fig. S2,Processing,Fig:Fig. S2
+Property:impact toughness,Property,impact toughness
+Property:tensile strength,Property,tensile strength
+Alloy:Ti-55511,Alloy,Ti-55511
+Processing:β forging,Processing,β forging
+Processing:test:impact toughness test,Processing,test:impact toughness test
+Microstructure:equiaxed,Microstructure,equiaxed
+Microstructure:initial microstructure,Microstructure,initial microstructure
+Microstructure:primary α (αp),Microstructure,primary α (αp)
+Microstructure:prior β grains,Microstructure,prior β grains
+Microstructure:secondary α (αs),Microstructure,secondary α (αs)
+Microstructure:αp phase,Microstructure,αp phase
+Microstructure:precipitation,Microstructure,precipitation
+Microstructure:lamellar,Microstructure,lamellar
+Element:Al=6.1,Element,Al=6.1
+Alloy:Ti6Al4V alloy,Alloy,Ti6Al4V alloy
+Processing:etching,Processing,etching
+Processing:polishing,Processing,polishing
+Microstructure:dimples,Microstructure,dimples
+Microstructure:grain size,Microstructure,grain size
+Microstructure:lamellar microstructure,Microstructure,lamellar microstructure
+Microstructure:large angle grain boundaries,Microstructure,large angle grain boundaries
+Microstructure:voids,Microstructure,voids
+Microstructure:β phases,Microstructure,β phases
+Processing:rolled,Processing,rolled
+Microstructure:dislocation density,Microstructure,dislocation density
+Microstructure:precipitates,Microstructure,precipitates
+Microstructure:lamellar α phase,Microstructure,lamellar α phase
+Microstructure:colony,Microstructure,colony
+Property:elongation=6.3%,Property,elongation=6.3%
+Property:tensile properties,Property,tensile properties
+Property:elongation=13.5%,Property,elongation=13.5%
+Alloy:Ti6242,Alloy,Ti6242
+Alloy:Ti6242 alloy,Alloy,Ti6242 alloy
+Processing:DED,Processing,DED
+Processing:Fig:Fig. 9a,Processing,Fig:Fig. 9a
+Processing:Fig:Fig. 9b,Processing,Fig:Fig. 9b
+Processing:Fig:Fig. 9e,Processing,Fig:Fig. 9e
+Processing:solution heat treatment,Processing,solution heat treatment
+Microstructure:basket-weave microstructure,Microstructure,basket-weave microstructure
+Microstructure:fine,Microstructure,fine
+Processing:Fig:Fig. 9c,Processing,Fig:Fig. 9c
+Processing:Fig:Fig. 9f,Processing,Fig:Fig. 9f
+Processing:Fig:Fig. 9g,Processing,Fig:Fig. 9g
+Property:wear rate,Property,wear rate
+Property:yield strength=1100MPa,Property,yield strength=1100MPa
+Processing:test:wear test,Processing,test:wear test
+Processing:annealing(750 °C),Processing,annealing(750 °C)
+Element:Mo=6.8,Element,Mo=6.8
+Property:ultimate tensile strength (UTS),Property,ultimate tensile strength (UTS)
+Property:yield strength (YS),Property,yield strength (YS)
+Processing:Fig:Fig. 2a,Processing,Fig:Fig. 2a
+Processing:Fig:Fig. 3d,Processing,Fig:Fig. 3d
+Processing:Fig:Fig. 6b,Processing,Fig:Fig. 6b
+Processing:aging(600 °C),Processing,aging(600 °C)
+Microstructure:Widmanstätten structure,Microstructure,Widmanstätten structure
+Microstructure:stacking faults,Microstructure,stacking faults
+Microstructure:α lamella,Microstructure,α lamella
+Alloy:Ti-10-2-3,Alloy,Ti-10-2-3
+Processing:HIP,Processing,HIP
+Processing:test:SAD,Processing,test:SAD
+Microstructure:bimodal structure,Microstructure,bimodal structure
+Microstructure:secondary α-phase,Microstructure,secondary α-phase
+Processing:Fig:Fig. 7e,Processing,Fig:Fig. 7e
+Microstructure:grain boundary α-phase,Microstructure,grain boundary α-phase
+Microstructure:β-grains,Microstructure,β-grains
+Element:Sn=1,Element,Sn=1
+Alloy:Ti12Cr,Alloy,Ti12Cr
+Alloy:Ti12Cr3Sn,Alloy,Ti12Cr3Sn
+Alloy:β-Ti alloys,Alloy,β-Ti alloys
+Processing:isothermal ageing,Processing,isothermal ageing
+Processing:test:dilatometry,Processing,test:dilatometry
+Microstructure:ω precipitates,Microstructure,ω precipitates
+Element:Al=6.6,Element,Al=6.6
+Element:Mo=3.4,Element,Mo=3.4
+Element:Al=6.5,Element,Al=6.5
+Element:Mo=3.5,Element,Mo=3.5
+Element:Nb=7,Element,Nb=7
+Element:Si=0.3,Element,Si=0.3
+Element:Zr=1.5,Element,Zr=1.5
+Property:mechanical properties,Property,mechanical properties
+Processing:EST,Processing,EST
+Processing:direct laser deposition,Processing,direct laser deposition
+Processing:directed energy deposition,Processing,directed energy deposition
+Processing:laser melting deposition,Processing,laser melting deposition
+Processing:Fig:Fig. 5 (a),Processing,Fig:Fig. 5 (a)
+Processing:test:HRTEM,Processing,test:HRTEM
+Microstructure:microstructure,Microstructure,microstructure
+Microstructure:secondary alpha phase,Microstructure,secondary alpha phase
+Microstructure:needle-like,Microstructure,needle-like
+Microstructure:alpha/beta interface,Microstructure,alpha/beta interface
+Microstructure:α/β interfaces,Microstructure,α/β interfaces
+Element:Al=4,Element,Al=4
+Element:B,Element,B
+Processing:Fig:Fig. 3(a),Processing,Fig:Fig. 3(a)
+Processing:Fig:Fig. 7(a),Processing,Fig:Fig. 7(a)
+Processing:Fig:Fig. 7(b),Processing,Fig:Fig. 7(b)
+Processing:Fig:Fig. 2(d),Processing,Fig:Fig. 2(d)
+Microstructure:subgrains,Microstructure,subgrains
+Microstructure:beta matrix,Microstructure,beta matrix
+Element:Al=5.3,Element,Al=5.3
+Element:Al=6.0,Element,Al=6.0
+Element:V=4.5,Element,V=4.5
+Element:V=7.3,Element,V=7.3
+Property:UEL,Property,UEL
+Property:median αp-phase area (A50%)=14.76μm2,Property,median αp-phase area (A50%)=14.76μm2
+Property:median αp-phase area (A50%)=16.11μm2,Property,median αp-phase area (A50%)=16.11μm2
+Property:median αp-phase area (A50%)=18.62μm2,Property,median αp-phase area (A50%)=18.62μm2
+Processing:Fig:Fig. 5c,Processing,Fig:Fig. 5c
+Processing:annealing(500°C),Processing,annealing(500°C)
+Processing:short-time annealing,Processing,short-time annealing
+Processing:short-time annealing(570°C),Processing,short-time annealing(570°C)
+Processing:solution heat treatment(875°C–955°C),Processing,solution heat treatment(875°C–955°C)
+Processing:solution treatment (STQ)(855°C to 975°C),Processing,solution treatment (STQ)(855°C to 975°C)
+Processing:solution treatment and quenching(875°C),Processing,solution treatment and quenching(875°C)
+Processing:solution treatment and quenching(895°C),Processing,solution treatment and quenching(895°C)
+Processing:solution treatment and quenching(915°C),Processing,solution treatment and quenching(915°C)
+Processing:solution treatment and quenching(935°C),Processing,solution treatment and quenching(935°C)
+Processing:solution treatment and quenching(955°C),Processing,solution treatment and quenching(955°C)
+Processing:solution treatment(915°C),Processing,solution treatment(915°C)
+Processing:test:APT,Processing,test:APT
+Processing:test:HEXRD,Processing,test:HEXRD
+Processing:test:HR-STEM,Processing,test:HR-STEM
+Processing:test:SEM-BSE,Processing,test:SEM-BSE
+Processing:test:WDS,Processing,test:WDS
+Processing:test:scanning electron microscopy,Processing,test:scanning electron microscopy
+Microstructure:characterized by high work-hardening capability and high ductility,Microstructure,characterized by high work-hardening capability and high ductility
+"Microstructure:fractions determined by converting BSE images to black and white binary, evaluated using ImageJ Fiji",Microstructure,"fractions determined by converting BSE images to black and white binary, evaluated using ImageJ Fiji"
+Microstructure:hardening of these grains,Microstructure,hardening of these grains
+Microstructure:influenced by solution heat treatment temperature,Microstructure,influenced by solution heat treatment temperature
+Microstructure:interface line density,Microstructure,interface line density
+Microstructure:martensitically transformed prior β-grains,Microstructure,martensitically transformed prior β-grains
+Microstructure:metastable α'-martensite,Microstructure,metastable α'-martensite
+Microstructure:microstructural constituents,Microstructure,microstructural constituents
+Microstructure:α' plates,Microstructure,α' plates
+Microstructure:α'-martensite,Microstructure,α'-martensite
+Microstructure:αp-phase,Microstructure,αp-phase
+Microstructure:βtrans grains,Microstructure,βtrans grains
+Element:Fe=4,Element,Fe=4
+Processing:test:high-temperature compression,Processing,test:high-temperature compression
+Processing:test:high-temperature compression test,Processing,test:high-temperature compression test
+Microstructure:basket-weave structure,Microstructure,basket-weave structure
+Processing:test:Vickers hardness,Processing,test:Vickers hardness
+Property:UTS=927MPa,Property,UTS=927MPa
+Property:fatigue life,Property,fatigue life
+Processing:laser powder bed fusion (LPBF),Processing,laser powder bed fusion (LPBF)
+Processing:additive manufacturing,Processing,additive manufacturing
+Processing:aging,Processing,aging
+Processing:test:fatigue,Processing,test:fatigue
+Processing:test:fractography,Processing,test:fractography
+Processing:test:high-cycle fatigue,Processing,test:high-cycle fatigue
+Microstructure:α precipitate,Microstructure,α precipitate
+Microstructure:αGB,Microstructure,αGB
+Element:N=0.02,Element,N=0.02
+Element:O=0.13,Element,O=0.13
+Processing:test:fatigue test,Processing,test:fatigue test
+Processing:test:fracture morphology,Processing,test:fracture morphology
+Processing:LDED,Processing,LDED
+Microstructure:defects,Microstructure,defects
+Microstructure:equiaxed microstructure,Microstructure,equiaxed microstructure
+Processing:test:fatigue crack growth,Processing,test:fatigue crack growth
+Element:Zr=3,Element,Zr=3
+Processing:test:compressive test,Processing,test:compressive test
+Processing:test:compressive yield strength,Processing,test:compressive yield strength
+Microstructure:grain refinement,Microstructure,grain refinement
+Microstructure:secondary cracks,Microstructure,secondary cracks
+Element:Cr=4,Element,Cr=4
+Alloy:Ti-35421,Alloy,Ti-35421
+Processing:Fig:Fig. 19,Processing,Fig:Fig. 19
+Microstructure:α phases,Microstructure,α phases
+Element:Ni,Element,Ni
+Property:flowability,Property,flowability
+Property:toughness,Property,toughness
+Property:wear resistance,Property,wear resistance
+Alloy:titanium alloy,Alloy,titanium alloy
+Alloy:β-titanium alloy,Alloy,β-titanium alloy
+Processing:EBM,Processing,EBM
+Processing:grinding,Processing,grinding
+Processing:test:compressive strength,Processing,test:compressive strength
+Processing:test:immersion,Processing,test:immersion
+Microstructure:pore,Microstructure,pore
+Microstructure:porous structure,Microstructure,porous structure
+Processing:test:elastic modulus,Processing,test:elastic modulus
+Processing:Fig:graphical abstract,Processing,Fig:graphical abstract
+Processing:test:microhardness test,Processing,test:microhardness test
+Processing:test:microstructural characterization,Processing,test:microstructural characterization
+Processing:aging(400 °C),Processing,aging(400 °C)
+Microstructure:α plates,Microstructure,α plates
+Processing:test:transmission electron microscopy,Processing,test:transmission electron microscopy
+Microstructure:bimodal microstructure,Microstructure,bimodal microstructure
+Alloy:TC21,Alloy,TC21
+Microstructure:TiC,Microstructure,TiC
+Microstructure:oxide layer,Microstructure,oxide layer
+Microstructure:β-Ti phase,Microstructure,β-Ti phase
+Element:C,Element,C
+Processing:Fig:Fig. 10a-b,Processing,Fig:Fig. 10a-b
+Processing:Fig:Fig. 10c,Processing,Fig:Fig. 10c
+Processing:Fig:Fig. 11b,Processing,Fig:Fig. 11b
+Processing:test:DSC,Processing,test:DSC
+Microstructure:α-Ti grains,Microstructure,α-Ti grains
+Processing:Fig:Fig. 10d,Processing,Fig:Fig. 10d
+Processing:Fig:Fig. 7c,Processing,Fig:Fig. 7c
+Property:strain rate sensitivity,Property,strain rate sensitivity
+Microstructure:recrystallised grains,Microstructure,recrystallised grains
+Microstructure:sub-grains,Microstructure,sub-grains
+Microstructure:phase,Microstructure,phase
+Property:compressive strength,Property,compressive strength
+Property:compressive yield strength,Property,compressive yield strength
+Processing:as-cast,Processing,as-cast
+Processing:heat treatment(900 °C),Processing,heat treatment(900 °C)
+Processing:test:HE-XRD,Processing,test:HE-XRD
+Microstructure:second phase,Microstructure,second phase
+Microstructure:shear band,Microstructure,shear band
+Element:Ti=Bal.,Element,Ti=Bal.
+Alloy:Ti-5Al-5Mo-5V-1Cr-1Fe titanium alloy,Alloy,Ti-5Al-5Mo-5V-1Cr-1Fe titanium alloy
+Processing:test:finite element simulation,Processing,test:finite element simulation
+Microstructure:deformation microstructure,Microstructure,deformation microstructure
+Alloy:Ti-64,Alloy,Ti-64
+Processing:Fig:Fig. 6a,Processing,Fig:Fig. 6a
+Processing:test:Vickers microhardness,Processing,test:Vickers microhardness
+Microstructure:HAZ,Microstructure,HAZ
+Microstructure:bi-modal microstructure,Microstructure,bi-modal microstructure
+Processing:WAAM,Processing,WAAM
+Processing:test:contour method,Processing,test:contour method
+Microstructure:fine acicular,Microstructure,fine acicular
+Microstructure:coarse columnar,Microstructure,coarse columnar
+Microstructure:HAZ bands,Microstructure,HAZ bands
+Processing:Fig:Fig. 6c,Processing,Fig:Fig. 6c
+Processing:test:Rietveld refinement,Processing,test:Rietveld refinement
+Processing:milling,Processing,milling
+Element:Nb=35,Element,Nb=35
+Alloy:Ti-35Nb,Alloy,Ti-35Nb
+Processing:Fig:Fig. 7(d),Processing,Fig:Fig. 7(d)
+Processing:test:X-ray diffraction,Processing,test:X-ray diffraction
+Processing:Fig:Fig. 10a,Processing,Fig:Fig. 10a
+Processing:Fig:Fig. 10b,Processing,Fig:Fig. 10b
+Processing:Fig:Figs. 4 and 5,Processing,Fig:Figs. 4 and 5
+Processing:Laser Powder Bed Fusion (LPBF),Processing,Laser Powder Bed Fusion (LPBF)
+Processing:Fig:Fig. 5 (b),Processing,Fig:Fig. 5 (b)
+Processing:Fig:Fig. 6 (b),Processing,Fig:Fig. 6 (b)
+Processing:test:thermo-mechanical simulation,Processing,test:thermo-mechanical simulation
+Microstructure:α lamellae,Microstructure,α lamellae
+Processing:solution treated and aged,Processing,solution treated and aged
+Property:ultimate tensile strength,Property,ultimate tensile strength
+Processing:test:electron backscatter diffraction,Processing,test:electron backscatter diffraction
+Microstructure:α-laths,Microstructure,α-laths
+Processing:machining,Processing,machining
+Processing:Fig:Fig. 7a,Processing,Fig:Fig. 7a
+Processing:Fig:Fig. 4d,Processing,Fig:Fig. 4d
+Processing:test:fracture analysis,Processing,test:fracture analysis
+Microstructure:β-matrix,Microstructure,β-matrix
+Processing:test:compressive,Processing,test:compressive
+Processing:test:FFT,Processing,test:FFT
+Processing:Fig:Fig. 9(a),Processing,Fig:Fig. 9(a)
+Processing:Fig:Fig. 9(b),Processing,Fig:Fig. 9(b)
+Processing:test:FESEM,Processing,test:FESEM
+Microstructure:martensite phase,Microstructure,martensite phase
+Microstructure:martensitic structure,Microstructure,martensitic structure
+Microstructure:needle-shaped,Microstructure,needle-shaped
+Microstructure:α2 phase,Microstructure,α2 phase
+Processing:test:ECCI,Processing,test:ECCI
+Alloy:Ti6Al7Nb,Alloy,Ti6Al7Nb
+Processing:SPS,Processing,SPS
+Processing:ball milling,Processing,ball milling
+Processing:linear friction welding,Processing,linear friction welding
+Element:V=10,Element,V=10
+Alloy:Ti-10V-2Fe-3Al,Alloy,Ti-10V-2Fe-3Al
+Processing:STA,Processing,STA
+Element:Nb=24,Element,Nb=24
+Element:Sn=8,Element,Sn=8
+Processing:annealing(800 °C),Processing,annealing(800 °C)
+Processing:test:dynamic loading,Processing,test:dynamic loading
+Processing:hot isostatic pressing (HIP),Processing,hot isostatic pressing (HIP)
+Microstructure:prior-β grains,Microstructure,prior-β grains
+Microstructure:Widmanstätten microstructure,Microstructure,Widmanstätten microstructure
+Processing:test:impact toughness,Processing,test:impact toughness
+Processing:test:pole figures,Processing,test:pole figures
+Microstructure:prior-β grain,Microstructure,prior-β grain
+Element:Al=1,Element,Al=1
+Element:Al=4.5,Element,Al=4.5
+Element:Fe=5,Element,Fe=5
+Element:V=3,Element,V=3
+Element:V=8,Element,V=8
+Alloy:SP700,Alloy,SP700
+Processing:Fig:Fig. 6(b),Processing,Fig:Fig. 6(b)
+Processing:Fig:Fig. 5(f),Processing,Fig:Fig. 5(f)
+Processing:Fig:Fig. 5(e),Processing,Fig:Fig. 5(e)
+Processing:Fig:Fig. 6(c),Processing,Fig:Fig. 6(c)
+Microstructure:grooves,Microstructure,grooves
+Processing:diffusion bonding,Processing,diffusion bonding
+Alloy:Ti-24Nb-4Zr-8Sn,Alloy,Ti-24Nb-4Zr-8Sn
+Property:hydrogen content,Property,hydrogen content
+Processing:test:shear strength test,Processing,test:shear strength test
+Processing:Fig:Fig. 1b,Processing,Fig:Fig. 1b
+Element:Nb=8,Element,Nb=8
+Microstructure:γ phase,Microstructure,γ phase
+Processing:Fig:Fig. 1a,Processing,Fig:Fig. 1a
+Processing:Fig:Fig. 1c,Processing,Fig:Fig. 1c
+Processing:Fig:Fig. 7b,Processing,Fig:Fig. 7b
+Processing:Fig:Fig. 7d,Processing,Fig:Fig. 7d
+Processing:WAAM (Wire Arc Additive Manufacturing),Processing,WAAM (Wire Arc Additive Manufacturing)
+Microstructure:parent β phase,Microstructure,parent β phase
+Processing:test:DIC,Processing,test:DIC
+Microstructure:α’’-martensite,Microstructure,α’’-martensite
+Processing:test:optical microscope,Processing,test:optical microscope
+Element:Cr=2.94,Element,Cr=2.94
+Element:Mo=7.18,Element,Mo=7.18
+Element:Nb=2.99,Element,Nb=2.99
+Element:Nb=3,Element,Nb=3
+Alloy:Ti-7333 alloy,Alloy,Ti-7333 alloy
+Microstructure:phase composition,Microstructure,phase composition
+Alloy:Ti-7333,Alloy,Ti-7333
+Processing:test:TKD,Processing,test:TKD
+Processing:welding,Processing,welding
+Microstructure:basketweave microstructure,Microstructure,basketweave microstructure
+Microstructure:α variants,Microstructure,α variants
+Property:UTS=902MPa,Property,UTS=902MPa
+Processing:solution treatment(900 °C),Processing,solution treatment(900 °C)
+Processing:test:compression testing,Processing,test:compression testing
+Processing:test:three-point bend test,Processing,test:three-point bend test
+Microstructure:coarse,Microstructure,coarse
+Processing:test:nanoindentation test,Processing,test:nanoindentation test
+Processing:mill-annealed,Processing,mill-annealed
+Processing:annealing(875 °C),Processing,annealing(875 °C)
+Microstructure:microstructural features,Microstructure,microstructural features
+Processing:Fig:Figs. 6 and 7,Processing,Fig:Figs. 6 and 7

@@ -1,0 +1,523 @@
+{
+  "center_node": {
+    "id": "n00134",
+    "type": "Paper",
+    "name": "Effect of heat treatment on the microstructure mechanical pr"
+  },
+  "degree": 46,
+  "nodes": [
+    {
+      "id": "n00002",
+      "type": "Element",
+      "name": "Al"
+    },
+    {
+      "id": "n00003",
+      "type": "Element",
+      "name": "W"
+    },
+    {
+      "id": "n00004",
+      "type": "Element",
+      "name": "V"
+    },
+    {
+      "id": "n00005",
+      "type": "Element",
+      "name": "Mo"
+    },
+    {
+      "id": "n00006",
+      "type": "Element",
+      "name": "Sn"
+    },
+    {
+      "id": "n00007",
+      "type": "Element",
+      "name": "Cr"
+    },
+    {
+      "id": "n00008",
+      "type": "Element",
+      "name": "Zr"
+    },
+    {
+      "id": "n00009",
+      "type": "Element",
+      "name": "C"
+    },
+    {
+      "id": "n00010",
+      "type": "Process",
+      "name": "Annealing"
+    },
+    {
+      "id": "n00015",
+      "type": "Microstructure",
+      "name": "Grain Refinement"
+    },
+    {
+      "id": "n00016",
+      "type": "Microstructure",
+      "name": "Recrystallization"
+    },
+    {
+      "id": "n00017",
+      "type": "Microstructure",
+      "name": "Phase Transformation"
+    },
+    {
+      "id": "n00018",
+      "type": "Microstructure",
+      "name": "α+β Dual Phase"
+    },
+    {
+      "id": "n00021",
+      "type": "Property",
+      "name": "Yield Strength"
+    },
+    {
+      "id": "n00022",
+      "type": "Property",
+      "name": "Elongation/Ductility"
+    },
+    {
+      "id": "n00023",
+      "type": "Property",
+      "name": "Corrosion Resistance"
+    },
+    {
+      "id": "n00025",
+      "type": "Property",
+      "name": "Work Hardening"
+    },
+    {
+      "id": "n00026",
+      "type": "Alloy",
+      "name": "Ti-6Al-4V"
+    },
+    {
+      "id": "n00031",
+      "type": "Element",
+      "name": "N"
+    },
+    {
+      "id": "n00032",
+      "type": "Process",
+      "name": "Powder Metallurgy"
+    },
+    {
+      "id": "n00033",
+      "type": "Microstructure",
+      "name": "Martensite (α')"
+    },
+    {
+      "id": "n00034",
+      "type": "Microstructure",
+      "name": "Precipitation"
+    },
+    {
+      "id": "n00037",
+      "type": "Element",
+      "name": "Fe"
+    },
+    {
+      "id": "n00038",
+      "type": "Element",
+      "name": "Ta"
+    },
+    {
+      "id": "n00040",
+      "type": "Element",
+      "name": "Nb"
+    },
+    {
+      "id": "n00042",
+      "type": "Process",
+      "name": "Solution Treatment"
+    },
+    {
+      "id": "n00043",
+      "type": "Process",
+      "name": "Additive Manufacturing"
+    },
+    {
+      "id": "n00045",
+      "type": "Microstructure",
+      "name": "β-Stabilized Structure"
+    },
+    {
+      "id": "n00047",
+      "type": "Property",
+      "name": "Fatigue Performance"
+    },
+    {
+      "id": "n00048",
+      "type": "Property",
+      "name": "Biocompatibility"
+    },
+    {
+      "id": "n00049",
+      "type": "Property",
+      "name": "Elastic Modulus"
+    },
+    {
+      "id": "n00050",
+      "type": "Property",
+      "name": "Ductility"
+    },
+    {
+      "id": "n00059",
+      "type": "Process",
+      "name": "SLM"
+    },
+    {
+      "id": "n00062",
+      "type": "Process",
+      "name": "EBM"
+    },
+    {
+      "id": "n00064",
+      "type": "Microstructure",
+      "name": "Columnar Grains"
+    },
+    {
+      "id": "n00065",
+      "type": "Microstructure",
+      "name": "Porosity"
+    },
+    {
+      "id": "n00066",
+      "type": "Property",
+      "name": "Fracture Toughness"
+    },
+    {
+      "id": "n00072",
+      "type": "Property",
+      "name": "Hardness"
+    },
+    {
+      "id": "n00075",
+      "type": "Alloy",
+      "name": "Ti-5Al-5Mo-5V-3Cr"
+    },
+    {
+      "id": "n00078",
+      "type": "Element",
+      "name": "Cu"
+    },
+    {
+      "id": "n00084",
+      "type": "Process",
+      "name": "Welding"
+    },
+    {
+      "id": "n00090",
+      "type": "Process",
+      "name": "LPBF"
+    },
+    {
+      "id": "n00100",
+      "type": "Property",
+      "name": "Wear Resistance"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00135",
+      "type": "Alloy",
+      "name": "Ti-45Nb"
+    },
+    {
+      "id": "n00136",
+      "type": "Alloy",
+      "name": "Ti-25Nb-25Zr"
+    },
+    {
+      "id": "n00137",
+      "type": "Alloy",
+      "name": "Ti-42Nb"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00134",
+      "target": "n00002",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00003",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00005",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00006",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00037",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00007",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00038",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00031",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00008",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00078",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00040",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00009",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00042",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00090",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00059",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00062",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00043",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00032",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00084",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00033",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00015",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00016",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00034",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00017",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00064",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00018",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00045",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00065",
+      "type": "EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00021",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00072",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00047",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00066",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00100",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00023",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00048",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00049",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00050",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00025",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00135",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00026",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00136",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00137",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    }
+  ]
+}

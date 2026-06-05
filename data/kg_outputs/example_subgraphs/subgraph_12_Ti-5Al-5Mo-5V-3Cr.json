@@ -1,0 +1,149 @@
+{
+  "center_node": {
+    "id": "n00075",
+    "type": "Alloy",
+    "name": "Ti-5Al-5Mo-5V-3Cr"
+  },
+  "degree": 12,
+  "nodes": [
+    {
+      "id": "n00069",
+      "type": "Paper",
+      "name": "Achieving high density and controlled microstructure by pred"
+    },
+    {
+      "id": "n00075",
+      "type": "Alloy",
+      "name": "Ti-5Al-5Mo-5V-3Cr"
+    },
+    {
+      "id": "n00117",
+      "type": "Paper",
+      "name": "Cost-affordable and qualified powder metallurgy metastable b"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00156",
+      "type": "Paper",
+      "name": "Evaluation of microstructure and mechanical properties of ad"
+    },
+    {
+      "id": "n00162",
+      "type": "Paper",
+      "name": "Flow softening and microstructural evolution of near β titan"
+    },
+    {
+      "id": "n00169",
+      "type": "Paper",
+      "name": "Gradient microstructure and mechanical properties of Ti-6Al-"
+    },
+    {
+      "id": "n00183",
+      "type": "Paper",
+      "name": "Hybrid manufacturing approach for landing gear applications"
+    },
+    {
+      "id": "n00195",
+      "type": "Paper",
+      "name": "Influence of heat treatment on the tensile properties of Ti1"
+    },
+    {
+      "id": "n00199",
+      "type": "Paper",
+      "name": "Influence of the process parameters on the microstructure an"
+    },
+    {
+      "id": "n00202",
+      "type": "Paper",
+      "name": "Laser additive manufacturing of new αβ titanium alloy with h"
+    },
+    {
+      "id": "n00234",
+      "type": "Paper",
+      "name": "Microstructure evolution and deformation mechanisms during c"
+    },
+    {
+      "id": "n00263",
+      "type": "Paper",
+      "name": "Powder heat treatment for cold spray additive manufacturing"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00069",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00117",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00156",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00162",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00169",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00183",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00195",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00199",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00202",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00234",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00263",
+      "target": "n00075",
+      "type": "STUDIES_ALLOY",
+      "weight": 1
+    }
+  ]
+}

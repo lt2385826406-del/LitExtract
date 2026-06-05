@@ -1,0 +1,297 @@
+{
+  "_description": "Ground Truth knowledge base of classical titanium alloy material mechanisms, used to verify whether the DAG successfully recovers known metallurgical causal relationships",
+  "_version": "1.0",
+  "_node_order": ["Element", "Alloy", "Processing", "Microstructure", "Property"],
+  "mechanisms": [
+    {
+      "id": "M01",
+      "category": "Solid Solution Strengthening",
+      "mechanism": "Solid Solution Strengthening",
+      "description": "Alpha stabilizers (Al) and beta stabilizers (V) increase strength through solid solution strengthening",
+      "triads": [
+        {
+          "cause_type": "Element", "cause": "Al",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Al forms substitutional solid solution in alpha-Ti; lattice distortion impedes dislocation motion"
+        },
+        {
+          "cause_type": "Element", "cause": "Al",
+          "effect_type": "Property", "effect": "Ultimate Tensile Strength",
+          "relation": "increase",
+          "mechanism_detail": "Solid solution strengthening effect increases ultimate tensile strength"
+        },
+        {
+          "cause_type": "Element", "cause": "V",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "V forms solid solution in beta-Ti and stabilizes the beta phase"
+        },
+        {
+          "cause_type": "Element", "cause": "V",
+          "effect_type": "Property", "effect": "Ultimate Tensile Strength",
+          "relation": "increase",
+          "mechanism_detail": "V solid solution strengthening increases ultimate tensile strength"
+        }
+      ]
+    },
+    {
+      "id": "M02",
+      "category": "Grain Refinement Strengthening",
+      "mechanism": "Hall-Petch / Grain Boundary Strengthening",
+      "description": "Grain refinement increases strength by increasing grain boundary area to impede dislocation motion",
+      "triads": [
+        {
+          "cause_type": "Microstructure", "cause": "Grain Refinement",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Hall-Petch relationship: sigma_y = sigma_0 + k * d^(-1/2)"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Fine Grain",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Fine grains increase grain boundary area, strengthening the Hall-Petch effect"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Grain Refinement",
+          "effect_type": "Property", "effect": "Ultimate Tensile Strength",
+          "relation": "increase",
+          "mechanism_detail": "Grain refinement strengthening increases both yield and ultimate tensile strength"
+        },
+        {
+          "cause_type": "Processing", "cause": "Hot Compression",
+          "effect_type": "Microstructure", "effect": "Grain Refinement",
+          "relation": "promote",
+          "mechanism_detail": "Dynamic recrystallization during hot compression refines grains"
+        },
+        {
+          "cause_type": "Processing", "cause": "Annealing",
+          "effect_type": "Microstructure", "effect": "Grain Refinement",
+          "relation": "promote",
+          "mechanism_detail": "Static recrystallization during annealing refines grains"
+        }
+      ]
+    },
+    {
+      "id": "M03",
+      "category": "Precipitation Hardening",
+      "mechanism": "Precipitation Hardening",
+      "description": "Aging treatment precipitates second-phase particles such as Ti3Al (alpha2) or silicides that impede dislocation motion",
+      "triads": [
+        {
+          "cause_type": "Processing", "cause": "Aging",
+          "effect_type": "Microstructure", "effect": "Precipitation",
+          "relation": "promote",
+          "mechanism_detail": "Aging treatment promotes second-phase precipitation from supersaturated solid solution"
+        },
+        {
+          "cause_type": "Processing", "cause": "Heat Treatment",
+          "effect_type": "Microstructure", "effect": "Precipitation",
+          "relation": "promote",
+          "mechanism_detail": "Heat treatment controls precipitate morphology and distribution"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Precipitation",
+          "effect_type": "Property", "effect": "Hardness",
+          "relation": "increase",
+          "mechanism_detail": "Precipitate particles impede dislocation motion and increase hardness"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Precipitation",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Strengthening via Orowan bypassing or shearing mechanism"
+        }
+      ]
+    },
+    {
+      "id": "M04",
+      "category": "Phase Transformation Strengthening",
+      "mechanism": "Phase Transformation Strengthening",
+      "description": "Microstructure refinement and strengthening brought by beta to alpha/alpha' martensite phase transformation",
+      "triads": [
+        {
+          "cause_type": "Processing", "cause": "Quenching",
+          "effect_type": "Microstructure", "effect": "Martensite",
+          "relation": "promote",
+          "mechanism_detail": "Rapid cooling from the beta phase region forms martensitic microstructure"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Martensite",
+          "effect_type": "Property", "effect": "Hardness",
+          "relation": "increase",
+          "mechanism_detail": "Martensitic microstructure has high dislocation density and high hardness"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Martensite",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Martensite phase transformation introduces high-density dislocations and refined microstructure, increasing strength"
+        },
+        {
+          "cause_type": "Processing", "cause": "Solution Treatment",
+          "effect_type": "Microstructure", "effect": "Martensite",
+          "relation": "promote",
+          "mechanism_detail": "Solution treatment followed by rapid cooling forms martensite"
+        }
+      ]
+    },
+    {
+      "id": "M05",
+      "category": "Lamellar Toughening",
+      "mechanism": "Crack Deflection / Lamellar Toughening",
+      "description": "Lamellar alpha microstructure increases fracture toughness through crack deflection mechanism",
+      "triads": [
+        {
+          "cause_type": "Microstructure", "cause": "Lamellar alpha",
+          "effect_type": "Property", "effect": "Fracture Toughness",
+          "relation": "increase",
+          "mechanism_detail": "Lamellar interfaces deflect cracks, increasing fracture energy dissipation"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Lamellar alpha",
+          "effect_type": "Property", "effect": "Creep Resistance",
+          "relation": "increase",
+          "mechanism_detail": "Lamellar alpha impedes dislocation climb during high-temperature creep"
+        }
+      ]
+    },
+    {
+      "id": "M06",
+      "category": "Equiaxed Ductility Enhancement",
+      "mechanism": "Equiaxed Ductility Enhancement",
+      "description": "Equiaxed alpha microstructure provides better ductility and fatigue performance",
+      "triads": [
+        {
+          "cause_type": "Microstructure", "cause": "Equiaxed alpha",
+          "effect_type": "Property", "effect": "Elongation/Ductility",
+          "relation": "increase",
+          "mechanism_detail": "Equiaxed alpha grains provide more slip systems with good deformation compatibility"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Equiaxed alpha",
+          "effect_type": "Property", "effect": "Fatigue Strength",
+          "relation": "increase",
+          "mechanism_detail": "Equiaxed microstructure suppresses fatigue crack initiation"
+        }
+      ]
+    },
+    {
+      "id": "M07",
+      "category": "Processing-Microstructure Control",
+      "mechanism": "Processing-Microstructure Control",
+      "description": "Regulation of alpha phase morphology by heat treatment and thermomechanical processing parameters",
+      "triads": [
+        {
+          "cause_type": "Processing", "cause": "Annealing",
+          "effect_type": "Microstructure", "effect": "Equiaxed alpha",
+          "relation": "promote",
+          "mechanism_detail": "Annealing in the alpha+beta phase region promotes alpha phase spheroidization to form equiaxed microstructure"
+        },
+        {
+          "cause_type": "Processing", "cause": "Forging",
+          "effect_type": "Microstructure", "effect": "Equiaxed alpha",
+          "relation": "promote",
+          "mechanism_detail": "Dynamic recrystallization during forging forms equiaxed alpha"
+        },
+        {
+          "cause_type": "Processing", "cause": "Annealing",
+          "effect_type": "Microstructure", "effect": "Lamellar alpha",
+          "relation": "promote",
+          "mechanism_detail": "Annealing in the beta phase region followed by slow cooling forms lamellar alpha microstructure"
+        },
+        {
+          "cause_type": "Processing", "cause": "Hot Compression",
+          "effect_type": "Microstructure", "effect": "Equiaxed alpha",
+          "relation": "promote",
+          "mechanism_detail": "Dynamic spheroidization during hot compression"
+        }
+      ]
+    },
+    {
+      "id": "M08",
+      "category": "Additive Manufacturing Microstructure Characteristics",
+      "mechanism": "Additive Manufacturing Microstructure",
+      "description": "Special microstructure evolution in additive manufacturing processes such as DED/LPBF",
+      "triads": [
+        {
+          "cause_type": "Processing", "cause": "Additive Manufacturing",
+          "effect_type": "Microstructure", "effect": "Acicular alpha",
+          "relation": "promote",
+          "mechanism_detail": "Rapid cooling in additive manufacturing forms acicular alpha' martensite"
+        },
+        {
+          "cause_type": "Processing", "cause": "Additive Manufacturing",
+          "effect_type": "Microstructure", "effect": "Martensite",
+          "relation": "promote",
+          "mechanism_detail": "Extremely high cooling rate (~10^3-10^6 K/s) leads to martensite transformation"
+        },
+        {
+          "cause_type": "Processing", "cause": "LPBF",
+          "effect_type": "Microstructure", "effect": "Martensite",
+          "relation": "promote",
+          "mechanism_detail": "LPBF extremely high cooling rate forms fully martensitic microstructure"
+        },
+        {
+          "cause_type": "Processing", "cause": "Additive Manufacturing",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Microstructure refinement in additive manufacturing increases strength"
+        }
+      ]
+    },
+    {
+      "id": "M09",
+      "category": "Interstitial Strengthening / Embrittlement",
+      "mechanism": "Interstitial Strengthening / Embrittlement",
+      "description": "Interstitial atoms (O/N/C) simultaneously increase strength and decrease ductility",
+      "triads": [
+        {
+          "cause_type": "Element", "cause": "O",
+          "effect_type": "Property", "effect": "Yield Strength",
+          "relation": "increase",
+          "mechanism_detail": "Oxygen atoms form interstitial solid solution in alpha-Ti, significantly strengthening it"
+        },
+        {
+          "cause_type": "Element", "cause": "O",
+          "effect_type": "Property", "effect": "Elongation/Ductility",
+          "relation": "suppress",
+          "mechanism_detail": "Interstitial oxygen atoms restrict dislocation motion and reduce ductility"
+        },
+        {
+          "cause_type": "Element", "cause": "C",
+          "effect_type": "Property", "effect": "Hardness",
+          "relation": "increase",
+          "mechanism_detail": "Carbon interstitial solid solution or TiC particle formation increases hardness"
+        }
+      ]
+    },
+    {
+      "id": "M10",
+      "category": "Titanium Matrix Composites - TiB Reinforcement",
+      "mechanism": "TiB Reinforcement (DED-TMCs)",
+      "description": "Orowan strengthening and grain refinement mechanism of TiB reinforcement phase in DED titanium alloys",
+      "triads": [
+        {
+          "cause_type": "Element", "cause": "B",
+          "effect_type": "Microstructure", "effect": "Precipitation",
+          "relation": "promote",
+          "mechanism_detail": "B reacts with Ti to in-situ form TiB whiskers/particles"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Precipitation",
+          "effect_type": "Property", "effect": "Ultimate Tensile Strength",
+          "relation": "increase",
+          "mechanism_detail": "TiB particles increase UTS through Orowan bypass strengthening"
+        },
+        {
+          "cause_type": "Microstructure", "cause": "Grain Refinement",
+          "effect_type": "Property", "effect": "Ultimate Tensile Strength",
+          "relation": "increase",
+          "mechanism_detail": "TiB pins grain boundaries and refines microstructure, Hall-Petch strengthening"
+        }
+      ]
+    }
+  ]
+}

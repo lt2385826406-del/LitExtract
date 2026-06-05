@@ -1,0 +1,1011 @@
+source,target,src_type,tgt_type,confidence,polarity,strength,claim_type
+Processing:heat treatment,Microstructure:γ',Processing,Microstructure,0.7,increase,medium,cooccurrence
+Processing:heat treatment,Property:yield strength,Processing,Property,0.6,increase,medium,cooccurrence
+Processing:heat treatment,Microstructure:TiN,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:γ',Property:fatigue strength,Microstructure,Property,0.65,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:M23C6,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Property:hardness,Microstructure,Property,0.8,increase,strong,cooccurrence
+Microstructure:γ',Microstructure:MC,Microstructure,Microstructure,0.7,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:η,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:σ,Microstructure,Microstructure,0.65,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:M3B2,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:TCP,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:oxide,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:α-Cr,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:γ',Property:residual stress,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:γ'',Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:γ',Microstructure:δ,Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:EL,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:ultimate tensile strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:creep rupture life,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:yield strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:HV,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ',Property:creep strain,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ',Property:creep life,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ',Property:potentiodynamic polarization,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:MC carbide,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ',Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Element:Mo,Microstructure:M23C6,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Mo,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Mo,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Mo,Property:hardness,Element,Property,0.65,increase,medium,cooccurrence
+Element:Mo,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:Mo,Microstructure:MC,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Mo,Microstructure:M6C,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Mo,Microstructure:η,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mo,Microstructure:σ,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Mo,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Mo,Microstructure:M3B2,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mo,Microstructure:TCP,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mo,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mo,Microstructure:carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mo,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Mo,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Mo,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Mo,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Mo,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Mo,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Mo,Property:HV,Element,Property,0.85,increase,strong,cooccurrence
+Element:Mo,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Mo,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Mo,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:Mo,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Mo,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Mo,Element:Zr,Element,Element,0.75,increase,strong,cooccurrence
+Element:Mo,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ni,Microstructure:M23C6,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Ni,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ni,Microstructure:Cr2O3,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Ni,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ni,Property:hardness,Element,Property,0.75,increase,strong,cooccurrence
+Element:Ni,Element:Si,Element,Element,0.75,increase,strong,cooccurrence
+Element:Ni,Microstructure:MC,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Ni,Microstructure:Ni3Nb,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:M6C,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Ni,Microstructure:η,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:σ,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Ni,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ni,Microstructure:M3B2,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:TCP,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:M7C3,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:α-Cr,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:Ni3Al,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ni,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ni,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ni,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ni,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ni,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ni,Property:HV,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ni,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ni,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Ni,Element:Mn,Element,Element,0.7,increase,medium,cooccurrence
+Element:Ni,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Ni,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ni,Property:Young's modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:FCC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Property:elastic modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Ni,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ni,Element:Cu,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ni,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ni,Element:Zr,Element,Element,0.75,increase,strong,cooccurrence
+Element:Ni,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ni,Microstructure:TiN,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Cr,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Cr,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Cr,Microstructure:M23C6,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Cr,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Cr,Microstructure:Cr2O3,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Cr,Property:hardness,Element,Property,0.75,increase,strong,cooccurrence
+Element:Cr,Element:Si,Element,Element,0.75,increase,strong,cooccurrence
+Element:Cr,Microstructure:MC,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:Cr,Microstructure:Ni3Nb,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:M6C,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Cr,Microstructure:η,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:σ,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Cr,Microstructure:M3B2,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:TCP,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:M7C3,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Cr,Microstructure:α-Cr,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:Ni3Al,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Cr,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Cr,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Cr,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Cr,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Cr,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Cr,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Cr,Property:HV,Element,Property,0.85,increase,strong,cooccurrence
+Element:Cr,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Cr,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Cr,Element:Mn,Element,Element,0.65,increase,medium,cooccurrence
+Element:Cr,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Cr,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Cr,Property:Young's modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Cr,Property:elastic modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Cr,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Cr,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Cr,Element:Zr,Element,Element,0.75,increase,strong,cooccurrence
+Element:Cr,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Co,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Co,Element:Cr,Element,Element,0.85,increase,strong,cooccurrence
+Element:Co,Microstructure:M23C6,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Co,Microstructure:Cr2O3,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Co,Property:hardness,Element,Property,0.65,increase,medium,cooccurrence
+Element:Co,Microstructure:Al2O3,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Co,Element:Si,Element,Element,0.65,increase,medium,cooccurrence
+Element:Co,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Co,Element:Mn,Element,Element,0.7,increase,medium,cooccurrence
+Element:Co,Microstructure:MC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Co,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Co,Property:Young's modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Co,Microstructure:FCC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Property:elastic modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Co,Property:yield strength,Element,Property,0.65,increase,medium,cooccurrence
+Element:Co,Property:ultimate tensile strength,Element,Property,0.6,increase,medium,cooccurrence
+Element:Co,Element:Cu,Element,Element,0.6,increase,medium,cooccurrence
+Element:Co,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Co,Microstructure:δ,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Element:Zr,Element,Element,0.7,increase,medium,cooccurrence
+Element:Co,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Co,Microstructure:TiN,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Co,Property:EL,Element,Property,0.6,increase,medium,cooccurrence
+Microstructure:M23C6,Property:hardness,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:M23C6,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:M23C6,Microstructure,Microstructure,0.65,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:γ',Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:hardness,Microstructure,Property,0.75,increase,strong,cooccurrence
+Microstructure:γ,Microstructure:MC,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:M6C,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:η,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:σ,Microstructure,Microstructure,0.65,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:TCP,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:M7C3,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:carbide,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:γ,Property:residual stress,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:γ'',Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:γ,Microstructure:δ,Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:EL,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:ultimate tensile strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:creep rupture life,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:yield strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:HV,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ,Property:fatigue strength,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:γ,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Property:hardness,Property:residual stress,Property,Property,0.6,increase,medium,cooccurrence
+Microstructure:Cr2O3,Microstructure:NiCr2O4,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:Cr2O3,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Processing:VIM,Processing:forging,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:VIM,Microstructure:M23C6,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:VIM,Microstructure:γ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:VIM,Microstructure:γ',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:VIM,Microstructure:γ'',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:VIM,Microstructure:δ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:VIM,Property:EL,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:VIM,Property:ultimate tensile strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:VIM,Property:creep rupture life,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:VIM,Property:yield strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:VIM,Property:HV,Processing,Property,0.8,increase,strong,cooccurrence
+Processing:forging,Microstructure:M23C6,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Processing:VIM,Processing,Processing,0.85,increase,strong,cooccurrence
+Processing:aging,Processing:forging,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:M23C6,Processing,Microstructure,0.7,increase,medium,cooccurrence
+Processing:aging,Microstructure:γ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:aging,Microstructure:γ',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:aging,Property:hardness,Processing,Property,0.7,increase,medium,cooccurrence
+Processing:aging,Microstructure:MC,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:M6C,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:aging,Microstructure:η,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:σ,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:aging,Microstructure:boride,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:aging,Microstructure:TCP,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:M7C3,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:α-Cr,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:carbide,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:aging,Microstructure:γ'',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:aging,Microstructure:δ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:aging,Property:EL,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:aging,Property:ultimate tensile strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:aging,Property:creep rupture life,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:aging,Property:yield strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:aging,Property:HV,Processing,Property,0.8,increase,strong,cooccurrence
+Processing:aging,Processing:solution heat treatment,Processing,Processing,0.65,increase,medium,cooccurrence
+Processing:aging,Processing:HIP,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:aging,Property:creep life,Processing,Property,0.6,increase,medium,cooccurrence
+Processing:aging,Processing:directional solidification,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:aging,Processing:homogenization,Processing,Processing,0.7,increase,medium,cooccurrence
+Processing:aging,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:aging,Processing:Bridgman directional solidification,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Processing:VIM,Processing,Processing,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Processing:aging,Processing,Processing,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Microstructure:γ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Microstructure:γ',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:hardness,Processing,Property,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Microstructure:γ'',Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Microstructure:δ,Processing,Microstructure,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:EL,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:ultimate tensile strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:creep rupture life,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:yield strength,Processing,Property,0.85,increase,strong,cooccurrence
+Processing:solution treatment,Property:HV,Processing,Property,0.8,increase,strong,cooccurrence
+Processing:solution treatment,Processing:HIP,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Microstructure:MC,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Property:creep life,Processing,Property,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Processing:directional solidification,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Processing:homogenization,Processing,Processing,0.6,increase,medium,cooccurrence
+Processing:solution treatment,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Al,Property:hardness,Microstructure,Property,0.6,increase,medium,cooccurrence
+Microstructure:Ni3Al,Microstructure:Ni3Nb,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:Ni3Al,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Al,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Element:Fe,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Fe,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:Fe,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Fe,Element:Cr,Element,Element,0.85,increase,strong,cooccurrence
+Element:Fe,Microstructure:MC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:Ni3Nb,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Fe,Microstructure:M6C,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Fe,Microstructure:M23C6,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Fe,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:Ni3Al,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Microstructure:carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Fe,Property:hardness,Element,Property,0.65,increase,medium,cooccurrence
+Element:Fe,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Fe,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Fe,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Fe,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Fe,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Fe,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Fe,Property:HV,Element,Property,0.8,increase,strong,cooccurrence
+Element:Fe,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Fe,Element:O,Element,Element,0.6,increase,medium,cooccurrence
+Element:Fe,Element:Mn,Element,Element,0.7,increase,medium,cooccurrence
+Element:Fe,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:Fe,Microstructure:FCC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Fe,Microstructure:Cr2O3,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Fe,Element:Cu,Element,Element,0.6,increase,medium,cooccurrence
+Element:Fe,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Fe,Element:Zr,Element,Element,0.65,increase,medium,cooccurrence
+Element:Fe,Microstructure:TiN,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:MC,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ni3Nb,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Si,Microstructure:γ',Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Si,Microstructure:M6C,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Si,Microstructure:η,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:γ,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Si,Microstructure:M23C6,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Si,Microstructure:σ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:β,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:μ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:M3B2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Laves,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:nitride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:TCP,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:M7C3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ni3Ti,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:α-Cr,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ni3Al,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Si,Microstructure:carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Property:corrosion resistance,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:hardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Si,Property:grain boundary coverage,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:area fraction of intergranular fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:area fraction of quasi-cleavage fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:GROD,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:area fraction of ductile fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ni-plating,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Nb oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:NiCr2O4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Cr2O3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:LiFeO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Li2Ni8O10,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:CrNbO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Cr oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ni3Ce,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:LiTiO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Ti oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:LiAl2Cr3O8,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Si oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Al oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Property:weight loss,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:γ'',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:δ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Si,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Si,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:C,Element:Fe,Element,Element,0.85,increase,strong,cooccurrence
+Element:C,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:C,Microstructure:MC,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:C,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:C,Microstructure:M6C,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:C,Microstructure:η,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:C,Microstructure:M23C6,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:C,Microstructure:σ,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:C,Microstructure:M3B2,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Microstructure:M7C3,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:C,Microstructure:carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Property:hardness,Element,Property,0.6,increase,medium,cooccurrence
+Element:C,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:C,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:C,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:C,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:C,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:C,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:C,Microstructure:δ,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Element:Zr,Element,Element,0.7,increase,medium,cooccurrence
+Element:C,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:C,Property:yield strength,Element,Property,0.65,increase,medium,cooccurrence
+Element:C,Property:ultimate tensile strength,Element,Property,0.65,increase,medium,cooccurrence
+Element:C,Property:EL,Element,Property,0.6,increase,medium,cooccurrence
+Element:B,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:B,Element:C,Element,Element,0.85,increase,strong,cooccurrence
+Element:B,Microstructure:MC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:B,Microstructure:Ni3Nb,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:B,Microstructure:M6C,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:B,Microstructure:η,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:γ,Element,Microstructure,0.7,increase,medium,cooccurrence
+Element:B,Microstructure:M23C6,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:B,Microstructure:σ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:β,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:boride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:μ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:M3B2,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:B,Microstructure:Laves,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:nitride,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:TCP,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:oxide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:B,Microstructure:M7C3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Ni3Ti,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:α-Cr,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Ni3Al,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:corrosion resistance,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:hardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:B,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:B,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:B,Property:grain boundary coverage,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:area fraction of intergranular fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:area fraction of quasi-cleavage fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:GROD,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:area fraction of ductile fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:B,Property:Young's modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:maximum secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:average secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:crack density,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:cycles to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:0.2% offset yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:recrystallized grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:γ-γ' eutectic,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Hf-rich carbides,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:creep behavior,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:creep life,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:creep strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Element:Cu,Element,Element,0.55,increase,medium,cooccurrence
+Element:B,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:B,Element:S,Element,Element,0.55,increase,medium,cooccurrence
+Element:B,Element:P,Element,Element,0.55,increase,medium,cooccurrence
+Element:B,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:γ'',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:δ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Element:Zr,Element,Element,0.7,increase,medium,cooccurrence
+Element:B,Microstructure:Ti-Nb rich carbo-oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Hf/Ta-rich carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:MC carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:crack count density,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:crack area fraction,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:average crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:average crack width,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:creep time to 0.3% strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Ni7Zr2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Microstructure:Ni2Y,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:B,Property:yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:ultimate tensile strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:B,Property:EL,Element,Property,0.55,increase,medium,cooccurrence
+Microstructure:MC,Microstructure:η,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:MC,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Nb,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Nb,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:M6C,Microstructure:M23C6,Microstructure,Microstructure,0.65,increase,medium,cooccurrence
+Microstructure:M6C,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:M6C,Microstructure:carbide,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:boride,Property:corrosion resistance,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:boride,Property:hardness,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:oxide,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:η,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:M23C6,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:σ,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:M3B2,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:TCP,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:oxide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Microstructure:α-Cr,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Property:corrosion resistance,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Property:hardness,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Property:yield strength,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Property:strength increment,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:carbide,Property:ultimate tensile strength,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:η,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:σ,Microstructure:MC,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:σ,Microstructure:η,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:σ,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:M3B2,Microstructure:MC,Microstructure,Microstructure,0.6,increase,medium,cooccurrence
+Microstructure:M3B2,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:TCP,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:β,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:β,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:μ,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:μ,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Laves,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Laves,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:nitride,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:nitride,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:M7C3,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:M7C3,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Ti,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Ni3Ti,Microstructure:carbide,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:α-Cr,Microstructure:boride,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:α-Cr,Property:hardness,Microstructure,Property,0.6,increase,medium,cooccurrence
+Processing:remelting,Microstructure:boride,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:remelting,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:hardfacing,Microstructure:boride,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:hardfacing,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:thermal exposure,Microstructure:γ,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:thermal exposure,Microstructure:γ',Processing,Microstructure,0.65,increase,medium,cooccurrence
+Element:Al,Element:Cr,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Al,Element:Fe,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Al,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Al,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Al,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Al,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Al,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Al,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Al,Property:HV,Element,Property,0.85,increase,strong,cooccurrence
+Element:Al,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Al,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:Al,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Al,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:Al,Element:B,Element,Element,0.85,increase,strong,cooccurrence
+Element:Al,Microstructure:MC,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Al,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Al,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Al,Property:Young's modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:Al,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Al,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Al,Element:Zr,Element,Element,0.75,increase,strong,cooccurrence
+Element:Al,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Al,Property:hardness,Element,Property,0.6,increase,medium,cooccurrence
+Element:W,Element:Al,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Element:C,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Microstructure:M7C3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:Al2O3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:W,Property:hot hardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:volume loss,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Element:Nb,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Microstructure:MC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:W,Microstructure:σ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:W,Microstructure:η,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Element:Others,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:W,Element:Fe,Element,Element,0.8,increase,strong,cooccurrence
+Element:W,Element:Ti,Element,Element,0.85,increase,strong,cooccurrence
+Element:W,Property:NDT,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:reduction of area,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:NST,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Element:B,Element,Element,0.75,increase,strong,cooccurrence
+Element:W,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Property:Young's modulus,Element,Property,0.6,increase,medium,cooccurrence
+Element:W,Property:maximum secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:average secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:crack density,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:cycles to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:0.2% offset yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:recrystallized grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:yield strength,Element,Property,0.65,increase,medium,cooccurrence
+Element:W,Property:E,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:ultimate tensile strength,Element,Property,0.6,increase,medium,cooccurrence
+Element:W,Property:fatigue strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:γ-γ' eutectic,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:Hf-rich carbides,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:creep behavior,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:creep strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Element:Ir,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:micro-voids,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:twin,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:TCP,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:recrystallized grains,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:steady crack growth rate,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:total life to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:HV,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Element:Zr,Element,Element,0.7,increase,medium,cooccurrence
+Element:W,Microstructure:Ti-Nb rich carbo-oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:Hf/Ta-rich carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:W,Microstructure:oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:crack count density,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:crack area fraction,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:average crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:average crack width,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:cavities,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:disordered phase,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:clusters,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:Re-rich dislocations,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:LAGB,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Element:Si,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Element:O,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:creep time to 0.3% strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:Vickers microhardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Element:V,Element,Element,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:Ti0.25Al0.75,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:dendrite,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:star-shaped inclusions,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:TiCrAl,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:TiNi,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:TiCo0.5Ni0.5,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:nanohardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:coefficient of friction,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:specific wear rate,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:dislocation pairs,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:micropores,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:stacking faults,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:HEI,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:EL,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:hydrogen content,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:oxide layer,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:hardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Property:Vickers hardness (room temperature after cycles),Element,Property,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:M23C6,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Microstructure:M6C,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:W,Property:strength increment,Element,Property,0.55,increase,medium,cooccurrence
+Microstructure:Al2O3,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ti,Element:Fe,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:Al,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:Cr,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ti,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ti,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ti,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ti,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ti,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ti,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ti,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Ti,Property:HV,Element,Property,0.8,increase,strong,cooccurrence
+Element:Ti,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ti,Element:Si,Element,Element,0.7,increase,medium,cooccurrence
+Element:Ti,Element:O,Element,Element,0.65,increase,medium,cooccurrence
+Element:Ti,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ti,Element:C,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:B,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ti,Microstructure:MC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ti,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ti,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ti,Element:Zr,Element,Element,0.75,increase,strong,cooccurrence
+Element:Ti,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ti,Property:hardness,Element,Property,0.6,increase,medium,cooccurrence
+Element:Nb,Element:Fe,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Mo,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Ti,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Al,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Ni,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Cr,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Microstructure:γ'',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Nb,Microstructure:δ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Nb,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Nb,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Nb,Property:EL,Element,Property,0.85,increase,strong,cooccurrence
+Element:Nb,Property:ultimate tensile strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Nb,Property:creep rupture life,Element,Property,0.85,increase,strong,cooccurrence
+Element:Nb,Property:yield strength,Element,Property,0.85,increase,strong,cooccurrence
+Element:Nb,Property:HV,Element,Property,0.8,increase,strong,cooccurrence
+Element:Nb,Element:C,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:Nb,Microstructure:MC,Element,Microstructure,0.65,increase,medium,cooccurrence
+Element:Nb,Microstructure:σ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:η,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Element:Others,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Nb,Property:NDT,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:reduction of area,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:NST,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:E,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:fatigue strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Element:B,Element,Element,0.8,increase,strong,cooccurrence
+Element:Nb,Microstructure:γ-γ' eutectic,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Hf-rich carbides,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:creep behavior,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:creep strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Element:Si,Element,Element,0.65,increase,medium,cooccurrence
+Element:Nb,Element:Ce,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni-plating,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Nb oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni3Nb,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:NiCr2O4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Cr2O3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:LiFeO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Li2Ni8O10,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:CrNbO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Cr oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni3Ce,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:LiTiO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ti oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni3Al,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:LiAl2Cr3O8,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Si oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Al oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:weight loss,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Element:Cu,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Element:N,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Element:O,Element,Element,0.6,increase,medium,cooccurrence
+Element:Nb,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Element:S,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Element:Mn,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Element:P,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:annealing twins,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:flow stress,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Element:Zr,Element,Element,0.7,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ti-Nb rich carbo-oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Hf/Ta-rich carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Nb,Microstructure:oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:crack count density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:crack area fraction,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:average crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:average crack width,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:creep time to 0.3% strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:Vickers microhardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Element:V,Element,Element,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ti0.25Al0.75,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:dendrite,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:star-shaped inclusions,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:TiCrAl,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:TiNi,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:TiCo0.5Ni0.5,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:Young's modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:nanohardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:coefficient of friction,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:specific wear rate,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni7Zr2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:Ni2Y,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:M3B2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Microstructure:oxide layer,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Nb,Property:hardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:Nb,Property:Vickers hardness (room temperature after cycles),Element,Property,0.55,increase,medium,cooccurrence
+Microstructure:γ'',Property:EL,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ'',Property:ultimate tensile strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ'',Property:creep rupture life,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ'',Property:yield strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:γ'',Property:HV,Microstructure,Property,0.8,increase,strong,cooccurrence
+Microstructure:δ,Microstructure:γ'',Microstructure,Microstructure,0.85,increase,strong,cooccurrence
+Microstructure:δ,Property:EL,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:δ,Property:ultimate tensile strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:δ,Property:creep rupture life,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:δ,Property:yield strength,Microstructure,Property,0.85,increase,strong,cooccurrence
+Microstructure:δ,Property:HV,Microstructure,Property,0.8,increase,strong,cooccurrence
+Microstructure:δ,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Property:EL,Property:yield strength,Property,Property,0.85,increase,strong,cooccurrence
+Property:ultimate tensile strength,Property:EL,Property,Property,0.85,increase,strong,cooccurrence
+Property:ultimate tensile strength,Property:yield strength,Property,Property,0.85,increase,strong,cooccurrence
+Property:creep rupture life,Property:EL,Property,Property,0.85,increase,strong,cooccurrence
+Property:creep rupture life,Property:ultimate tensile strength,Property,Property,0.85,increase,strong,cooccurrence
+Property:creep rupture life,Property:yield strength,Property,Property,0.85,increase,strong,cooccurrence
+Property:HV,Property:creep rupture life,Property,Property,0.8,increase,strong,cooccurrence
+Alloy:IN718,Processing:VIM,Alloy,Processing,0.85,increase,strong,cooccurrence
+Alloy:IN718,Processing:solution treatment,Alloy,Processing,0.85,increase,strong,cooccurrence
+Alloy:IN718,Processing:aging,Alloy,Processing,0.85,increase,strong,cooccurrence
+Alloy:IN718,Property:EL,Alloy,Property,0.85,increase,strong,cooccurrence
+Alloy:IN718,Property:ultimate tensile strength,Alloy,Property,0.85,increase,strong,cooccurrence
+Alloy:IN718,Property:creep rupture life,Alloy,Property,0.85,increase,strong,cooccurrence
+Alloy:IN718,Property:yield strength,Alloy,Property,0.85,increase,strong,cooccurrence
+Alloy:IN718,Property:HV,Alloy,Property,0.8,increase,strong,cooccurrence
+Element:N,Microstructure:M23C6,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:M6C,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Property:grain boundary coverage,Element,Property,0.55,increase,medium,cooccurrence
+Element:N,Property:area fraction of intergranular fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:N,Property:area fraction of quasi-cleavage fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:N,Property:GROD,Element,Property,0.55,increase,medium,cooccurrence
+Element:N,Property:area fraction of ductile fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:N,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:γ'',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:γ',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:δ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Microstructure:γ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:N,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:O,Element:Si,Element,Element,0.65,increase,medium,cooccurrence
+Element:O,Microstructure:M23C6,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:M6C,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Property:grain boundary coverage,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:area fraction of intergranular fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:area fraction of quasi-cleavage fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:GROD,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:area fraction of ductile fracture,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:γ'',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:γ',Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:O,Microstructure:δ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:γ,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:O,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:O,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:O,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Mn,Element:N,Element,Element,0.6,increase,medium,cooccurrence
+Element:Mn,Element:Si,Element,Element,0.6,increase,medium,cooccurrence
+Element:Mn,Element:O,Element,Element,0.6,increase,medium,cooccurrence
+Element:Mn,Microstructure:FCC,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Mn,Microstructure:TiN,Element,Microstructure,0.55,increase,medium,cooccurrence
+Processing:solution heat treatment,Microstructure:γ,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:solution heat treatment,Microstructure:γ',Processing,Microstructure,0.6,increase,medium,cooccurrence
+Element:Hf,Element:C,Element,Element,0.8,increase,strong,cooccurrence
+Element:Hf,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Hf,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Hf,Property:creep life,Element,Property,0.6,increase,medium,cooccurrence
+Element:Hf,Element:B,Element,Element,0.7,increase,medium,cooccurrence
+Element:Hf,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Hf,Property:yield strength,Element,Property,0.6,increase,medium,cooccurrence
+Element:Hf,Element:Zr,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ta,Element:Hf,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Element:W,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Element:C,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Element:Nb,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Element:Co,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Microstructure:MC,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:σ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ta,Microstructure:η,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Ta,Element:B,Element,Element,0.75,increase,strong,cooccurrence
+Element:Ta,Element:Y,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ta,Property:Young's modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:maximum secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:average secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:crack density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:cycles to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:0.2% offset yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:recrystallized grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:yield strength,Element,Property,0.65,increase,medium,cooccurrence
+Element:Ta,Property:E,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:ultimate tensile strength,Element,Property,0.6,increase,medium,cooccurrence
+Element:Ta,Property:fatigue strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Element:Ti,Element,Element,0.85,increase,strong,cooccurrence
+Element:Ta,Microstructure:γ-γ' eutectic,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:Hf-rich carbides,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:creep behavior,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:creep life,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:creep strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Element:Ir,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:micro-voids,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:twin,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:TCP,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:recrystallized grains,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:steady crack growth rate,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:total life to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:HV,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Element:Fe,Element,Element,0.6,increase,medium,cooccurrence
+Element:Ta,Element:Zr,Element,Element,0.65,increase,medium,cooccurrence
+Element:Ta,Microstructure:Ti-Nb rich carbo-oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:Hf/Ta-rich carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:MC carbide,Element,Microstructure,0.6,increase,medium,cooccurrence
+Element:Ta,Microstructure:oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:crack count density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:crack area fraction,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:average crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:average crack width,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:cavities,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:disordered phase,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:clusters,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:Re-rich dislocations,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:LAGB,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Element:Si,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ta,Element:O,Element,Element,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:creep time to 0.3% strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:grain size,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:Vickers microhardness,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:M7C3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:Cr-rich interdendritic carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:TaC,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:EL,Element,Property,0.6,increase,medium,cooccurrence
+Element:Ta,Microstructure:dislocation pairs,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:micropores,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Microstructure:stacking faults,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ta,Property:HEI,Element,Property,0.55,increase,medium,cooccurrence
+Element:Ta,Property:hydrogen content,Element,Property,0.55,increase,medium,cooccurrence
+Processing:HIP,Microstructure:γ',Processing,Microstructure,0.6,increase,medium,cooccurrence
+Element:Y,Microstructure:γ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Y,Microstructure:γ',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Y,Property:Young's modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:maximum secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:average secondary crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:crack density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:cycles to failure,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:0.2% offset yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Y,Property:recrystallized grain size,Element,Property,0.55,increase,medium,cooccurrence
+Microstructure:FCC,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Element:Re,Element:Ta,Element,Element,0.85,increase,strong,cooccurrence
+Element:Re,Microstructure:γ,Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Re,Microstructure:γ',Element,Microstructure,0.85,increase,strong,cooccurrence
+Element:Re,Property:yield strength,Element,Property,0.6,increase,medium,cooccurrence
+Processing:directional solidification,Microstructure:γ',Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:homogenization,Microstructure:γ',Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:homogenization,Microstructure:γ,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:homogenization,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Alloy:Alloy 718,Property:yield strength,Alloy,Property,0.6,increase,medium,cooccurrence
+Alloy:Alloy 718,Processing:aging,Alloy,Processing,0.6,increase,medium,cooccurrence
+Alloy:Alloy 718,Processing:solution treatment,Alloy,Processing,0.6,increase,medium,cooccurrence
+Element:Ce,Microstructure:Ni-plating,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Nb oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Ni3Nb,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:NiCr2O4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Cr2O3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:LiFeO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Li2Ni8O10,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:CrNbO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Cr oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Ni3Ce,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:LiTiO2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Ti oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Ni3Al,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:LiAl2Cr3O8,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Si oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Microstructure:Al oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Ce,Property:weight loss,Element,Property,0.55,increase,medium,cooccurrence
+Element:Cu,Element:N,Element,Element,0.55,increase,medium,cooccurrence
+Element:Cu,Element:O,Element,Element,0.55,increase,medium,cooccurrence
+Element:Cu,Element:Mn,Element,Element,0.6,increase,medium,cooccurrence
+Element:Cu,Microstructure:TiN,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Element:Cu,Element,Element,0.55,increase,medium,cooccurrence
+Element:Sn,Element:N,Element,Element,0.55,increase,medium,cooccurrence
+Element:Sn,"Microstructure:(Nb,Ti)C",Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Microstructure:Al and Cr-rich oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Microstructure:γ'',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Microstructure:γ',Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Microstructure:δ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Microstructure:γ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Sn,Property:corrosion current,Element,Property,0.55,increase,medium,cooccurrence
+Element:S,Element:N,Element,Element,0.55,increase,medium,cooccurrence
+Element:S,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Element:P,Element:N,Element,Element,0.55,increase,medium,cooccurrence
+Element:P,Element:Sn,Element,Element,0.55,increase,medium,cooccurrence
+Processing:annealing,Microstructure:γ,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Processing:compression test,Microstructure:γ,Processing,Microstructure,0.6,increase,medium,cooccurrence
+Element:Zr,Microstructure:Ti-Nb rich carbo-oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:γ',Element,Microstructure,0.75,increase,strong,cooccurrence
+Element:Zr,Microstructure:Hf/Ta-rich carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:MC carbide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:oxide,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Property:crack count density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:crack area fraction,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:average crack length,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:average crack width,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Element:Si,Element,Element,0.55,increase,medium,cooccurrence
+Element:Zr,Element:O,Element,Element,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:NiMoO4,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:NiO,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:MoO3,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:γ,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Property:solidus temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:GND density,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:elastic modulus,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:peak temperature,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:creep time to 0.3% strain,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:Ni7Zr2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:MC,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:Ni2Y,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Microstructure:M3B2,Element,Microstructure,0.55,increase,medium,cooccurrence
+Element:Zr,Property:yield strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:ultimate tensile strength,Element,Property,0.55,increase,medium,cooccurrence
+Element:Zr,Property:EL,Element,Property,0.55,increase,medium,cooccurrence
+Alloy:DD6,Processing:aging,Alloy,Processing,0.6,increase,medium,cooccurrence
+Processing:slow strain rate tensile testing,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:carbides,Property:plastic strain at fracture,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:carbides,Property:plastic strain at crack detection,Microstructure,Property,0.55,increase,medium,cooccurrence
+Processing:grinding and polishing,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:electro discharge machining,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:polishing,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:cathodic hydrogen charging,Microstructure:carbides,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:ductile dimples,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:dislocation substructure,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:quasi-cleavage,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:dislocation slip bands,Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+"Microstructure:γ""",Microstructure:carbides,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Processing:Bridgman directional solidification,Microstructure:γ,Processing,Microstructure,0.65,increase,medium,cooccurrence
+Processing:Bridgman directional solidification,Microstructure:γ',Processing,Microstructure,0.65,increase,medium,cooccurrence
+Microstructure:TiN,Property:yield strength,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:TiN,Property:ultimate tensile strength,Microstructure,Property,0.55,increase,medium,cooccurrence
+Microstructure:TiN,Property:EL,Microstructure,Property,0.55,increase,medium,cooccurrence
+Processing:arc melting,Microstructure:TiN,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:cold rolling,Microstructure:TiN,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:brazing,Microstructure:TiN,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Cr23C6,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:Cr7C3,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Microstructure:MnO,Microstructure:TiN,Microstructure,Microstructure,0.55,increase,medium,cooccurrence
+Processing:argon arc-melting,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:isothermal compression test,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence
+Processing:tensile test,Microstructure:carbide,Processing,Microstructure,0.55,increase,medium,cooccurrence

@@ -1,0 +1,2009 @@
+[
+  {
+    "elements": [],
+    "alloy_names": [
+      "CMSX-4"
+    ],
+    "processes": [
+      "heat treatment"
+    ],
+    "microstructures": [
+      "γ'"
+    ],
+    "properties": [
+      "fatigue life"
+    ],
+    "title": "",
+    "folder": "10"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "VIM",
+      "forging",
+      "aging",
+      "solution treatment"
+    ],
+    "microstructures": [
+      "M23C6",
+      "γ",
+      "Cr2O3",
+      "γ'"
+    ],
+    "properties": [
+      "wear rate",
+      "hardness",
+      "CoF"
+    ],
+    "title": "",
+    "folder": "11"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Inconel 718",
+      "Cr2O3",
+      "Ti",
+      "Ni"
+    ],
+    "processes": [
+      "annealing and relaxation"
+    ],
+    "microstructures": [
+      "oxide"
+    ],
+    "properties": [
+      "static coefficient of friction",
+      "critical shear stress"
+    ],
+    "title": "",
+    "folder": "12"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "René 108DS"
+    ],
+    "processes": [
+      "electroless pure nickel plating",
+      "aluminizing"
+    ],
+    "microstructures": [
+      "TGO",
+      "α-Al2O3",
+      "β-NiAl",
+      "IDZ",
+      "hafnium precipitates"
+    ],
+    "properties": [
+      "mass gain"
+    ],
+    "title": "",
+    "folder": "13"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Inconel 718"
+    ],
+    "processes": [
+      "boroaluminizing"
+    ],
+    "microstructures": [
+      "NiAl",
+      "FeB",
+      "Ni4B3",
+      "NiB",
+      "Ni3Al",
+      "CrB",
+      "Ni2Al3"
+    ],
+    "properties": [
+      "corrosion potential",
+      "hardness",
+      "coefficient of friction",
+      "corrosion current density"
+    ],
+    "title": "",
+    "folder": "14"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Si",
+      "C",
+      "B",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "HF",
+      "D2",
+      "D1-A",
+      "D2-A",
+      "D1"
+    ],
+    "processes": [
+      "remelting",
+      "aging",
+      "hardfacing"
+    ],
+    "microstructures": [
+      "MC",
+      "Ni3Nb",
+      "γ'",
+      "M6C",
+      "η",
+      "γ",
+      "M23C6",
+      "σ",
+      "β",
+      "boride",
+      "μ",
+      "M3B2",
+      "Laves",
+      "nitride",
+      "TCP",
+      "oxide",
+      "M7C3",
+      "Ni3Ti",
+      "α-Cr",
+      "Ni3Al",
+      "carbide"
+    ],
+    "properties": [
+      "corrosion resistance",
+      "hardness"
+    ],
+    "title": "",
+    "folder": "15"
+  },
+  {
+    "elements": [],
+    "alloy_names": [],
+    "processes": [
+      "FOD test"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "hardness",
+      "residual stress"
+    ],
+    "title": "",
+    "folder": "16"
+  },
+  {
+    "elements": [],
+    "alloy_names": [],
+    "processes": [
+      "thermal exposure",
+      "pre-straining"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep"
+    ],
+    "title": "",
+    "folder": "17"
+  },
+  {
+    "elements": [],
+    "alloy_names": [],
+    "processes": [
+      "substrate stimulating technique"
+    ],
+    "microstructures": [
+      "γ"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "19"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Inconel 625"
+    ],
+    "processes": [
+      "exposure",
+      "cladding"
+    ],
+    "microstructures": [
+      "NiO",
+      "NiCr2O4",
+      "Nb2O5",
+      "Cr2O3"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "1"
+  },
+  {
+    "elements": [
+      "W",
+      "Al",
+      "C",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "casting",
+      "aging",
+      "solution treatment"
+    ],
+    "microstructures": [
+      "M7C3",
+      "Al2O3",
+      "γ"
+    ],
+    "properties": [
+      "hot hardness",
+      "volume loss"
+    ],
+    "title": "",
+    "folder": "20"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "22"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Fe",
+      "N",
+      "Si",
+      "O",
+      "Ti",
+      "Al",
+      "Mn",
+      "C",
+      "B",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "INCONEL Alloy 617"
+    ],
+    "processes": [
+      "VIM",
+      "forging",
+      "solution heat treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "M23C6",
+      "M6C"
+    ],
+    "properties": [
+      "grain boundary coverage",
+      "area fraction of intergranular fracture",
+      "area fraction of quasi-cleavage fracture",
+      "GROD",
+      "area fraction of ductile fracture"
+    ],
+    "title": "",
+    "folder": "23"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "GH4169"
+    ],
+    "processes": [
+      "ballistic impact test"
+    ],
+    "microstructures": [],
+    "properties": [
+      "impact resistance",
+      "residual velocity",
+      "maximum radial deformation"
+    ],
+    "title": "",
+    "folder": "24"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "25"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "René 88DT",
+      "Udimet 720Li",
+      "RR1000",
+      "Allvac 718Plus",
+      "MES"
+    ],
+    "processes": [],
+    "microstructures": [
+      "γ'"
+    ],
+    "properties": [
+      "creep strain"
+    ],
+    "title": "",
+    "folder": "26"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Al",
+      "Ta",
+      "C",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "RRHT2",
+      "RRHT4"
+    ],
+    "processes": [
+      "HIP",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "MC",
+      "σ",
+      "γ'",
+      "η",
+      "γ"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "28"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Al",
+      "Others",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "M951G"
+    ],
+    "processes": [
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep life"
+    ],
+    "title": "",
+    "folder": "29"
+  },
+  {
+    "elements": [],
+    "alloy_names": [],
+    "processes": [
+      "standard heat treatment"
+    ],
+    "microstructures": [
+      "γ'"
+    ],
+    "properties": [
+      "current density",
+      "corrosion potential (Eocp)",
+      "potentiodynamic polarization",
+      "EIS"
+    ],
+    "title": "",
+    "folder": "2"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "W",
+      "Ti",
+      "Al",
+      "C",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "AD730"
+    ],
+    "processes": [
+      "vacuum arc remelting",
+      "solution treatment",
+      "radial forging",
+      "ingot casting"
+    ],
+    "microstructures": [
+      "MC",
+      "γ'"
+    ],
+    "properties": [
+      "NDT",
+      "reduction of area",
+      "NST"
+    ],
+    "title": "",
+    "folder": "30"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "31"
+  },
+  {
+    "elements": [
+      "Hf",
+      "W",
+      "Al",
+      "Ta",
+      "C",
+      "B",
+      "Y",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "SB-CoNi-10+"
+    ],
+    "processes": [
+      "solution treatment",
+      "Bridgman growth",
+      "aging"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "Young's modulus",
+      "maximum secondary crack length",
+      "average secondary crack length",
+      "crack density",
+      "cycles to failure",
+      "0.2% offset yield strength",
+      "recrystallized grain size"
+    ],
+    "title": "",
+    "folder": "32"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Ni",
+      "Mn",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "arc-melting",
+      "floating-zone directional solidification"
+    ],
+    "microstructures": [
+      "FCC"
+    ],
+    "properties": [
+      "hardness",
+      "strain rate sensitivity",
+      "activation volume",
+      "elastic modulus"
+    ],
+    "title": "",
+    "folder": "33"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Re",
+      "Al",
+      "Ta",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "vacuum directional solidification",
+      "chemical etching",
+      "mechanical grinding",
+      "electric discharge machining",
+      "electrolytic polishing"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "YS",
+      "E",
+      "UTS",
+      "fatigue life"
+    ],
+    "title": "",
+    "folder": "34"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Ti",
+      "Al",
+      "Ta",
+      "C",
+      "B",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "GTD444",
+      "Mar-M200",
+      "DS200"
+    ],
+    "processes": [
+      "directional solidification",
+      "induction melting",
+      "aging",
+      "heat treatment",
+      "LMC (liquid metal cooling)",
+      "cooling",
+      "solution treatment"
+    ],
+    "microstructures": [
+      "γ-γ' eutectic",
+      "Hf-rich carbides",
+      "γ'"
+    ],
+    "properties": [
+      "creep behavior",
+      "creep life",
+      "creep strain"
+    ],
+    "title": "",
+    "folder": "35"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Re",
+      "Al",
+      "Ir",
+      "Ta",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "Alloy A",
+      "Alloy B"
+    ],
+    "processes": [
+      "homogenization",
+      "TDCG test",
+      "fatigue pre-cracking",
+      "aging"
+    ],
+    "microstructures": [
+      "micro-voids",
+      "γ'",
+      "twin",
+      "TCP",
+      "γ",
+      "recrystallized grains"
+    ],
+    "properties": [
+      "steady crack growth rate",
+      "total life to failure"
+    ],
+    "title": "",
+    "folder": "36"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "37"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Alloy 718"
+    ],
+    "processes": [
+      "solution heat treatment",
+      "cathodic charging",
+      "slow strain rate testing"
+    ],
+    "microstructures": [
+      "γ",
+      "S3 twin boundaries"
+    ],
+    "properties": [
+      "UTS",
+      "YS",
+      "HER",
+      "EL"
+    ],
+    "title": "",
+    "folder": "38"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Si",
+      "Ce",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "N107",
+      "N108",
+      "N105"
+    ],
+    "processes": [
+      "cyclic corrosion test",
+      "isothermal corrosion test",
+      "melting",
+      "grinding",
+      "casting",
+      "polishing",
+      "cleaning"
+    ],
+    "microstructures": [
+      "Ni-plating",
+      "Nb oxide",
+      "Ni3Nb",
+      "NiCr2O4",
+      "Cr2O3",
+      "LiFeO2",
+      "Li2Ni8O10",
+      "CrNbO4",
+      "Cr oxide",
+      "Ni3Ce",
+      "LiTiO2",
+      "Ti oxide",
+      "Ni3Al",
+      "LiAl2Cr3O8",
+      "Si oxide",
+      "Al oxide"
+    ],
+    "properties": [
+      "weight loss"
+    ],
+    "title": "",
+    "folder": "39"
+  },
+  {
+    "elements": [],
+    "alloy_names": [],
+    "processes": [],
+    "microstructures": [
+      "γ'",
+      "(Ni,Co)O"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "3"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Cu",
+      "N",
+      "Si",
+      "O",
+      "Ti",
+      "Sn",
+      "Al",
+      "S",
+      "Mn",
+      "C",
+      "B",
+      "P",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "Alloy 718"
+    ],
+    "processes": [
+      "homogenization",
+      "VAR",
+      "hot rolling",
+      "VIM",
+      "aging",
+      "hot forging",
+      "solution treatment"
+    ],
+    "microstructures": [
+      "(Nb,Ti)C",
+      "Al and Cr-rich oxide",
+      "γ''",
+      "γ'",
+      "δ",
+      "γ"
+    ],
+    "properties": [
+      "corrosion current"
+    ],
+    "title": "",
+    "folder": "40"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "41"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "42"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Re",
+      "Al",
+      "Ta",
+      "C",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "directional solidification",
+      "pouring",
+      "superheating"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "HV"
+    ],
+    "title": "",
+    "folder": "43"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Ti",
+      "Al",
+      "C",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "cold drawing",
+      "annealing",
+      "water quenching",
+      "compression test"
+    ],
+    "microstructures": [
+      "δ",
+      "γ",
+      "annealing twins"
+    ],
+    "properties": [
+      "flow stress"
+    ],
+    "title": "",
+    "folder": "44"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "45"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "46"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "47"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "48"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "49"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "DD6"
+    ],
+    "processes": [
+      "heat treatment"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "galvanostatic polarization",
+      "potentiodynamic polarization"
+    ],
+    "title": "",
+    "folder": "4"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Fe",
+      "Zr",
+      "Hf",
+      "W",
+      "Ti",
+      "Al",
+      "Ta",
+      "C",
+      "B",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "RENE 108",
+      "RENE 65"
+    ],
+    "processes": [
+      "LPBF"
+    ],
+    "microstructures": [
+      "Ti-Nb rich carbo-oxide",
+      "γ'",
+      "Hf/Ta-rich carbide",
+      "MC carbide",
+      "oxide"
+    ],
+    "properties": [
+      "crack count density",
+      "crack area fraction",
+      "average crack length",
+      "average crack width"
+    ],
+    "title": "",
+    "folder": "50"
+  },
+  {
+    "elements": [
+      "Al+Ta",
+      "Mo",
+      "Ru",
+      "Ni",
+      "W+Re+Cr+Co+Hf"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "Bridgeman method",
+      "thermal exposure",
+      "aging",
+      "solution heat treatment",
+      "in situ heating"
+    ],
+    "microstructures": [
+      "intermediate phase with moiré pattern",
+      "γ domains in γ'",
+      "σ",
+      "γ' domains in γ",
+      "γ'",
+      "γ",
+      "γ'/σ interface"
+    ],
+    "properties": [
+      "area fraction of TCP phase"
+    ],
+    "title": "",
+    "folder": "51"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Alloy 718"
+    ],
+    "processes": [
+      "forging",
+      "heat treatment"
+    ],
+    "microstructures": [
+      "γ″",
+      "δ",
+      "γ′"
+    ],
+    "properties": [
+      "yield strength"
+    ],
+    "title": "",
+    "folder": "52"
+  },
+  {
+    "elements": [
+      "Mo",
+      "W",
+      "Re",
+      "Al",
+      "Ta",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "DD6"
+    ],
+    "processes": [
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "cavities",
+      "γ'",
+      "disordered phase",
+      "clusters",
+      "γ"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "53"
+  },
+  {
+    "elements": [
+      "Al",
+      "Ti",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "electroplating",
+      "self-propagating photopolymer waveguide prototyping",
+      "homogenization",
+      "electron beam evaporation",
+      "aging",
+      "pack cementation (alumino-titanization)",
+      "solution treatment",
+      "pack cementation (chromization)",
+      "etching"
+    ],
+    "microstructures": [
+      "γ'-Ni3(Al,Ti)",
+      "Ni2AlTi",
+      "γ'",
+      "α-Cr"
+    ],
+    "properties": [
+      "microhardness",
+      "ultimate strength (normalized)"
+    ],
+    "title": "",
+    "folder": "54"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Alloy 718"
+    ],
+    "processes": [
+      "slow strain rate tensile testing",
+      "aging",
+      "grinding and polishing",
+      "solution treatment",
+      "electro discharge machining",
+      "polishing",
+      "cathodic hydrogen charging"
+    ],
+    "microstructures": [
+      "ductile dimples",
+      "dislocation substructure",
+      "quasi-cleavage",
+      "γ'",
+      "dislocation slip bands",
+      "γ\"",
+      "δ",
+      "γ",
+      "carbides"
+    ],
+    "properties": [
+      "plastic strain at fracture",
+      "plastic strain at crack detection"
+    ],
+    "title": "",
+    "folder": "55"
+  },
+  {
+    "elements": [
+      "Mo",
+      "W",
+      "Ti",
+      "Re",
+      "Al",
+      "Ta",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "ERBO/1 (CMSX-4 type)"
+    ],
+    "processes": [
+      "solution annealing and homogenization",
+      "Bridgman directional solidification",
+      "precipitation annealing"
+    ],
+    "microstructures": [
+      "Re-rich dislocations",
+      "γ",
+      "LAGB",
+      "γ'"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "56"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Zr",
+      "Si",
+      "O",
+      "W",
+      "Ti",
+      "Al",
+      "Ta",
+      "C",
+      "B",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "IN738"
+    ],
+    "processes": [
+      "direct laser deposition"
+    ],
+    "microstructures": [
+      "NiMoO4",
+      "γ'",
+      "NiO",
+      "MoO3",
+      "γ"
+    ],
+    "properties": [
+      "solidus temperature",
+      "GND density",
+      "elastic modulus",
+      "peak temperature"
+    ],
+    "title": "",
+    "folder": "57"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Re",
+      "Ti",
+      "Al",
+      "Ta",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "ERBO1/C"
+    ],
+    "processes": [
+      "annealing",
+      "initial exposure"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "58"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Fe",
+      "Zr",
+      "W",
+      "Ti",
+      "Al",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "GH4720Li"
+    ],
+    "processes": [
+      "hot compression",
+      "tensile test",
+      "heat treatment"
+    ],
+    "microstructures": [
+      "γ'"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "59"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "creep rupture life",
+      "UTS",
+      "YS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "5"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Zr",
+      "Hf",
+      "Fe",
+      "W",
+      "Ti",
+      "Al",
+      "Ta",
+      "C",
+      "B",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "TSNA-5",
+      "LSHR",
+      "TSNA-6",
+      "ME3",
+      "TSNA-2",
+      "TSNA-3",
+      "TSNA-4",
+      "TSNA-1"
+    ],
+    "processes": [
+      "atomization",
+      "aging",
+      "HIP",
+      "solution treatment",
+      "hot compaction",
+      "isothermal forging",
+      "extrusion"
+    ],
+    "microstructures": [
+      "γ'"
+    ],
+    "properties": [
+      "creep time to 0.3% strain"
+    ],
+    "title": "",
+    "folder": "60"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Cu",
+      "Mn",
+      "Ni",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "arc melting",
+      "cold rolling",
+      "heat treatment",
+      "brazing"
+    ],
+    "microstructures": [
+      "Cr23C6",
+      "FCC",
+      "Al2O3",
+      "Cr2O3",
+      "Cr7C3",
+      "MnO",
+      "TiN"
+    ],
+    "properties": [
+      "YS",
+      "UTS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "61"
+  },
+  {
+    "elements": [
+      "Mo",
+      "W",
+      "Ti",
+      "Al",
+      "Ta",
+      "C",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "IN738LC"
+    ],
+    "processes": [
+      "directional recrystallization",
+      "quenching",
+      "laser powder bed fusion"
+    ],
+    "microstructures": [
+      "MC carbide",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "grain size",
+      "Vickers microhardness"
+    ],
+    "title": "",
+    "folder": "62"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Fe",
+      "V",
+      "W",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "VV751P"
+    ],
+    "processes": [
+      "SLM"
+    ],
+    "microstructures": [
+      "Ti0.25Al0.75",
+      "dendrite",
+      "star-shaped inclusions",
+      "TiCrAl",
+      "TiNi",
+      "TiCo0.5Ni0.5"
+    ],
+    "properties": [
+      "Young's modulus",
+      "nanohardness",
+      "coefficient of friction",
+      "specific wear rate"
+    ],
+    "title": "",
+    "folder": "63"
+  },
+  {
+    "elements": [
+      "Fe",
+      "Mo",
+      "Ti",
+      "Al",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [
+      "VIM",
+      "solution treatment",
+      "aging"
+    ],
+    "microstructures": [
+      "γ''",
+      "δ",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "EL",
+      "UTS",
+      "creep rupture life",
+      "YS",
+      "HV"
+    ],
+    "title": "",
+    "folder": "64"
+  },
+  {
+    "elements": [
+      "Ta",
+      "C",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "high frequency induction melting"
+    ],
+    "microstructures": [
+      "M7C3",
+      "Cr-rich interdendritic carbide",
+      "TaC"
+    ],
+    "properties": [
+      "YS",
+      "UTS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "65"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Hf",
+      "W",
+      "Ti",
+      "Re",
+      "Al",
+      "Ta",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "solution treatment",
+      "Bridgman directional solidification",
+      "aging",
+      "electrochemical hydrogen pre-charge"
+    ],
+    "microstructures": [
+      "dislocation pairs",
+      "micropores",
+      "stacking faults",
+      "γ'",
+      "γ"
+    ],
+    "properties": [
+      "YS",
+      "HEI",
+      "EL",
+      "hydrogen content"
+    ],
+    "title": "",
+    "folder": "66"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Zr",
+      "Ti",
+      "Al",
+      "C",
+      "B",
+      "Nb",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [
+      "IN713C"
+    ],
+    "processes": [
+      "VIM",
+      "casting"
+    ],
+    "microstructures": [
+      "Ni7Zr2",
+      "MC",
+      "Ni2Y",
+      "M3B2",
+      "γ'"
+    ],
+    "properties": [
+      "YS",
+      "UTS",
+      "EL"
+    ],
+    "title": "",
+    "folder": "67"
+  },
+  {
+    "elements": [
+      "Mo",
+      "Fe",
+      "W",
+      "Ti",
+      "Al",
+      "C",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "Ni16Cr13Co4Mo"
+    ],
+    "processes": [
+      "solution heat treatment",
+      "thermal cycling (heating and cooling)",
+      "oil cooling",
+      "aging"
+    ],
+    "microstructures": [
+      "oxide layer",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "Vickers hardness",
+      "Vickers hardness (room temperature after cycles)"
+    ],
+    "title": "",
+    "folder": "68"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "GH4169"
+    ],
+    "processes": [
+      "tensile deformation",
+      "electric pulsing"
+    ],
+    "microstructures": [
+      "γ"
+    ],
+    "properties": [
+      "indentation hardness"
+    ],
+    "title": "",
+    "folder": "69"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "CMSX-4"
+    ],
+    "processes": [
+      "solution treatment",
+      "directional solidification",
+      "aging"
+    ],
+    "microstructures": [
+      "γ'",
+      "γ' depleted zone"
+    ],
+    "properties": [
+      "crack growth rate"
+    ],
+    "title": "",
+    "folder": "6"
+  },
+  {
+    "elements": [
+      "Mo",
+      "W",
+      "C",
+      "Ni",
+      "Cr"
+    ],
+    "alloy_names": [],
+    "processes": [
+      "homogenization",
+      "aging",
+      "argon arc-melting",
+      "isothermal compression test",
+      "tensile test"
+    ],
+    "microstructures": [
+      "M23C6",
+      "carbide",
+      "M6C",
+      "γ"
+    ],
+    "properties": [
+      "YS",
+      "strength increment",
+      "UTS",
+      "yield strength"
+    ],
+    "title": "",
+    "folder": "70"
+  },
+  {
+    "elements": [
+      "Mo",
+      "W",
+      "Re",
+      "Al",
+      "Ta",
+      "Nb",
+      "Ni",
+      "Cr",
+      "Co"
+    ],
+    "alloy_names": [
+      "DD6"
+    ],
+    "processes": [
+      "restoration HT with recovery (protocol III)",
+      "creep test",
+      "restoration HT without recovery (protocol II)",
+      "solid solution",
+      "aging",
+      "Bridgman directional solidification",
+      "compression test",
+      "standard heat treatment (SHT)",
+      "vacuum induction melting"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [],
+    "title": "",
+    "folder": "71"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "Inconel 718"
+    ],
+    "processes": [
+      "solution treatment"
+    ],
+    "microstructures": [
+      "γ''",
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "peak stress",
+      "mean stress",
+      "valley stress",
+      "fatigue life"
+    ],
+    "title": "",
+    "folder": "7"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "IN718"
+    ],
+    "processes": [],
+    "microstructures": [],
+    "properties": [
+      "crack growth rate"
+    ],
+    "title": "",
+    "folder": "8"
+  },
+  {
+    "elements": [],
+    "alloy_names": [
+      "DD6 NBSC"
+    ],
+    "processes": [
+      "thermal exposure",
+      "shot peening"
+    ],
+    "microstructures": [
+      "γ",
+      "γ'"
+    ],
+    "properties": [
+      "fretting fatigue life",
+      "microhardness",
+      "residual stress"
+    ],
+    "title": "",
+    "folder": "9"
+  }
+]

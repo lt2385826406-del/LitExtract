@@ -1,0 +1,50 @@
+{
+  "center_node": {
+    "id": "n00215",
+    "type": "GlobalFigure",
+    "name": "Figure 7 (a1, a2)|111764f7"
+  },
+  "degree": 3,
+  "nodes": [
+    {
+      "id": "n00015",
+      "type": "Microstructure",
+      "name": "Grain Refinement"
+    },
+    {
+      "id": "n00204",
+      "type": "Paper",
+      "name": "Microstructural evolution and dynamic recrystallization mech"
+    },
+    {
+      "id": "n00215",
+      "type": "GlobalFigure",
+      "name": "Figure 7 (a1, a2)|111764f7"
+    },
+    {
+      "id": "n00220",
+      "type": "Sample",
+      "name": "Ti-6Al-4V|S3|1764f7"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00204",
+      "target": "n00215",
+      "type": "REFERENCES_FIGURE",
+      "weight": 1
+    },
+    {
+      "source": "n00215",
+      "target": "n00015",
+      "type": "GLOBAL_FIG_SHOWS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00215",
+      "type": "SAMPLE_SHOWN_IN_FIGURE",
+      "weight": 1
+    }
+  ]
+}

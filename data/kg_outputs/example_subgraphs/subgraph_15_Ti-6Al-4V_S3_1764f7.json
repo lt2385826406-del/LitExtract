@@ -1,0 +1,105 @@
+{
+  "center_node": {
+    "id": "n00220",
+    "type": "Sample",
+    "name": "Ti-6Al-4V|S3|1764f7"
+  },
+  "degree": 8,
+  "nodes": [
+    {
+      "id": "n00013",
+      "type": "Microstructure",
+      "name": "Equiaxed α"
+    },
+    {
+      "id": "n00018",
+      "type": "Microstructure",
+      "name": "α+β Dual Phase"
+    },
+    {
+      "id": "n00026",
+      "type": "Alloy",
+      "name": "Ti-6Al-4V"
+    },
+    {
+      "id": "n00204",
+      "type": "Paper",
+      "name": "Microstructural evolution and dynamic recrystallization mech"
+    },
+    {
+      "id": "n00206",
+      "type": "GlobalFigure",
+      "name": "Figure 4 (a1, a2)|111764f7"
+    },
+    {
+      "id": "n00209",
+      "type": "GlobalFigure",
+      "name": "Figure 5 (a1, a2)|111764f7"
+    },
+    {
+      "id": "n00212",
+      "type": "GlobalFigure",
+      "name": "Figure 6 (a1, a2)|111764f7"
+    },
+    {
+      "id": "n00215",
+      "type": "GlobalFigure",
+      "name": "Figure 7 (a1, a2)|111764f7"
+    },
+    {
+      "id": "n00220",
+      "type": "Sample",
+      "name": "Ti-6Al-4V|S3|1764f7"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00204",
+      "target": "n00220",
+      "type": "HAS_SAMPLE",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00026",
+      "type": "SAMPLE_IS_ALLOY",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00013",
+      "type": "SAMPLE_EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00018",
+      "type": "SAMPLE_EXHIBITS_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00206",
+      "type": "SAMPLE_SHOWN_IN_FIGURE",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00209",
+      "type": "SAMPLE_SHOWN_IN_FIGURE",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00212",
+      "type": "SAMPLE_SHOWN_IN_FIGURE",
+      "weight": 1
+    },
+    {
+      "source": "n00220",
+      "target": "n00215",
+      "type": "SAMPLE_SHOWN_IN_FIGURE",
+      "weight": 1
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+node_id,type,name
+Processing:heat treatment,Processing,heat treatment
+Microstructure:γ',Microstructure,γ'
+Property:fatigue strength,Property,fatigue strength
+Element:Mo,Element,Mo
+Element:Ni,Element,Ni
+Element:Cr,Element,Cr
+Element:Co,Element,Co
+Microstructure:M23C6,Microstructure,M23C6
+Microstructure:γ,Microstructure,γ
+Property:hardness,Property,hardness
+Microstructure:Cr2O3,Microstructure,Cr2O3
+Processing:VIM,Processing,VIM
+Processing:forging,Processing,forging
+Processing:aging,Processing,aging
+Processing:solution treatment,Processing,solution treatment
+Microstructure:Ni3Al,Microstructure,Ni3Al
+Element:Fe,Element,Fe
+Element:Si,Element,Si
+Element:C,Element,C
+Element:B,Element,B
+Microstructure:MC,Microstructure,MC
+Microstructure:Ni3Nb,Microstructure,Ni3Nb
+Microstructure:M6C,Microstructure,M6C
+Microstructure:boride,Microstructure,boride
+Microstructure:oxide,Microstructure,oxide
+Microstructure:carbide,Microstructure,carbide
+Microstructure:η,Microstructure,η
+Microstructure:σ,Microstructure,σ
+Microstructure:M3B2,Microstructure,M3B2
+Microstructure:TCP,Microstructure,TCP
+Microstructure:β,Microstructure,β
+Microstructure:μ,Microstructure,μ
+Microstructure:Laves,Microstructure,Laves
+Microstructure:nitride,Microstructure,nitride
+Microstructure:M7C3,Microstructure,M7C3
+Microstructure:Ni3Ti,Microstructure,Ni3Ti
+Microstructure:α-Cr,Microstructure,α-Cr
+Property:corrosion resistance,Property,corrosion resistance
+Processing:remelting,Processing,remelting
+Processing:hardfacing,Processing,hardfacing
+Property:residual stress,Property,residual stress
+Processing:thermal exposure,Processing,thermal exposure
+Microstructure:NiCr2O4,Microstructure,NiCr2O4
+Element:Al,Element,Al
+Element:W,Element,W
+Microstructure:Al2O3,Microstructure,Al2O3
+Property:hot hardness,Property,hot hardness
+Property:volume loss,Property,volume loss
+Element:Ti,Element,Ti
+Element:Nb,Element,Nb
+Microstructure:γ'',Microstructure,γ''
+Microstructure:δ,Microstructure,δ
+Property:EL,Property,EL
+Property:ultimate tensile strength,Property,ultimate tensile strength
+Property:creep rupture life,Property,creep rupture life
+Property:yield strength,Property,yield strength
+Property:HV,Property,HV
+Alloy:IN718,Alloy,IN718
+Element:N,Element,N
+Element:O,Element,O
+Element:Mn,Element,Mn
+Property:grain boundary coverage,Property,grain boundary coverage
+Property:area fraction of intergranular fracture,Property,area fraction of intergranular fracture
+Property:area fraction of quasi-cleavage fracture,Property,area fraction of quasi-cleavage fracture
+Property:GROD,Property,GROD
+Property:area fraction of ductile fracture,Property,area fraction of ductile fracture
+Processing:solution heat treatment,Processing,solution heat treatment
+Property:creep strain,Property,creep strain
+Element:Hf,Element,Hf
+Element:Ta,Element,Ta
+Processing:HIP,Processing,HIP
+Property:creep life,Property,creep life
+Element:Others,Element,Others
+Property:potentiodynamic polarization,Property,potentiodynamic polarization
+Property:NDT,Property,NDT
+Property:reduction of area,Property,reduction of area
+Property:NST,Property,NST
+Element:Y,Element,Y
+Property:Young's modulus,Property,Young's modulus
+Property:maximum secondary crack length,Property,maximum secondary crack length
+Property:average secondary crack length,Property,average secondary crack length
+Property:crack density,Property,crack density
+Property:cycles to failure,Property,cycles to failure
+Property:0.2% offset yield strength,Property,0.2% offset yield strength
+Property:recrystallized grain size,Property,recrystallized grain size
+Microstructure:FCC,Microstructure,FCC
+Property:elastic modulus,Property,elastic modulus
+Element:Re,Element,Re
+Property:E,Property,E
+Microstructure:γ-γ' eutectic,Microstructure,γ-γ' eutectic
+Microstructure:Hf-rich carbides,Microstructure,Hf-rich carbides
+Property:creep behavior,Property,creep behavior
+Processing:directional solidification,Processing,directional solidification
+Element:Ir,Element,Ir
+Microstructure:micro-voids,Microstructure,micro-voids
+Microstructure:twin,Microstructure,twin
+Microstructure:recrystallized grains,Microstructure,recrystallized grains
+Property:steady crack growth rate,Property,steady crack growth rate
+Property:total life to failure,Property,total life to failure
+Processing:homogenization,Processing,homogenization
+Alloy:Alloy 718,Alloy,Alloy 718
+Element:Ce,Element,Ce
+Microstructure:Ni-plating,Microstructure,Ni-plating
+Microstructure:Nb oxide,Microstructure,Nb oxide
+Microstructure:LiFeO2,Microstructure,LiFeO2
+Microstructure:Li2Ni8O10,Microstructure,Li2Ni8O10
+Microstructure:CrNbO4,Microstructure,CrNbO4
+Microstructure:Cr oxide,Microstructure,Cr oxide
+Microstructure:Ni3Ce,Microstructure,Ni3Ce
+Microstructure:LiTiO2,Microstructure,LiTiO2
+Microstructure:Ti oxide,Microstructure,Ti oxide
+Microstructure:LiAl2Cr3O8,Microstructure,LiAl2Cr3O8
+Microstructure:Si oxide,Microstructure,Si oxide
+Microstructure:Al oxide,Microstructure,Al oxide
+Property:weight loss,Property,weight loss
+Element:Cu,Element,Cu
+Element:Sn,Element,Sn
+Element:S,Element,S
+Element:P,Element,P
+"Microstructure:(Nb,Ti)C",Microstructure,"(Nb,Ti)C"
+Microstructure:Al and Cr-rich oxide,Microstructure,Al and Cr-rich oxide
+Property:corrosion current,Property,corrosion current
+Microstructure:annealing twins,Microstructure,annealing twins
+Property:flow stress,Property,flow stress
+Processing:annealing,Processing,annealing
+Processing:compression test,Processing,compression test
+Element:Zr,Element,Zr
+Microstructure:MC carbide,Microstructure,MC carbide
+Microstructure:Ti-Nb rich carbo-oxide,Microstructure,Ti-Nb rich carbo-oxide
+Microstructure:Hf/Ta-rich carbide,Microstructure,Hf/Ta-rich carbide
+Property:crack count density,Property,crack count density
+Property:crack area fraction,Property,crack area fraction
+Property:average crack length,Property,average crack length
+Property:average crack width,Property,average crack width
+Microstructure:cavities,Microstructure,cavities
+Microstructure:disordered phase,Microstructure,disordered phase
+Microstructure:clusters,Microstructure,clusters
+Alloy:DD6,Alloy,DD6
+Processing:slow strain rate tensile testing,Processing,slow strain rate tensile testing
+Microstructure:carbides,Microstructure,carbides
+Processing:grinding and polishing,Processing,grinding and polishing
+Processing:electro discharge machining,Processing,electro discharge machining
+Processing:polishing,Processing,polishing
+Processing:cathodic hydrogen charging,Processing,cathodic hydrogen charging
+Microstructure:ductile dimples,Microstructure,ductile dimples
+Microstructure:dislocation substructure,Microstructure,dislocation substructure
+Microstructure:quasi-cleavage,Microstructure,quasi-cleavage
+Microstructure:dislocation slip bands,Microstructure,dislocation slip bands
+"Microstructure:γ""",Microstructure,"γ"""
+Property:plastic strain at fracture,Property,plastic strain at fracture
+Property:plastic strain at crack detection,Property,plastic strain at crack detection
+Microstructure:Re-rich dislocations,Microstructure,Re-rich dislocations
+Microstructure:LAGB,Microstructure,LAGB
+Processing:Bridgman directional solidification,Processing,Bridgman directional solidification
+Microstructure:NiMoO4,Microstructure,NiMoO4
+Microstructure:NiO,Microstructure,NiO
+Microstructure:MoO3,Microstructure,MoO3
+Property:solidus temperature,Property,solidus temperature
+Property:GND density,Property,GND density
+Property:peak temperature,Property,peak temperature
+Property:creep time to 0.3% strain,Property,creep time to 0.3% strain
+Microstructure:TiN,Microstructure,TiN
+Processing:arc melting,Processing,arc melting
+Processing:cold rolling,Processing,cold rolling
+Processing:brazing,Processing,brazing
+Microstructure:Cr23C6,Microstructure,Cr23C6
+Microstructure:Cr7C3,Microstructure,Cr7C3
+Microstructure:MnO,Microstructure,MnO
+Property:grain size,Property,grain size
+Property:Vickers microhardness,Property,Vickers microhardness
+Element:V,Element,V
+Microstructure:Ti0.25Al0.75,Microstructure,Ti0.25Al0.75
+Microstructure:dendrite,Microstructure,dendrite
+Microstructure:star-shaped inclusions,Microstructure,star-shaped inclusions
+Microstructure:TiCrAl,Microstructure,TiCrAl
+Microstructure:TiNi,Microstructure,TiNi
+Microstructure:TiCo0.5Ni0.5,Microstructure,TiCo0.5Ni0.5
+Property:nanohardness,Property,nanohardness
+Property:coefficient of friction,Property,coefficient of friction
+Property:specific wear rate,Property,specific wear rate
+Microstructure:Cr-rich interdendritic carbide,Microstructure,Cr-rich interdendritic carbide
+Microstructure:TaC,Microstructure,TaC
+Microstructure:dislocation pairs,Microstructure,dislocation pairs
+Microstructure:micropores,Microstructure,micropores
+Microstructure:stacking faults,Microstructure,stacking faults
+Property:HEI,Property,HEI
+Property:hydrogen content,Property,hydrogen content
+Microstructure:Ni7Zr2,Microstructure,Ni7Zr2
+Microstructure:Ni2Y,Microstructure,Ni2Y
+Microstructure:oxide layer,Microstructure,oxide layer
+Property:Vickers hardness (room temperature after cycles),Property,Vickers hardness (room temperature after cycles)
+Property:strength increment,Property,strength increment
+Processing:argon arc-melting,Processing,argon arc-melting
+Processing:isothermal compression test,Processing,isothermal compression test
+Processing:tensile test,Processing,tensile test

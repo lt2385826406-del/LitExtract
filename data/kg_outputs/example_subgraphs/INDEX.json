@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "file": "subgraph_01_From clinic to lab Advances in.json",
+    "center_node": "n00164",
+    "center_type": "Paper",
+    "center_name": "From clinic to lab Advances in porous titanium-based orthope",
+    "degree": 47,
+    "n_edges": 47
+  },
+  {
+    "id": 2,
+    "file": "subgraph_02_Effect of heat treatment on th.json",
+    "center_node": "n00134",
+    "center_type": "Paper",
+    "center_name": "Effect of heat treatment on the microstructure mechanical pr",
+    "degree": 46,
+    "n_edges": 46
+  },
+  {
+    "id": 3,
+    "file": "subgraph_03_Al.json",
+    "center_node": "n00002",
+    "center_type": "Element",
+    "center_name": "Al",
+    "degree": 95,
+    "n_edges": 50
+  },
+  {
+    "id": 4,
+    "file": "subgraph_04_V.json",
+    "center_node": "n00004",
+    "center_type": "Element",
+    "center_name": "V",
+    "degree": 89,
+    "n_edges": 50
+  },
+  {
+    "id": 5,
+    "file": "subgraph_05_Additive Manufacturing.json",
+    "center_node": "n00043",
+    "center_type": "Process",
+    "center_name": "Additive Manufacturing",
+    "degree": 91,
+    "n_edges": 50
+  },
+  {
+    "id": 6,
+    "file": "subgraph_06_Annealing.json",
+    "center_node": "n00010",
+    "center_type": "Process",
+    "center_name": "Annealing",
+    "degree": 76,
+    "n_edges": 50
+  },
+  {
+    "id": 7,
+    "file": "subgraph_07_Phase Transformation.json",
+    "center_node": "n00017",
+    "center_type": "Microstructure",
+    "center_name": "Phase Transformation",
+    "degree": 131,
+    "n_edges": 50
+  },
+  {
+    "id": 8,
+    "file": "subgraph_08_α+β Dual Phase.json",
+    "center_node": "n00018",
+    "center_type": "Microstructure",
+    "center_name": "α+β Dual Phase",
+    "degree": 118,
+    "n_edges": 50
+  },
+  {
+    "id": 9,
+    "file": "subgraph_09_Elongation_Ductility.json",
+    "center_node": "n00022",
+    "center_type": "Property",
+    "center_name": "Elongation/Ductility",
+    "degree": 111,
+    "n_edges": 50
+  },
+  {
+    "id": 10,
+    "file": "subgraph_10_Fatigue Performance.json",
+    "center_node": "n00047",
+    "center_type": "Property",
+    "center_name": "Fatigue Performance",
+    "degree": 103,
+    "n_edges": 50
+  },
+  {
+    "id": 11,
+    "file": "subgraph_11_Ti-6Al-4V.json",
+    "center_node": "n00026",
+    "center_type": "Alloy",
+    "center_name": "Ti-6Al-4V",
+    "degree": 72,
+    "n_edges": 50
+  },
+  {
+    "id": 12,
+    "file": "subgraph_12_Ti-5Al-5Mo-5V-3Cr.json",
+    "center_node": "n00075",
+    "center_type": "Alloy",
+    "center_name": "Ti-5Al-5Mo-5V-3Cr",
+    "degree": 12,
+    "n_edges": 12
+  },
+  {
+    "id": 13,
+    "file": "subgraph_13_Figure 7 (a1, a2)_111764f7.json",
+    "center_node": "n00215",
+    "center_type": "GlobalFigure",
+    "center_name": "Figure 7 (a1, a2)|111764f7",
+    "degree": 3,
+    "n_edges": 3
+  },
+  {
+    "id": 14,
+    "file": "subgraph_14_Figure 7 (b1, b2)_111764f7.json",
+    "center_node": "n00216",
+    "center_type": "GlobalFigure",
+    "center_name": "Figure 7 (b1, b2)|111764f7",
+    "degree": 3,
+    "n_edges": 3
+  },
+  {
+    "id": 15,
+    "file": "subgraph_15_Ti-6Al-4V_S3_1764f7.json",
+    "center_node": "n00220",
+    "center_type": "Sample",
+    "center_name": "Ti-6Al-4V|S3|1764f7",
+    "degree": 8,
+    "n_edges": 8
+  },
+  {
+    "id": 16,
+    "file": "subgraph_16_Ti-6Al-4V_S1_1764f7.json",
+    "center_node": "n00218",
+    "center_type": "Sample",
+    "center_name": "Ti-6Al-4V|S1|1764f7",
+    "degree": 7,
+    "n_edges": 7
+  }
+]
