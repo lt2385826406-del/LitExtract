@@ -11,12 +11,13 @@ data/
 │   ├── paper_metadata.csv            # Paper metadata template
 │   └── corpus_statistics.csv         # Corpus statistics
 ├── extracted_json/                    # LLM semantic extraction results
-│   ├── ti_semantic_data.json         # Titanium alloys (98 papers)
-│   └── nickel_v6_semantic_data.json  # Nickel-based alloys (68 papers)
+│   ├── ti_semantic_data.json         # Titanium alloys
+│   └── nickel_semantic_data.json     # Nickel-based alloys
 ├── kg_outputs/                        # Knowledge graph outputs (standardized format)
 │   ├── nodes.csv                     # Node table (301 nodes)
 │   ├── edges.csv                     # Edge table (3,747 edges)
 │   ├── kg.graphml                    # GraphML network graph
+│   ├── ti_mmkg_data.json             # Ti-MMKG case study extracted data
 │   └── example_subgraphs/           # 16 key node subgraphs (JSON + INDEX)
 ├── dag_outputs/                       # Causal DAG outputs (Ti/Ni separated)
 │   ├── ti/                           # Titanium alloy DAG
@@ -24,8 +25,8 @@ data/
 │   │   ├── node_metadata.csv         # Node metadata (647 nodes)
 │   │   ├── representative_paths.md   # Representative causal paths (Top-10)
 │   │   └── dag.graphml               # GraphML (647 nodes, 8,625 edges)
-│   └── ni/                           # Nickel-based alloy DAG v6
-│       ├── dag_edges.csv             # Causal edge table (1,010 edges)
+│   └── ni/                           # Nickel-based alloy DAG
+│       ├── dag_edges.csv             # Causal edge table
 │       ├── node_metadata.csv         # Node metadata (195 nodes)
 │       ├── validation_results.csv    # Validation metrics (7 metrics)
 │       ├── representative_paths.md   # Representative causal paths (Top-20)
@@ -38,7 +39,7 @@ data/
 │   ├── yolo_labels/                  # YOLO detection annotations (no images, see copyright notice)
 │   └── classification_labels/        # Microstructure classification annotations (no images, see copyright notice)
 └── splits/                            # Dataset splits (templates)
-    └── extraction_split.csv          # Extraction data split
+    └── (extraction_split.csv generated at runtime)
 ```
 
 ## Copyright Notice
@@ -65,6 +66,6 @@ The semantic extraction results in `extracted_json/` are machine-extracted struc
 | Dataset | # Papers | Alloy System | Source |
 |---------|----------|--------------|--------|
 | Ti-MMKG | 98 | Titanium alloys (Ti-6Al-4V, Ti-17, etc.) | Automated extraction from public literature |
-| Ni-DAG v6 | 68 | Nickel-based superalloys (IN718, CMSX-4, etc.) | Automated extraction from public literature |
+| Ni-DAG | 68 | Nickel-based superalloys (IN718, CMSX-4, etc.) | Automated extraction from public literature |
 | Ground Truth | 10 mechanisms | Classical titanium alloy metallurgical theory | Domain expert annotation |
 | DOI Index | 201 | Ti + Ni alloys | CrossRef + automated extraction |
