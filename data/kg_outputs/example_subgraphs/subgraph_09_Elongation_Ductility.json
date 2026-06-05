@@ -1,0 +1,567 @@
+{
+  "center_node": {
+    "id": "n00022",
+    "type": "Property",
+    "name": "Elongation/Ductility"
+  },
+  "degree": 111,
+  "nodes": [
+    {
+      "id": "n00001",
+      "type": "Paper",
+      "name": "A comprehensive mean-field approach to simulate the microstr"
+    },
+    {
+      "id": "n00013",
+      "type": "Microstructure",
+      "name": "Equiaxed α"
+    },
+    {
+      "id": "n00014",
+      "type": "Microstructure",
+      "name": "Lamellar α"
+    },
+    {
+      "id": "n00015",
+      "type": "Microstructure",
+      "name": "Grain Refinement"
+    },
+    {
+      "id": "n00016",
+      "type": "Microstructure",
+      "name": "Recrystallization"
+    },
+    {
+      "id": "n00017",
+      "type": "Microstructure",
+      "name": "Phase Transformation"
+    },
+    {
+      "id": "n00018",
+      "type": "Microstructure",
+      "name": "α+β Dual Phase"
+    },
+    {
+      "id": "n00019",
+      "type": "Microstructure",
+      "name": "Dynamic Recrystallization"
+    },
+    {
+      "id": "n00020",
+      "type": "Microstructure",
+      "name": "Static Recrystallization"
+    },
+    {
+      "id": "n00022",
+      "type": "Property",
+      "name": "Elongation/Ductility"
+    },
+    {
+      "id": "n00029",
+      "type": "Paper",
+      "name": "A full-field model for hydrogen diffusion and trapping in tw"
+    },
+    {
+      "id": "n00033",
+      "type": "Microstructure",
+      "name": "Martensite (α')"
+    },
+    {
+      "id": "n00034",
+      "type": "Microstructure",
+      "name": "Precipitation"
+    },
+    {
+      "id": "n00036",
+      "type": "Paper",
+      "name": "A strategy to regulate the yield ratio of a metastable high"
+    },
+    {
+      "id": "n00044",
+      "type": "Microstructure",
+      "name": "Widmanstätten/Basketweave"
+    },
+    {
+      "id": "n00045",
+      "type": "Microstructure",
+      "name": "β-Stabilized Structure"
+    },
+    {
+      "id": "n00056",
+      "type": "Paper",
+      "name": "Achieving equiaxed grain microstructure and isotropic proper"
+    },
+    {
+      "id": "n00063",
+      "type": "Microstructure",
+      "name": "ω Phase"
+    },
+    {
+      "id": "n00064",
+      "type": "Microstructure",
+      "name": "Columnar Grains"
+    },
+    {
+      "id": "n00065",
+      "type": "Microstructure",
+      "name": "Porosity"
+    },
+    {
+      "id": "n00069",
+      "type": "Paper",
+      "name": "Achieving high density and controlled microstructure by pred"
+    },
+    {
+      "id": "n00077",
+      "type": "Paper",
+      "name": "Achieving high work-hardening and high plasticity of metasta"
+    },
+    {
+      "id": "n00079",
+      "type": "Microstructure",
+      "name": "Twinning (TWIP)"
+    },
+    {
+      "id": "n00083",
+      "type": "Paper",
+      "name": "An investigation on microstructure evolution and deformation"
+    },
+    {
+      "id": "n00085",
+      "type": "Microstructure",
+      "name": "Bimodal Microstructure"
+    },
+    {
+      "id": "n00096",
+      "type": "Paper",
+      "name": "Balancing strength and ductility by controllable heat-treatm"
+    },
+    {
+      "id": "n00106",
+      "type": "Paper",
+      "name": "Characterization of hot deformation and microstructure evolu"
+    },
+    {
+      "id": "n00107",
+      "type": "Microstructure",
+      "name": "Adiabatic Shear Band"
+    },
+    {
+      "id": "n00110",
+      "type": "Paper",
+      "name": "Columnar to equiaxed transition during β heat treatment in a"
+    },
+    {
+      "id": "n00111",
+      "type": "Paper",
+      "name": "Combination of multiple strengthening mechanisms facilitates"
+    },
+    {
+      "id": "n00115",
+      "type": "Paper",
+      "name": "Cooling rate effects on microstructure and diffusion behavio"
+    },
+    {
+      "id": "n00117",
+      "type": "Paper",
+      "name": "Cost-affordable and qualified powder metallurgy metastable b"
+    },
+    {
+      "id": "n00118",
+      "type": "Microstructure",
+      "name": "Trimodal Microstructure"
+    },
+    {
+      "id": "n00120",
+      "type": "Paper",
+      "name": "Deciphering the microstructural evolution and adiabatic shea"
+    },
+    {
+      "id": "n00122",
+      "type": "Paper",
+      "name": "Deformation behavior of HfNbTaTiZr high entropy alloy singe"
+    },
+    {
+      "id": "n00125",
+      "type": "Paper",
+      "name": "Dependence of the fracture behaviour and property on the mic"
+    },
+    {
+      "id": "n00128",
+      "type": "Paper",
+      "name": "Dynamic α globularization in laser powder bed fusion additiv"
+    },
+    {
+      "id": "n00131",
+      "type": "Paper",
+      "name": "Effect of cross-section change on microstructure and propert"
+    },
+    {
+      "id": "n00132",
+      "type": "Paper",
+      "name": "Effect of cryogenic and electropulsing coupling treatment on"
+    },
+    {
+      "id": "n00133",
+      "type": "Paper",
+      "name": "Effect of cyclic heat treatment on microstructure and mechan"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00138",
+      "type": "Paper",
+      "name": "Effect of heat treatments on the microstructure and mechanic"
+    },
+    {
+      "id": "n00141",
+      "type": "Paper",
+      "name": "Elastic modulus engineering in ceitalicβceitalic-titanium al"
+    },
+    {
+      "id": "n00144",
+      "type": "Paper",
+      "name": "Electroshock treatment dependent microstructural evolution a"
+    },
+    {
+      "id": "n00146",
+      "type": "Paper",
+      "name": "Enhanced microstructural homogeneity and strength-ductility"
+    },
+    {
+      "id": "n00150",
+      "type": "Paper",
+      "name": "Enhancing mechanical strength of Ti-6Al-4V sheet material by"
+    },
+    {
+      "id": "n00153",
+      "type": "Paper",
+      "name": "Evaluation of high-temperature formability for Ti-xMo-4Fe me"
+    },
+    {
+      "id": "n00156",
+      "type": "Paper",
+      "name": "Evaluation of microstructure and mechanical properties of ad"
+    },
+    {
+      "id": "n00158",
+      "type": "Paper",
+      "name": "Fatigue damage origin of laser direct energy deposited titan"
+    },
+    {
+      "id": "n00159",
+      "type": "Paper",
+      "name": "Fatigue performance of beta titanium alloy topological porou"
+    },
+    {
+      "id": "n00162",
+      "type": "Paper",
+      "name": "Flow softening and microstructural evolution of near β titan"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00001",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00013",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 54
+    },
+    {
+      "source": "n00014",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 53
+    },
+    {
+      "source": "n00015",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 60
+    },
+    {
+      "source": "n00016",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 54
+    },
+    {
+      "source": "n00017",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 87
+    },
+    {
+      "source": "n00018",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 78
+    },
+    {
+      "source": "n00019",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 30
+    },
+    {
+      "source": "n00020",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 3
+    },
+    {
+      "source": "n00029",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00033",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 57
+    },
+    {
+      "source": "n00034",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 66
+    },
+    {
+      "source": "n00036",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00044",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 18
+    },
+    {
+      "source": "n00045",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 47
+    },
+    {
+      "source": "n00056",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00063",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 24
+    },
+    {
+      "source": "n00064",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 24
+    },
+    {
+      "source": "n00065",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 39
+    },
+    {
+      "source": "n00069",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00077",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00079",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 24
+    },
+    {
+      "source": "n00083",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00085",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 17
+    },
+    {
+      "source": "n00096",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00106",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00107",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 11
+    },
+    {
+      "source": "n00110",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00111",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00115",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00117",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00118",
+      "target": "n00022",
+      "type": "MICRO_AFFECTS_PROPERTY",
+      "weight": 2
+    },
+    {
+      "source": "n00120",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00122",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00125",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00128",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00131",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00132",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00133",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00138",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00141",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00144",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00146",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00150",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00153",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00156",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00158",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00159",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    },
+    {
+      "source": "n00162",
+      "target": "n00022",
+      "type": "MEASURES_PROPERTY",
+      "weight": 1
+    }
+  ]
+}

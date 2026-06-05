@@ -1,0 +1,567 @@
+{
+  "center_node": {
+    "id": "n00004",
+    "type": "Element",
+    "name": "V"
+  },
+  "degree": 89,
+  "nodes": [
+    {
+      "id": "n00001",
+      "type": "Paper",
+      "name": "A comprehensive mean-field approach to simulate the microstr"
+    },
+    {
+      "id": "n00004",
+      "type": "Element",
+      "name": "V"
+    },
+    {
+      "id": "n00036",
+      "type": "Paper",
+      "name": "A strategy to regulate the yield ratio of a metastable high"
+    },
+    {
+      "id": "n00056",
+      "type": "Paper",
+      "name": "Achieving equiaxed grain microstructure and isotropic proper"
+    },
+    {
+      "id": "n00069",
+      "type": "Paper",
+      "name": "Achieving high density and controlled microstructure by pred"
+    },
+    {
+      "id": "n00077",
+      "type": "Paper",
+      "name": "Achieving high work-hardening and high plasticity of metasta"
+    },
+    {
+      "id": "n00083",
+      "type": "Paper",
+      "name": "An investigation on microstructure evolution and deformation"
+    },
+    {
+      "id": "n00088",
+      "type": "Paper",
+      "name": "Anomalous solidification behaviour in rapidly cooled TiNbTa"
+    },
+    {
+      "id": "n00096",
+      "type": "Paper",
+      "name": "Balancing strength and ductility by controllable heat-treatm"
+    },
+    {
+      "id": "n00099",
+      "type": "Paper",
+      "name": "Biomedical mmlmathaltimgsi38svgdisplayinlineidd1e781mmlmiβmm"
+    },
+    {
+      "id": "n00106",
+      "type": "Paper",
+      "name": "Characterization of hot deformation and microstructure evolu"
+    },
+    {
+      "id": "n00110",
+      "type": "Paper",
+      "name": "Columnar to equiaxed transition during β heat treatment in a"
+    },
+    {
+      "id": "n00111",
+      "type": "Paper",
+      "name": "Combination of multiple strengthening mechanisms facilitates"
+    },
+    {
+      "id": "n00115",
+      "type": "Paper",
+      "name": "Cooling rate effects on microstructure and diffusion behavio"
+    },
+    {
+      "id": "n00117",
+      "type": "Paper",
+      "name": "Cost-affordable and qualified powder metallurgy metastable b"
+    },
+    {
+      "id": "n00120",
+      "type": "Paper",
+      "name": "Deciphering the microstructural evolution and adiabatic shea"
+    },
+    {
+      "id": "n00125",
+      "type": "Paper",
+      "name": "Dependence of the fracture behaviour and property on the mic"
+    },
+    {
+      "id": "n00128",
+      "type": "Paper",
+      "name": "Dynamic α globularization in laser powder bed fusion additiv"
+    },
+    {
+      "id": "n00131",
+      "type": "Paper",
+      "name": "Effect of cross-section change on microstructure and propert"
+    },
+    {
+      "id": "n00132",
+      "type": "Paper",
+      "name": "Effect of cryogenic and electropulsing coupling treatment on"
+    },
+    {
+      "id": "n00133",
+      "type": "Paper",
+      "name": "Effect of cyclic heat treatment on microstructure and mechan"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00138",
+      "type": "Paper",
+      "name": "Effect of heat treatments on the microstructure and mechanic"
+    },
+    {
+      "id": "n00141",
+      "type": "Paper",
+      "name": "Elastic modulus engineering in ceitalicβceitalic-titanium al"
+    },
+    {
+      "id": "n00144",
+      "type": "Paper",
+      "name": "Electroshock treatment dependent microstructural evolution a"
+    },
+    {
+      "id": "n00146",
+      "type": "Paper",
+      "name": "Enhanced microstructural homogeneity and strength-ductility"
+    },
+    {
+      "id": "n00150",
+      "type": "Paper",
+      "name": "Enhancing mechanical strength of Ti-6Al-4V sheet material by"
+    },
+    {
+      "id": "n00153",
+      "type": "Paper",
+      "name": "Evaluation of high-temperature formability for Ti-xMo-4Fe me"
+    },
+    {
+      "id": "n00156",
+      "type": "Paper",
+      "name": "Evaluation of microstructure and mechanical properties of ad"
+    },
+    {
+      "id": "n00158",
+      "type": "Paper",
+      "name": "Fatigue damage origin of laser direct energy deposited titan"
+    },
+    {
+      "id": "n00159",
+      "type": "Paper",
+      "name": "Fatigue performance of beta titanium alloy topological porou"
+    },
+    {
+      "id": "n00162",
+      "type": "Paper",
+      "name": "Flow softening and microstructural evolution of near β titan"
+    },
+    {
+      "id": "n00164",
+      "type": "Paper",
+      "name": "From clinic to lab Advances in porous titanium-based orthope"
+    },
+    {
+      "id": "n00169",
+      "type": "Paper",
+      "name": "Gradient microstructure and mechanical properties of Ti-6Al-"
+    },
+    {
+      "id": "n00170",
+      "type": "Paper",
+      "name": "Growth mechanisms and properties of carburized layers with a"
+    },
+    {
+      "id": "n00173",
+      "type": "Paper",
+      "name": "Heat treatment possibilities for an in situ βTi-TiC composit"
+    },
+    {
+      "id": "n00174",
+      "type": "Paper",
+      "name": "Heterogeneous dynamic restoration of Ti15Mo alloy during hot"
+    },
+    {
+      "id": "n00177",
+      "type": "Paper",
+      "name": "High-temperature deformation mechanism of Ti5Mo4Fe metastabl"
+    },
+    {
+      "id": "n00180",
+      "type": "Paper",
+      "name": "High-temperature oxidation behaviors and mechanical properti"
+    },
+    {
+      "id": "n00181",
+      "type": "Paper",
+      "name": "Homogenization forging and deformation mechanism of near-cei"
+    },
+    {
+      "id": "n00183",
+      "type": "Paper",
+      "name": "Hybrid manufacturing approach for landing gear applications"
+    },
+    {
+      "id": "n00184",
+      "type": "Paper",
+      "name": "Improvement of interfacial compatibility of SiCceinflocpostf"
+    },
+    {
+      "id": "n00189",
+      "type": "Paper",
+      "name": "In-situ high-temperature EBSD characterization during a solu"
+    },
+    {
+      "id": "n00190",
+      "type": "Paper",
+      "name": "In-situ Micro-CT analysis of deformation behavior in sandwic"
+    },
+    {
+      "id": "n00192",
+      "type": "Paper",
+      "name": "Influence mechanism of microstructure variation on mechanica"
+    },
+    {
+      "id": "n00193",
+      "type": "Paper",
+      "name": "Influence of gradual stress relieving on the microstructure"
+    },
+    {
+      "id": "n00194",
+      "type": "Paper",
+      "name": "Influence of heat treatment on the residual stress-related m"
+    },
+    {
+      "id": "n00195",
+      "type": "Paper",
+      "name": "Influence of heat treatment on the tensile properties of Ti1"
+    },
+    {
+      "id": "n00197",
+      "type": "Paper",
+      "name": "Influence of heat treatment parameters on microstructure and"
+    },
+    {
+      "id": "n00199",
+      "type": "Paper",
+      "name": "Influence of the process parameters on the microstructure an"
+    },
+    {
+      "id": "n00200",
+      "type": "Paper",
+      "name": "Investigation of tensile deformation behavior of a TWIPTRIP"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00001",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00036",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00056",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00069",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00077",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00083",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00088",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00096",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00099",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00106",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00110",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00111",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00115",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00117",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00120",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00125",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00128",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00131",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00132",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00133",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00138",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00141",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00144",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00146",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00150",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00153",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00156",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00158",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00159",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00162",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00164",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00169",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00170",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00173",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00174",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00177",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00180",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00181",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00183",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00184",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00189",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00190",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00192",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00193",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00194",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00195",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00197",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00199",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    },
+    {
+      "source": "n00200",
+      "target": "n00004",
+      "type": "HAS_ELEMENT",
+      "weight": 1
+    }
+  ]
+}

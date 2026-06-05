@@ -39,20 +39,12 @@ env/
 # Jupyter
 .ipynb_checkpoints/
 
-# Project-specific outputs (generated, not source)
-data/extracted_json/
-data/kg_outputs/
-data/dag_outputs/
-data/validation_ground_truth/
+# Project-specific — exclude only copyrighted/private/unused
 supplementary/corpus_batch_data/
-supplementary/ti_case_figures/
 models/checkpoints/
 outputs/
 results/
 *.pdf
-*.png
-*.jpg
-*.jpeg
 
 # Logs
 *.log

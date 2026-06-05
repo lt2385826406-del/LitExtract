@@ -1,0 +1,302 @@
+node_id,type,name,count,alloy_system
+n00001,Paper,A comprehensive mean-field approach to simulate the microstr,1,Ti-based
+n00002,Element,Al,95,Ti-based
+n00003,Element,W,26,Ti-based
+n00004,Element,V,89,Ti-based
+n00005,Element,Mo,71,Ti-based
+n00006,Element,Sn,36,Ti-based
+n00007,Element,Cr,51,Ti-based
+n00008,Element,Zr,44,Ti-based
+n00009,Element,C,85,Ti-based
+n00010,Process,Annealing,57,Ti-based
+n00011,Process,Quenching,35,Ti-based
+n00012,Process,Hot Compression,17,Ti-based
+n00013,Microstructure,Equiaxed α,56,Ti-based
+n00014,Microstructure,Lamellar α,55,Ti-based
+n00015,Microstructure,Grain Refinement,64,Ti-based
+n00016,Microstructure,Recrystallization,54,Ti-based
+n00017,Microstructure,Phase Transformation,92,Ti-based
+n00018,Microstructure,α+β Dual Phase,79,Ti-based
+n00019,Microstructure,Dynamic Recrystallization,30,Ti-based
+n00020,Microstructure,Static Recrystallization,3,Ti-based
+n00021,Property,Yield Strength,79,Ti-based
+n00022,Property,Elongation/Ductility,92,Ti-based
+n00023,Property,Corrosion Resistance,76,Ti-based
+n00024,Property,Creep Resistance,46,Ti-based
+n00025,Property,Work Hardening,28,Ti-based
+n00026,Alloy,Ti-6Al-4V,69,Ti-based
+n00027,Alloy,Ti-5Al-5Mo-5V-3Cr-1Zr,4,Ti-based
+n00028,Alloy,Ti-5Al-2Sn-2Zr-4Mo-4Cr,4,Ti-based
+n00029,Paper,A full-field model for hydrogen diffusion and trapping in tw,1,Ti-based
+n00030,Element,B,24,Ti-based
+n00031,Element,N,31,Ti-based
+n00032,Process,Powder Metallurgy,33,Ti-based
+n00033,Microstructure,Martensite (α'),60,Ti-based
+n00034,Microstructure,Precipitation,70,Ti-based
+n00035,Property,TWIP Effect,14,Ti-based
+n00036,Paper,A strategy to regulate the yield ratio of a metastable high,1,Ti-based
+n00037,Element,Fe,49,Ti-based
+n00038,Element,Ta,17,Ti-based
+n00039,Element,Mn,8,Ti-based
+n00040,Element,Nb,44,Ti-based
+n00041,Process,Aging,50,Ti-based
+n00042,Process,Solution Treatment,55,Ti-based
+n00043,Process,Additive Manufacturing,72,Ti-based
+n00044,Microstructure,Widmanstätten/Basketweave,19,Ti-based
+n00045,Microstructure,β-Stabilized Structure,48,Ti-based
+n00046,Property,Ultimate Tensile Strength,47,Ti-based
+n00047,Property,Fatigue Performance,84,Ti-based
+n00048,Property,Biocompatibility,30,Ti-based
+n00049,Property,Elastic Modulus,35,Ti-based
+n00050,Property,Ductility,80,Ti-based
+n00051,Property,Strength-Ductility Balance,17,Ti-based
+n00052,Alloy,Ti-30Zr-5Mo,1,Ti-based
+n00053,Alloy,Ti-30Zr,1,Ti-based
+n00054,Alloy,Ti-10V-3Fe-3Al,1,Ti-based
+n00055,Alloy,Ti-15Mo-2Al,1,Ti-based
+n00056,Paper,Achieving equiaxed grain microstructure and isotropic proper,1,Ti-based
+n00057,Element,Si,18,Ti-based
+n00058,Process,Hot Rolling,14,Ti-based
+n00059,Process,SLM,38,Ti-based
+n00060,Process,DED,22,Ti-based
+n00061,Process,WAAM,11,Ti-based
+n00062,Process,EBM,21,Ti-based
+n00063,Microstructure,ω Phase,27,Ti-based
+n00064,Microstructure,Columnar Grains,26,Ti-based
+n00065,Microstructure,Porosity,41,Ti-based
+n00066,Property,Fracture Toughness,38,Ti-based
+n00067,Alloy,Ti-3Al-6V-6Fe-2Zr,1,Ti-based
+n00068,Alloy,Ti-16Nb,1,Ti-based
+n00069,Paper,Achieving high density and controlled microstructure by pred,1,Ti-based
+n00070,Process,Hot Forging,11,Ti-based
+n00071,Process,Sintering/SPS,2,Ti-based
+n00072,Property,Hardness,37,Ti-based
+n00073,Alloy,Ti-6Cr-5Mo-5V-4Al,4,Ti-based
+n00074,Alloy,Ti-5Al-5V-5Mo-3Cr,5,Ti-based
+n00075,Alloy,Ti-5Al-5Mo-5V-3Cr,12,Ti-based
+n00076,Alloy,Ti-10V-2Fe-3Al,10,Ti-based
+n00077,Paper,Achieving high work-hardening and high plasticity of metasta,1,Ti-based
+n00078,Element,Cu,15,Ti-based
+n00079,Microstructure,Twinning (TWIP),25,Ti-based
+n00080,Property,TRIP Effect,17,Ti-based
+n00081,Alloy,Ti-28Nb-35.4Zr,1,Ti-based
+n00082,Alloy,Ti-4V-2Mo-2Fe,2,Ti-based
+n00083,Paper,An investigation on microstructure evolution and deformation,1,Ti-based
+n00084,Process,Welding,29,Ti-based
+n00085,Microstructure,Bimodal Microstructure,17,Ti-based
+n00086,Alloy,Ti-5Al-5Mo-5V-1Cr-1Fe,11,Ti-based
+n00087,Alloy,Ti-5Al-2.5Sn,3,Ti-based
+n00088,Paper,Anomalous solidification behaviour in rapidly cooled TiNbTa,1,Ti-based
+n00089,Element,O,31,Ti-based
+n00090,Process,LPBF,29,Ti-based
+n00091,Alloy,Ti-20Nb-10Ta,1,Ti-based
+n00092,Alloy,Ti-25Nb,2,Ti-based
+n00093,Alloy,Ti-35Ta,1,Ti-based
+n00094,Alloy,Ti-17.9Nb-11.1Ta,1,Ti-based
+n00095,Alloy,Ti-22Nb-19Ta,1,Ti-based
+n00096,Paper,Balancing strength and ductility by controllable heat-treatm,1,Ti-based
+n00097,Process,HIP,22,Ti-based
+n00098,Process,Cross-Rolling,1,Ti-based
+n00099,Paper,Biomedical mmlmathaltimgsi38svgdisplayinlineidd1e781mmlmiβmm,1,Ti-based
+n00100,Property,Wear Resistance,13,Ti-based
+n00101,Alloy,Ti-12at,1,Ti-based
+n00102,Alloy,Ti-12Cr,3,Ti-based
+n00103,Alloy,Ti-13.5Mo,1,Ti-based
+n00104,Alloy,Ti-12Cr-3Sn,3,Ti-based
+n00105,Alloy,Ti-9Cr-0.2O,1,Ti-based
+n00106,Paper,Characterization of hot deformation and microstructure evolu,1,Ti-based
+n00107,Microstructure,Adiabatic Shear Band,11,Ti-based
+n00108,Alloy,Ti-6Al-4V-0.1Ru,1,Ti-based
+n00109,Alloy,Ti-22Al-25Nb,2,Ti-based
+n00110,Paper,Columnar to equiaxed transition during β heat treatment in a,1,Ti-based
+n00111,Paper,Combination of multiple strengthening mechanisms facilitates,1,Ti-based
+n00112,Alloy,Ti-15Nb-5Zr-4Sn-1Fe,1,Ti-based
+n00113,Alloy,Ti-6Mo-3.5Cr-1Zr,3,Ti-based
+n00114,Alloy,Ti-2Al-9.2Mo-2Fe,3,Ti-based
+n00115,Paper,Cooling rate effects on microstructure and diffusion behavio,1,Ti-based
+n00116,Alloy,Ti-8Al-1Mo-1V,3,Ti-based
+n00117,Paper,Cost-affordable and qualified powder metallurgy metastable b,1,Ti-based
+n00118,Microstructure,Trimodal Microstructure,2,Ti-based
+n00119,Alloy,Ti-10V,1,Ti-based
+n00120,Paper,Deciphering the microstructural evolution and adiabatic shea,1,Ti-based
+n00121,Alloy,Ti-6Mo-3Cr-1Zr,1,Ti-based
+n00122,Paper,Deformation behavior of HfNbTaTiZr high entropy alloy singe,1,Ti-based
+n00123,Element,Hf,3,Ti-based
+n00124,Property,High-Temp Strength,5,Ti-based
+n00125,Paper,Dependence of the fracture behaviour and property on the mic,1,Ti-based
+n00126,Alloy,Ti-3Al-2Mo-2Zr,1,Ti-based
+n00127,Alloy,Ti-5Al-4Zr-8Mo-7V,1,Ti-based
+n00128,Paper,Dynamic α globularization in laser powder bed fusion additiv,1,Ti-based
+n00129,Element,Ni,9,Ti-based
+n00130,Alloy,Ti-6Al-2Sn-4Zr-2Mo,5,Ti-based
+n00131,Paper,Effect of cross-section change on microstructure and propert,1,Ti-based
+n00132,Paper,Effect of cryogenic and electropulsing coupling treatment on,1,Ti-based
+n00133,Paper,Effect of cyclic heat treatment on microstructure and mechan,1,Ti-based
+n00134,Paper,Effect of heat treatment on the microstructure mechanical pr,1,Ti-based
+n00135,Alloy,Ti-45Nb,2,Ti-based
+n00136,Alloy,Ti-25Nb-25Zr,1,Ti-based
+n00137,Alloy,Ti-42Nb,1,Ti-based
+n00138,Paper,Effect of heat treatments on the microstructure and mechanic,1,Ti-based
+n00139,Process,Two-step Aging,1,Ti-based
+n00140,Alloy,Ti-5Al-3Mo-3V-2Cr-2Zr-1Nb-1Fe,1,Ti-based
+n00141,Paper,Elastic modulus engineering in ceitalicβceitalic-titanium al,1,Ti-based
+n00142,Alloy,Ti-12Cr-1Sn,2,Ti-based
+n00143,Alloy,Ti-35Nb-3Sn,1,Ti-based
+n00144,Paper,Electroshock treatment dependent microstructural evolution a,1,Ti-based
+n00145,Alloy,Ti-6.6Al-3.4Mo,1,Ti-based
+n00146,Paper,Enhanced microstructural homogeneity and strength-ductility,1,Ti-based
+n00147,Element,Ce,1,Ti-based
+n00148,Element,Y,6,Ti-based
+n00149,Alloy,Ti-15Mo-3Al-2.7Nb-0.2Si,2,Ti-based
+n00150,Paper,Enhancing mechanical strength of Ti-6Al-4V sheet material by,1,Ti-based
+n00151,Process,Solution Heat Treatment,2,Ti-based
+n00152,Process,Water Quenching,1,Ti-based
+n00153,Paper,Evaluation of high-temperature formability for Ti-xMo-4Fe me,1,Ti-based
+n00154,Alloy,Ti-3.4Mo-4Fe,1,Ti-based
+n00155,Alloy,Ti-5Mo-4Fe,2,Ti-based
+n00156,Paper,Evaluation of microstructure and mechanical properties of ad,1,Ti-based
+n00157,Alloy,Ti-5Al-4V-5Mo-3Cr,1,Ti-based
+n00158,Paper,Fatigue damage origin of laser direct energy deposited titan,1,Ti-based
+n00159,Paper,Fatigue performance of beta titanium alloy topological porou,1,Ti-based
+n00160,Alloy,Ti-25Nb-3Zr-3Mo-1Sn,1,Ti-based
+n00161,Alloy,Ti-24Nb-4Zr-8Sn,4,Ti-based
+n00162,Paper,Flow softening and microstructural evolution of near β titan,1,Ti-based
+n00163,Alloy,Ti-3Al-5Mo-4Cr-2Zr-1Fe,1,Ti-based
+n00164,Paper,From clinic to lab Advances in porous titanium-based orthope,1,Ti-based
+n00165,Element,Co,2,Ti-based
+n00166,Alloy,Ti-29Nb-2Mo-6Zr,1,Ti-based
+n00167,Alloy,Ti-35Nb-2Ta-3Zr,1,Ti-based
+n00168,Alloy,Ti-29Nb-13Ta-4.6Zr,2,Ti-based
+n00169,Paper,Gradient microstructure and mechanical properties of Ti-6Al-,1,Ti-based
+n00170,Paper,Growth mechanisms and properties of carburized layers with a,1,Ti-based
+n00171,Alloy,Ti-29Nb-13Ta-7.1Zr,1,Ti-based
+n00172,Alloy,Ti-6Al-2Mo-1.5Cr-2Zr-2Sn-2Nb,1,Ti-based
+n00173,Paper,Heat treatment possibilities for an in situ βTi-TiC composit,1,Ti-based
+n00174,Paper,Heterogeneous dynamic restoration of Ti15Mo alloy during hot,1,Ti-based
+n00175,Alloy,Ti-15Mo,3,Ti-based
+n00176,Alloy,Ti-17Mo,1,Ti-based
+n00177,Paper,High-temperature deformation mechanism of Ti5Mo4Fe metastabl,1,Ti-based
+n00178,Alloy,Ti-6Al-3Nb-2Zr-1Mo,1,Ti-based
+n00179,Alloy,Ti-23.1Nb-2.0Zr-1.0O,1,Ti-based
+n00180,Paper,High-temperature oxidation behaviors and mechanical properti,1,Ti-based
+n00181,Paper,Homogenization forging and deformation mechanism of near-cei,1,Ti-based
+n00182,Alloy,Ti-6Al-2Sn-4Zr-6Mo,3,Ti-based
+n00183,Paper,Hybrid manufacturing approach for landing gear applications,1,Ti-based
+n00184,Paper,Improvement of interfacial compatibility of SiCceinflocpostf,1,Ti-based
+n00185,Alloy,Ti-15Al-3Cr,1,Ti-based
+n00186,Alloy,Ti-21Al-29Nb,1,Ti-based
+n00187,Paper,Improving the mechanical strength of ternary beta titanium a,1,Ti-based
+n00188,Alloy,Ti-13Ta-12Sn,1,Ti-based
+n00189,Paper,In-situ high-temperature EBSD characterization during a solu,1,Ti-based
+n00190,Paper,In-situ Micro-CT analysis of deformation behavior in sandwic,1,Ti-based
+n00191,Alloy,Ti-35Nb,3,Ti-based
+n00192,Paper,Influence mechanism of microstructure variation on mechanica,1,Ti-based
+n00193,Paper,Influence of gradual stress relieving on the microstructure,1,Ti-based
+n00194,Paper,Influence of heat treatment on the residual stress-related m,1,Ti-based
+n00195,Paper,Influence of heat treatment on the tensile properties of Ti1,1,Ti-based
+n00196,Alloy,Ti-6V-4Al,1,Ti-based
+n00197,Paper,Influence of heat treatment parameters on microstructure and,1,Ti-based
+n00198,Alloy,Ti-45Al-4Nb,1,Ti-based
+n00199,Paper,Influence of the process parameters on the microstructure an,1,Ti-based
+n00200,Paper,Investigation of tensile deformation behavior of a TWIPTRIP,1,Ti-based
+n00201,Alloy,Ti-10Mo,1,Ti-based
+n00202,Paper,Laser additive manufacturing of new αβ titanium alloy with h,1,Ti-based
+n00203,Paper,Laser surface melting of TC21 αβ titanium alloy with 80 trac,1,Ti-based
+n00204,Paper,Microstructural evolution and dynamic recrystallization mech,1,Ti-based
+n00205,Alloy,Ti-48Al-2Cr-2Nb,1,Ti-based
+n00206,GlobalFigure,"Figure 4 (a1, a2)|111764f7",1,Ti-based
+n00207,GlobalFigure,"Figure 4 (b1, b2)|111764f7",1,Ti-based
+n00208,GlobalFigure,"Figure 4 (c1, c2)|111764f7",1,Ti-based
+n00209,GlobalFigure,"Figure 5 (a1, a2)|111764f7",1,Ti-based
+n00210,GlobalFigure,"Figure 5 (b1, b2)|111764f7",1,Ti-based
+n00211,GlobalFigure,"Figure 5 (c1, c2)|111764f7",1,Ti-based
+n00212,GlobalFigure,"Figure 6 (a1, a2)|111764f7",1,Ti-based
+n00213,GlobalFigure,"Figure 6 (b1, b2)|111764f7",1,Ti-based
+n00214,GlobalFigure,"Figure 6 (c1, c2)|111764f7",1,Ti-based
+n00215,GlobalFigure,"Figure 7 (a1, a2)|111764f7",1,Ti-based
+n00216,GlobalFigure,"Figure 7 (b1, b2)|111764f7",1,Ti-based
+n00217,GlobalFigure,"Figure 7 (c1, c2)|111764f7",1,Ti-based
+n00218,Sample,Ti-6Al-4V|S1|1764f7,1,Ti-based
+n00219,Sample,Ti-6Al-4V|S2|1764f7,1,Ti-based
+n00220,Sample,Ti-6Al-4V|S3|1764f7,1,Ti-based
+n00221,Paper,Microstructure analysis of 7050 aluminum alloy joint fabrica,1,Ti-based
+n00222,Paper,Microstructure and deformation behavior of the wire-arc dire,1,Ti-based
+n00223,Alloy,Ti-6242S,3,Ti-based
+n00224,Alloy,Ti-22V-4Al,1,Ti-based
+n00225,Paper,Microstructure and mechanical behavior of rhombic dodecahedr,1,Ti-based
+n00226,Paper,Microstructure and mechanical properties of electron beam ad,1,Ti-based
+n00227,Alloy,Ti-1Al-8V-5Fe,2,Ti-based
+n00228,Alloy,Ti-12Mo,3,Ti-based
+n00229,Alloy,Ti-18Mo,1,Ti-based
+n00230,Alloy,Ti-1.38Al-8.0V-4.58Fe-0.15O-0.018N,1,Ti-based
+n00231,Paper,Microstructure and mechanical properties of Ti-6Al-4V alloy,1,Ti-based
+n00232,Paper,Microstructure and wettability of the micro-laminated Ti6Al4,1,Ti-based
+n00233,Process,Cold Rolling,2,Ti-based
+n00234,Paper,Microstructure evolution and deformation mechanisms during c,1,Ti-based
+n00235,Paper,Microstructure evolution and hydrogen absorption characteris,1,Ti-based
+n00236,Alloy,Ti-4.5Al-3V-2Mo-2Fe,1,Ti-based
+n00237,Paper,Microstructure evolution and phase transformation mechanism,1,Ti-based
+n00238,Alloy,Ti-46Al-8Nb-2.5V,1,Ti-based
+n00239,Alloy,Ti-45Al-8.5Nb-0.2W-0.2B-0.02Y,1,Ti-based
+n00240,Alloy,Ti-47Al-2Cr-2Nb,1,Ti-based
+n00241,Paper,Microstructure Evolution mechanical Properties and biologica,1,Ti-based
+n00242,Alloy,Ti-35Nb-7Zr-5Ta,1,Ti-based
+n00243,Alloy,Ti-10Mo-6Zr-4Sn-3Nb,1,Ti-based
+n00244,Alloy,Ti-30Nb-5Ta-3Zr,1,Ti-based
+n00245,Paper,Microstructure tailoring of a wire-arc DED processed Ti6242,1,Ti-based
+n00246,Alloy,Ti-6Al-2Sn-4Zr-2Mo-0.1Si,2,Ti-based
+n00247,Paper,Microstructure-based tensile indicator for assessing high-cy,1,Ti-based
+n00248,Paper,Minor additions of Sn suppress the omega phase formation in,1,Ti-based
+n00249,Alloy,Ti-4Mo-8Cr,1,Ti-based
+n00250,Alloy,Ti-4Mo-8Cr-1Sn,1,Ti-based
+n00251,Paper,Morphology of adiabatic shear bands in a metastable beta tit,1,Ti-based
+n00252,Paper,Multi-scale characterizations of microstructure and mechanic,1,Ti-based
+n00253,Paper,New insight into deformation induced α variant selection in,1,Ti-based
+n00254,Alloy,Ti-7Mo-3Nb-3Cr-3Al,2,Ti-based
+n00255,Paper,Phase transformation behavior of Ti40Al8Nb alloys with a sub,1,Ti-based
+n00256,Alloy,Ti-40Al-8Nb,1,Ti-based
+n00257,Alloy,Ti-34Al-13Nb,1,Ti-based
+n00258,Paper,Phase transformation sequence and kinetics of ω formation in,1,Ti-based
+n00259,Alloy,Ti-3Al-5Mo-7V-3Cr,1,Ti-based
+n00260,Alloy,Ti-5Al-2.5Cr-5Mo-1Sn,1,Ti-based
+n00261,Paper,Phase transformation-induced microstructural inhomogeneity i,1,Ti-based
+n00262,Paper,Post welding heat treatment improving mechanical properties,1,Ti-based
+n00263,Paper,Powder heat treatment for cold spray additive manufacturing,1,Ti-based
+n00264,Alloy,Ti-3Al-15Mo-3Nb-0.2Si,1,Ti-based
+n00265,Paper,Quantitative analysis of globularization and modeling of TC1,1,Ti-based
+n00266,Paper,Quasi-static tensile properties of DMLS TI6AL4VELI specimens,1,Ti-based
+n00267,Paper,Refinement of the grain structure of additive manufactured t,1,Ti-based
+n00268,Paper,Role of grain size in the evolution of stress-induced marten,1,Ti-based
+n00269,Alloy,Ti-15Al-8Nb,1,Ti-based
+n00270,Paper,Tailoring high-temperature mechanical properties of laser po,1,Ti-based
+n00271,Alloy,Ti-6.5Al-2Zr-1Mo-1V,1,Ti-based
+n00272,Alloy,Ti-6.43Al-2.11Zr-1.43Mo-2.29V,1,Ti-based
+n00273,Alloy,Ti-6Al-2Zr-1Mo-1V,1,Ti-based
+n00274,Paper,The effect of interfacial alloy formation on the mechanical,1,Ti-based
+n00275,Alloy,Ti-4.3Al-5.4V-2.2Fe,1,Ti-based
+n00276,Alloy,Ti-2.6Al-6.7V-3.9Fe,1,Ti-based
+n00277,Paper,The effect of surface roughness and microstructure on fretti,1,Ti-based
+n00278,Paper,The effect of TiC on microstructure and mechanical propertie,1,Ti-based
+n00279,Paper,The effect of vacuum brazing time on the microstructure and,1,Ti-based
+n00280,Paper,The effects of forging strategies on microstructures and mec,1,Ti-based
+n00281,Alloy,Ti-5.3Al-5.2Mo-4.8V-1.1Cr-0.9Fe,1,Ti-based
+n00282,Alloy,Ti-15Mo-5Zr,1,Ti-based
+n00283,Paper,The electrochemical corrosion behavior of Ti-5Al-5Mo-5V-1Cr-,1,Ti-based
+n00284,Paper,The influence of microstructure heterogeneity on the tensile,1,Ti-based
+n00285,Alloy,Ti-6Al-4.5V-0.35Fe,1,Ti-based
+n00286,Paper,The intricacies of α-β microstructures in titanium alloys In,1,Ti-based
+n00287,Alloy,Ti-4Al-2V,1,Ti-based
+n00288,Paper,The LPBF printability and as-printed mechanical properties o,1,Ti-based
+n00289,Alloy,Ti-6Al-2Sn4Zr-6Mo,1,Ti-based
+n00290,Paper,The microstructural morphology of transformed α induced by 1,1,Ti-based
+n00291,Paper,The microstructure development in a Zr-enriched TiZrAlNb all,1,Ti-based
+n00292,Alloy,Ti-30wt,1,Ti-based
+n00293,Alloy,Ti-4AlS,1,Ti-based
+n00294,Alloy,Ti-10Zr,1,Ti-based
+n00295,Paper,Titanium alloy microstructure fingerprint plots from in-proc,1,Ti-based
+n00296,Alloy,Ti-54M,1,Ti-based
+n00297,Paper,Towards customized heat treatments and mechanical properties,1,Ti-based
+n00298,Paper,Understanding the role of geometry and interlayer cooling ti,1,Ti-based
+n00299,Paper,Welding of Ti-5Al-5Mo-5V-1Cr-1Fe parts manufactured in the E,1,Ti-based
+n00300,Alloy,Ti-5Al-5V-5Mo-1Cr-1Fe,1,Ti-based
+n00301,Paper,Wire arc additive manufacturing Ti6Al4V aeronautical parts u,1,Ti-based

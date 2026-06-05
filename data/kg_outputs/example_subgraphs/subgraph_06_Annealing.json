@@ -1,0 +1,567 @@
+{
+  "center_node": {
+    "id": "n00010",
+    "type": "Process",
+    "name": "Annealing"
+  },
+  "degree": 76,
+  "nodes": [
+    {
+      "id": "n00001",
+      "type": "Paper",
+      "name": "A comprehensive mean-field approach to simulate the microstr"
+    },
+    {
+      "id": "n00010",
+      "type": "Process",
+      "name": "Annealing"
+    },
+    {
+      "id": "n00013",
+      "type": "Microstructure",
+      "name": "Equiaxed α"
+    },
+    {
+      "id": "n00014",
+      "type": "Microstructure",
+      "name": "Lamellar α"
+    },
+    {
+      "id": "n00015",
+      "type": "Microstructure",
+      "name": "Grain Refinement"
+    },
+    {
+      "id": "n00016",
+      "type": "Microstructure",
+      "name": "Recrystallization"
+    },
+    {
+      "id": "n00017",
+      "type": "Microstructure",
+      "name": "Phase Transformation"
+    },
+    {
+      "id": "n00018",
+      "type": "Microstructure",
+      "name": "α+β Dual Phase"
+    },
+    {
+      "id": "n00019",
+      "type": "Microstructure",
+      "name": "Dynamic Recrystallization"
+    },
+    {
+      "id": "n00020",
+      "type": "Microstructure",
+      "name": "Static Recrystallization"
+    },
+    {
+      "id": "n00029",
+      "type": "Paper",
+      "name": "A full-field model for hydrogen diffusion and trapping in tw"
+    },
+    {
+      "id": "n00033",
+      "type": "Microstructure",
+      "name": "Martensite (α')"
+    },
+    {
+      "id": "n00034",
+      "type": "Microstructure",
+      "name": "Precipitation"
+    },
+    {
+      "id": "n00036",
+      "type": "Paper",
+      "name": "A strategy to regulate the yield ratio of a metastable high"
+    },
+    {
+      "id": "n00044",
+      "type": "Microstructure",
+      "name": "Widmanstätten/Basketweave"
+    },
+    {
+      "id": "n00045",
+      "type": "Microstructure",
+      "name": "β-Stabilized Structure"
+    },
+    {
+      "id": "n00056",
+      "type": "Paper",
+      "name": "Achieving equiaxed grain microstructure and isotropic proper"
+    },
+    {
+      "id": "n00063",
+      "type": "Microstructure",
+      "name": "ω Phase"
+    },
+    {
+      "id": "n00064",
+      "type": "Microstructure",
+      "name": "Columnar Grains"
+    },
+    {
+      "id": "n00065",
+      "type": "Microstructure",
+      "name": "Porosity"
+    },
+    {
+      "id": "n00069",
+      "type": "Paper",
+      "name": "Achieving high density and controlled microstructure by pred"
+    },
+    {
+      "id": "n00077",
+      "type": "Paper",
+      "name": "Achieving high work-hardening and high plasticity of metasta"
+    },
+    {
+      "id": "n00079",
+      "type": "Microstructure",
+      "name": "Twinning (TWIP)"
+    },
+    {
+      "id": "n00085",
+      "type": "Microstructure",
+      "name": "Bimodal Microstructure"
+    },
+    {
+      "id": "n00088",
+      "type": "Paper",
+      "name": "Anomalous solidification behaviour in rapidly cooled TiNbTa"
+    },
+    {
+      "id": "n00096",
+      "type": "Paper",
+      "name": "Balancing strength and ductility by controllable heat-treatm"
+    },
+    {
+      "id": "n00107",
+      "type": "Microstructure",
+      "name": "Adiabatic Shear Band"
+    },
+    {
+      "id": "n00110",
+      "type": "Paper",
+      "name": "Columnar to equiaxed transition during β heat treatment in a"
+    },
+    {
+      "id": "n00115",
+      "type": "Paper",
+      "name": "Cooling rate effects on microstructure and diffusion behavio"
+    },
+    {
+      "id": "n00117",
+      "type": "Paper",
+      "name": "Cost-affordable and qualified powder metallurgy metastable b"
+    },
+    {
+      "id": "n00118",
+      "type": "Microstructure",
+      "name": "Trimodal Microstructure"
+    },
+    {
+      "id": "n00122",
+      "type": "Paper",
+      "name": "Deformation behavior of HfNbTaTiZr high entropy alloy singe"
+    },
+    {
+      "id": "n00128",
+      "type": "Paper",
+      "name": "Dynamic α globularization in laser powder bed fusion additiv"
+    },
+    {
+      "id": "n00131",
+      "type": "Paper",
+      "name": "Effect of cross-section change on microstructure and propert"
+    },
+    {
+      "id": "n00132",
+      "type": "Paper",
+      "name": "Effect of cryogenic and electropulsing coupling treatment on"
+    },
+    {
+      "id": "n00134",
+      "type": "Paper",
+      "name": "Effect of heat treatment on the microstructure mechanical pr"
+    },
+    {
+      "id": "n00141",
+      "type": "Paper",
+      "name": "Elastic modulus engineering in ceitalicβceitalic-titanium al"
+    },
+    {
+      "id": "n00146",
+      "type": "Paper",
+      "name": "Enhanced microstructural homogeneity and strength-ductility"
+    },
+    {
+      "id": "n00150",
+      "type": "Paper",
+      "name": "Enhancing mechanical strength of Ti-6Al-4V sheet material by"
+    },
+    {
+      "id": "n00156",
+      "type": "Paper",
+      "name": "Evaluation of microstructure and mechanical properties of ad"
+    },
+    {
+      "id": "n00158",
+      "type": "Paper",
+      "name": "Fatigue damage origin of laser direct energy deposited titan"
+    },
+    {
+      "id": "n00159",
+      "type": "Paper",
+      "name": "Fatigue performance of beta titanium alloy topological porou"
+    },
+    {
+      "id": "n00162",
+      "type": "Paper",
+      "name": "Flow softening and microstructural evolution of near β titan"
+    },
+    {
+      "id": "n00169",
+      "type": "Paper",
+      "name": "Gradient microstructure and mechanical properties of Ti-6Al-"
+    },
+    {
+      "id": "n00174",
+      "type": "Paper",
+      "name": "Heterogeneous dynamic restoration of Ti15Mo alloy during hot"
+    },
+    {
+      "id": "n00189",
+      "type": "Paper",
+      "name": "In-situ high-temperature EBSD characterization during a solu"
+    },
+    {
+      "id": "n00193",
+      "type": "Paper",
+      "name": "Influence of gradual stress relieving on the microstructure"
+    },
+    {
+      "id": "n00195",
+      "type": "Paper",
+      "name": "Influence of heat treatment on the tensile properties of Ti1"
+    },
+    {
+      "id": "n00197",
+      "type": "Paper",
+      "name": "Influence of heat treatment parameters on microstructure and"
+    },
+    {
+      "id": "n00202",
+      "type": "Paper",
+      "name": "Laser additive manufacturing of new αβ titanium alloy with h"
+    },
+    {
+      "id": "n00204",
+      "type": "Paper",
+      "name": "Microstructural evolution and dynamic recrystallization mech"
+    }
+  ],
+  "edges": [
+    {
+      "source": "n00001",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00013",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 35
+    },
+    {
+      "source": "n00010",
+      "target": "n00014",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 39
+    },
+    {
+      "source": "n00010",
+      "target": "n00015",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 38
+    },
+    {
+      "source": "n00010",
+      "target": "n00016",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 33
+    },
+    {
+      "source": "n00010",
+      "target": "n00017",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 53
+    },
+    {
+      "source": "n00010",
+      "target": "n00018",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 46
+    },
+    {
+      "source": "n00010",
+      "target": "n00019",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 18
+    },
+    {
+      "source": "n00010",
+      "target": "n00020",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 3
+    },
+    {
+      "source": "n00029",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00033",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 38
+    },
+    {
+      "source": "n00010",
+      "target": "n00034",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 40
+    },
+    {
+      "source": "n00036",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00044",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 10
+    },
+    {
+      "source": "n00010",
+      "target": "n00045",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 28
+    },
+    {
+      "source": "n00056",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00063",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 14
+    },
+    {
+      "source": "n00010",
+      "target": "n00064",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 18
+    },
+    {
+      "source": "n00010",
+      "target": "n00065",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 25
+    },
+    {
+      "source": "n00069",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00077",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00079",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 15
+    },
+    {
+      "source": "n00088",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00096",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00085",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 11
+    },
+    {
+      "source": "n00110",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00115",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00117",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00118",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 1
+    },
+    {
+      "source": "n00122",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00128",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00131",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00132",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00134",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00141",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00146",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00010",
+      "target": "n00107",
+      "type": "PROCESS_LEADS_TO_MICRO",
+      "weight": 4
+    },
+    {
+      "source": "n00150",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00156",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00158",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00159",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00162",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00169",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00174",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00189",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00193",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00195",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00197",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00202",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    },
+    {
+      "source": "n00204",
+      "target": "n00010",
+      "type": "INVOLVES_PROCESS",
+      "weight": 1
+    }
+  ]
+}
