@@ -1,0 +1,23 @@
+# Edge Confidence Scoring
+
+scoring:
+  method: weighted_sum
+  weights:
+    cooccurrence_freq: 0.30
+    causal_trigger_strength: 0.40
+    domain_consistency: 0.20
+    evidence_quality: 0.10
+  threshold:
+    min_confidence: 0.3
+    high_confidence: 0.7
+
+cooccurrence:
+  min_cooccurrence: 2
+  dynamic_min_freq: true
+  smoothing: laplace
+  alpha: 0.1
+
+causal_triggers:
+  strong: [leads to, results in, causes, due to, attributed to, responsible for]
+  medium: [associated with, correlated with, related to, accompanied by]
+  weak: [may affect, might influence, could impact]

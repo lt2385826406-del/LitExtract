@@ -1,0 +1,16 @@
+# DAG Domain Constraints
+
+allowed_edge_directions:
+  composition_to_process:       {source: [Element, Alloy], target: [Process]}
+  composition_to_microstructure: {source: [Element, Alloy], target: [Microstructure]}
+  process_to_microstructure:     {source: [Process], target: [Microstructure]}
+  process_to_property:           {source: [Process], target: [Property]}
+  microstructure_to_property:    {source: [Microstructure], target: [Property]}
+
+forbidden_cycles:
+  - [Property, Microstructure]
+  - [Property, Process]
+  - [Microstructure, Process]
+  - [Microstructure, Element]
+
+node_type_order: [Element, Alloy, Process, Microstructure, Property]

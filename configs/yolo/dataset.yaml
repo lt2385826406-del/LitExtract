@@ -1,0 +1,16 @@
+# YOLOv11 Dataset Configuration — PDF Figure Detection
+# LitExtract
+
+# Dataset paths
+train: data/annotations/yolo_labels/train/images
+val:   data/annotations/yolo_labels/val/images
+test:  data/annotations/yolo_labels/test/images
+
+nc: 5  # number of classes
+
+names:
+  0: figure
+  1: table
+  2: equation
+  3: chart
+  4: micrograph

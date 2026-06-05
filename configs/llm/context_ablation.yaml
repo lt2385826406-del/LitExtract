@@ -1,0 +1,22 @@
+# Context Window Ablation Study
+
+experiment:
+  name: context_ablation
+  description: Effect of context length on extraction quality
+  model: deepseek-chat
+
+conditions:
+  - full_paper
+  - methods_only
+  - results_only
+  - abstract_intro
+  - truncated_2k
+  - truncated_4k
+  - truncated_8k
+
+metrics:
+  - precision
+  - recall
+  - f1_score
+  - entity_count
+  - causal_triple_count

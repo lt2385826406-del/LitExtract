@@ -1,0 +1,64 @@
+# =============================================================================
+# LitExtract Dependencies
+# =============================================================================
+# Install: pip install -r requirements.txt
+#
+# For optional features, install extras:
+#   pip install -e ".[vision,llm,ocr]"
+#   pip install -e ".[dev]"
+# =============================================================================
+
+# ---------------------------------------------------------------------------
+# Core — required for basic pipeline (KG construction, DAG, visualisation)
+# ---------------------------------------------------------------------------
+networkx>=3.0
+numpy>=1.23.0
+pandas>=1.0
+pillow>=7.1.2              # PIL / image handling
+pyvis>=0.3.0               # interactive graph visualisation (HTML)
+pyyaml>=5.3.1
+requests>=2.23.0           # API calls (DeepSeek, etc.)
+gradio==3.50.2             # optional UI
+
+# ---------------------------------------------------------------------------
+# PDF Parsing — required for document ingestion
+# ---------------------------------------------------------------------------
+pymupdf>=1.26.0            # fitz — PDF to image/text
+pdf2image>=1.16.0          # additional PDF → PIL bridge
+
+# ---------------------------------------------------------------------------
+# Vision (optional) — YOLO figure detection, ResNet classification
+#   pip install -e ".[vision]"
+# ---------------------------------------------------------------------------
+# ultralytics>=8.0.0
+# torch>=2.0.0
+# torchvision>=0.15.0
+# opencv-python>=4.6.0
+# matplotlib>=3.7.0
+# seaborn>=0.12.0
+
+# ---------------------------------------------------------------------------
+# OCR (optional) — Tesseract-based text extraction from figures
+#   pip install -e ".[ocr]"
+#   Also requires system install: apt-get install tesseract-ocr
+# ---------------------------------------------------------------------------
+# pytesseract>=0.3.10
+
+# ---------------------------------------------------------------------------
+# LLM (optional) — local model QLoRA fine-tuning & inference
+#   pip install -e ".[llm]"
+#   Requires CUDA-capable GPU
+# ---------------------------------------------------------------------------
+# transformers>=4.40.0
+# peft>=0.10.0
+# bitsandbytes>=0.43.0
+# accelerate>=0.30.0
+# datasets>=2.18.0
+# trl>=0.8.0
+
+# ---------------------------------------------------------------------------
+# Development — testing, linting, formatting
+#   pip install -e ".[dev]"
+# ---------------------------------------------------------------------------
+# pytest>=7.0
+# ruff>=0.4.0

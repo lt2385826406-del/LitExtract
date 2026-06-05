@@ -1,0 +1,1057 @@
+{
+  "total": 201,
+  "papers": [
+    {
+      "paper": "3D ink-extrusion of elemental powders for high-compliance β-Ti microlattices",
+      "doi": "10.1016/j.jmrt.2025.06.225",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.06.225"
+    },
+    {
+      "paper": "3D-printed porous titanium scaffolds incorporating niobium for high bone regeneration capacity",
+      "doi": "10.1016/j.matdes.2020.108890",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.108890"
+    },
+    {
+      "paper": "A comparative bio-mechanical performance assessment of additively manufactured bone scaffolds using different beta Ti alloys and Gyroid based cellular structure",
+      "doi": "10.1016/j.jmrt.2025.01.096",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.01.096"
+    },
+    {
+      "paper": "A comparison study of the dwell-fatigue behaviours of additive and conventional IN718 The role of dislocation substructure on the cracking behaviour",
+      "doi": "10.1016/j.msea.2020.140072",
+      "doi_url": "https://doi.org/10.1016/j.msea.2020.140072"
+    },
+    {
+      "paper": "A comprehensive review of additively manufactured biomedical titanium alloys for bone tissue engineering Biocorrosion biomechanical and biological properties",
+      "doi": "10.1016/j.jmrt.2025.05.069",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.05.069"
+    },
+    {
+      "paper": "A creep constitutive model for Inconel 718-BNi2 brazed joints incorporating the dynamic interplay between dislocations and γ precipitate phases",
+      "doi": "10.1016/j.matdes.2025.114170",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.114170"
+    },
+    {
+      "paper": "A critical assessment of experimental investigation of dynamic recrystallization of metallic materials",
+      "doi": "10.1016/j.matdes.2020.108873",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.108873"
+    },
+    {
+      "paper": "A critical review of dispersion strengthened titanium alloy fabricated through spark plasma sintering techniques",
+      "doi": "10.1016/j.jallcom.2023.170407",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2023.170407"
+    },
+    {
+      "paper": "A critical review on multifunctional surface strategies for titanium alloys in bioactive and durable implants",
+      "doi": "10.1016/j.nxbio.2025.100009",
+      "doi_url": "https://doi.org/10.1016/j.nxbio.2025.100009"
+    },
+    {
+      "paper": "A low-cost metastable beta Ti alloy with high elastic admissible strain and enhanced ductility for orthopaedic application",
+      "doi": "10.1016/j.jallcom.2020.155391",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2020.155391"
+    },
+    {
+      "paper": "A machine learning multitasking integrated framework and its derived Moceinflocposteqceinf-Feceinflocposteqceinf map for designing TRIP titanium alloys",
+      "doi": "10.1016/j.matdes.2025.115254",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.115254"
+    },
+    {
+      "paper": "A novel high-strength ceitalicβceitalic-Ti alloy with hierarchical distribution of ceitalicαceitalic-phase The superior combination of strength and ductility",
+      "doi": "10.1016/j.matdes.2019.107640",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2019.107640"
+    },
+    {
+      "paper": "A novel method to prevent cracking in directed energy deposition of Inconel 738 by in-situ doping Inconel 718",
+      "doi": "10.1016/j.matdes.2020.109214",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.109214"
+    },
+    {
+      "paper": "A recrystallization heat-treatment to reduce deformation anisotropy of additively manufactured Inconel 718",
+      "doi": "10.1016/j.matdes.2020.109228",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.109228"
+    },
+    {
+      "paper": "A strategy for designing Ti-based ceitalicin-situceitalic bulk metallic glass composites with tailored structural metastability using conventional titanium alloys",
+      "doi": "10.1016/j.jmrt.2024.08.208",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.08.208"
+    },
+    {
+      "paper": "A study of the influence of novel scan strategies on residual stress and microstructure of L-shaped LPBF IN718 samples",
+      "doi": "10.1016/j.matdes.2022.110386",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2022.110386"
+    },
+    {
+      "paper": "A study on the microstructure and mechanical properties of the Ti-6Al-2Sn-4Zr-6Mo alloy produced via Laser Powder Bed Fusion",
+      "doi": "10.1016/j.jallcom.2021.159329",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2021.159329"
+    },
+    {
+      "paper": "A tribological investigation of SLM fabricated TC4 titanium alloy with carburization pre-treatment",
+      "doi": "10.1016/j.ceramint.2019.10.004",
+      "doi_url": "https://doi.org/10.1016/j.ceramint.2019.10.004"
+    },
+    {
+      "paper": "Achieving balanced mechanical properties in laser powder bed fusion processed Inconel 718 superalloy through a simplified heat treatment process",
+      "doi": "10.1016/j.jmst.2024.06.057",
+      "doi_url": "https://doi.org/10.1016/j.jmst.2024.06.057"
+    },
+    {
+      "paper": "Achieving cryogenic strength-ductility synergy of near-α titanium alloy fabricated by laser direct energy deposition through multiscale deformation",
+      "doi": "10.1016/j.matdes.2025.114858",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.114858"
+    },
+    {
+      "paper": "Achieving high work-hardening and high plasticity of metastable β-Ti-xV-5Zr3Al2Cr alloy through α martensite",
+      "doi": "10.1016/j.jmrt.2025.03.158",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.03.158"
+    },
+    {
+      "paper": "Additive manufacturing of Ti6Al4V alloy via electron beam melting for the development of implants for the biomedical industry",
+      "doi": "10.1016/j.heliyon.2021.e06892",
+      "doi_url": "https://doi.org/10.1016/j.heliyon.2021.e06892"
+    },
+    {
+      "paper": "Additive manufacturing of a porous titanium layer structure Ti on a CoCr alloy for manufacturing cementless implants",
+      "doi": "10.1016/j.jmrt.2020.11.080",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2020.11.080"
+    },
+    {
+      "paper": "Additive manufacturing of functionally graded inconel 718 Effect of heat treatment and building orientation on microstructure and fatigue behaviour",
+      "doi": "10.1016/j.jmatprotec.2022.117573",
+      "doi_url": "https://doi.org/10.1016/j.jmatprotec.2022.117573"
+    },
+    {
+      "paper": "Additive manufacturing of metastable beta TiNbFeSn alloys with tuned mechanical properties for biomedical implants Processingstructureproperty relationships and alloy selection for implant design",
+      "doi": "10.1016/j.jmrt.2025.11.064",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.11.064"
+    },
+    {
+      "paper": "Additive manufacturing of titanium alloys for biomedical applications A systematic review",
+      "doi": "10.1016/j.revmat.2025.100011",
+      "doi_url": "https://doi.org/10.1016/j.revmat.2025.100011"
+    },
+    {
+      "paper": "Additive manufacturing of titanium-based alloys- A review of methods properties challenges and prospects",
+      "doi": "10.1016/j.heliyon.2022.e09041",
+      "doi_url": "https://doi.org/10.1016/j.heliyon.2022.e09041"
+    },
+    {
+      "paper": "Additively manufactured Tantalum-titanium alloys with optimized osteogenic and immunomodulatory properties for load-bearing orthopedic implants",
+      "doi": "10.1016/j.bioactmat.2025.11.029",
+      "doi_url": "https://doi.org/10.1016/j.bioactmat.2025.11.029"
+    },
+    {
+      "paper": "Advances in additively manufactured titanium alloys by powder bed fusion and directed energy deposition Microstructure defects and mechanical behavior",
+      "doi": "10.1016/j.jmst.2023.11.003",
+      "doi_url": "https://doi.org/10.1016/j.jmst.2023.11.003"
+    },
+    {
+      "paper": "Advances in nano-inoculant grain refinement for fusion-based additive manufacturing of Al and Ti alloys",
+      "doi": "10.1016/j.matdes.2025.114581",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.114581"
+    },
+    {
+      "paper": "An investigation into the effect of scanning pattern and heat treatment on the mechanical properties of Inconel 718 in the direct metal deposition process",
+      "doi": "10.1016/j.jmrt.2023.04.109",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2023.04.109"
+    },
+    {
+      "paper": "Analysis of single tracks of IN718 produced by laser powder directed energy deposition process",
+      "doi": "10.1016/j.procir.2022.09.006",
+      "doi_url": "https://doi.org/10.1016/j.procir.2022.09.006"
+    },
+    {
+      "paper": "Anisotropy in cyclic behavior and fatigue crack growth of IN718 processed by laser powder bed fusion",
+      "doi": "10.1016/j.addma.2022.103301",
+      "doi_url": "https://doi.org/10.1016/j.addma.2022.103301"
+    },
+    {
+      "paper": "Anisotropy in tensile properties of a high strength metastable β titanium alloy",
+      "doi": "10.1016/j.matdes.2024.113401",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2024.113401"
+    },
+    {
+      "paper": "Assessment of β stabilizers additions on microstructure and properties of as-cast β TiNb based alloys",
+      "doi": "10.1016/j.jmrt.2022.12.144",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.12.144"
+    },
+    {
+      "paper": "Balancing strength modulus and biocompatibility in a novel oxygen-containing β-type titanium alloy",
+      "doi": "10.1016/j.jmrt.2025.11.120",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.11.120"
+    },
+    {
+      "paper": "Beta-titanium alloys versus surface treatment How much does it improve their antimicrobial activity A systematic review",
+      "doi": "10.1016/j.dentre.2024.100079",
+      "doi_url": "https://doi.org/10.1016/j.dentre.2024.100079"
+    },
+    {
+      "paper": "Bioactivity and tribological performance of a novel nano-biomaterial beta-type Ti-alloy",
+      "doi": "10.1016/j.jmrt.2025.03.180",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.03.180"
+    },
+    {
+      "paper": "Cascading of the as-built microstructure through heat treatment and its role on the tensile properties of laser powder bed fused Inconel 718",
+      "doi": "10.1016/j.mtla.2021.101272",
+      "doi_url": "https://doi.org/10.1016/j.mtla.2021.101272"
+    },
+    {
+      "paper": "Characteristics of molten pool flow in adjustable-ring-mode laser welding of titanium alloys considering influence of groove gaps",
+      "doi": "10.1016/j.jmrt.2025.08.177",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.08.177"
+    },
+    {
+      "paper": "Cold rolling deformation and annealing behavior of a β-type Ti34Nb25Zr titanium alloy for biomedical applications",
+      "doi": "10.1016/j.jmrt.2019.12.062",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2019.12.062"
+    },
+    {
+      "paper": "Combination of ceitalicab initioceitalic descriptors and machine learning approach for the prediction of the plasticity mechanisms in β-metastable Ti alloys",
+      "doi": "10.1016/j.matdes.2024.112801",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2024.112801"
+    },
+    {
+      "paper": "Combining manufacturing of titanium alloy through direct energy deposition and laser shock peening processes",
+      "doi": "10.1016/j.matdes.2021.109626",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2021.109626"
+    },
+    {
+      "paper": "Comparison of electron-beam-melted and conventionally rolled Inconel 718 under thermomechanical creep-fatigue loading",
+      "doi": "10.1016/j.ijfatigue.2025.109238",
+      "doi_url": "https://doi.org/10.1016/j.ijfatigue.2025.109238"
+    },
+    {
+      "paper": "Comprehensive mapping of mechanical properties and martensitic transformation in TiAlMo standard ternary system Integrating literature data and fabricating novel high-Al-content superelastic alloys",
+      "doi": "10.1016/j.jallcom.2024.176841",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2024.176841"
+    },
+    {
+      "paper": "Cooling dynamics of two titanium alloys during laser powder bed fusion probed with ceitalicin situceitalic X-ray imaging and diffraction",
+      "doi": "10.1016/j.matdes.2020.108987",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.108987"
+    },
+    {
+      "paper": "Corrosion behavior of wire arc additive manufactured Inconel 718 superalloy",
+      "doi": "10.1016/j.jallcom.2020.154455",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2020.154455"
+    },
+    {
+      "paper": "Deformation and strength characteristics of Laves phases in titanium alloys",
+      "doi": "10.1016/j.matdes.2019.107891",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2019.107891"
+    },
+    {
+      "paper": "Deformation behavior of HfNbTaTiZr high entropy alloy singe crystals and polycrystals",
+      "doi": "10.1016/j.msea.2021.140983",
+      "doi_url": "https://doi.org/10.1016/j.msea.2021.140983"
+    },
+    {
+      "paper": "Deformation behavior of β titanium alloy tubes in die-less forming with taper shape control",
+      "doi": "10.1016/j.jmrt.2023.09.202",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2023.09.202"
+    },
+    {
+      "paper": "Deformation mechanisms in a metastable beta titanium twinning induced plasticity alloy with high yield strength and high strain hardening rate",
+      "doi": "10.1016/j.actamat.2018.04.035",
+      "doi_url": "https://doi.org/10.1016/j.actamat.2018.04.035"
+    },
+    {
+      "paper": "Design and microstructure-mechanical properties of a novel metastable β titanium alloy with excellent strength-plasticity matching",
+      "doi": "10.1016/j.jmrt.2024.01.041",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.01.041"
+    },
+    {
+      "paper": "Design of strain-transformable titanium alloys",
+      "doi": "10.1016/j.crhy.2018.10.004",
+      "doi_url": "https://doi.org/10.1016/j.crhy.2018.10.004"
+    },
+    {
+      "paper": "Design of thermomechanical processes for tailored microstructures Methodology and application to nanocrystalline titanium alloy Ti-13Nb-13Zr NanoTNZ",
+      "doi": "10.1021/acs.jchemed.9b0001",
+      "doi_url": "https://doi.org/10.1021/acs.jchemed.9b0001"
+    },
+    {
+      "paper": "Design of titanium alloys by additive manufacturing A critical review",
+      "doi": "10.1016/j.apmate.2021.11.001",
+      "doi_url": "https://doi.org/10.1016/j.apmate.2021.11.001"
+    },
+    {
+      "paper": "Designing against ω phase embrittlement in additively manufactured Ti135Mo metastable β titanium alloy through Sn additions",
+      "doi": "10.1016/j.addma.2024.104597",
+      "doi_url": "https://doi.org/10.1016/j.addma.2024.104597"
+    },
+    {
+      "paper": "Designing high-temperature oxidation-resistant titanium matrix composites via directed energy deposition-based additive manufacturing",
+      "doi": "10.1016/j.matdes.2021.110205",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2021.110205"
+    },
+    {
+      "paper": "Development of a facile fluorophosphonate-functionalised titanium surface for potential orthopaedic applications",
+      "doi": "10.1016/j.jot.2020.02.002",
+      "doi_url": "https://doi.org/10.1016/j.jot.2020.02.002"
+    },
+    {
+      "paper": "Development of a new metastable beta titanium alloy for biomedical applications",
+      "doi": "10.1016/j.kijoms.2017.08.005",
+      "doi_url": "https://doi.org/10.1016/j.kijoms.2017.08.005"
+    },
+    {
+      "paper": "Development of low-cost Ti alloys with a balanced strength and ductility with generation of ultra-fine microstructures",
+      "doi": "10.1016/j.jallcom.2025.180786",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2025.180786"
+    },
+    {
+      "paper": "Development of microstructural inhomogeneity in multi-pass flow forming of TA15 alloy cylindrical parts",
+      "doi": "10.1016/j.cja.2019.08.021",
+      "doi_url": "https://doi.org/10.1016/j.cja.2019.08.021"
+    },
+    {
+      "paper": "Development of new β Ti and Zr-based alloys in the Ta-75-xTi-xZr system",
+      "doi": "10.1016/j.jmrt.2024.02.137",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.02.137"
+    },
+    {
+      "paper": "Diffraction based identification of an elusive FCC phase in carbo-oxidized titanium",
+      "doi": "10.1016/j.matchar.2021.111435",
+      "doi_url": "https://doi.org/10.1016/j.matchar.2021.111435"
+    },
+    {
+      "paper": "Diffusion bonding of Ti6Al4V titanium alloy powder and solid by hot isostatic pressing",
+      "doi": "10.1016/S1003-6326(22)66041-2",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(22)66041-2"
+    },
+    {
+      "paper": "EDM of Nickle and Titanium Alloy Sheets aided by Vibration",
+      "doi": "10.1016/j.procir.2020.02.310",
+      "doi_url": "https://doi.org/10.1016/j.procir.2020.02.310"
+    },
+    {
+      "paper": "Effect of Aging Parameters on Inconel 718 Fabricated by Laser Directed Energy Deposition",
+      "doi": "10.1016/j.cjmeam.2023.100101",
+      "doi_url": "https://doi.org/10.1016/j.cjmeam.2023.100101"
+    },
+    {
+      "paper": "Effect of active gas on weld appearance and performance in laser-TIG hybrid welded titanium alloy",
+      "doi": "10.1016/j.ijlmm.2018.03.002",
+      "doi_url": "https://doi.org/10.1016/j.ijlmm.2018.03.002"
+    },
+    {
+      "paper": "Effect of alloying elements on laser surface modification of powder metallurgy to improve surface mechanical properties of beta titanium alloys for biomedical application",
+      "doi": "10.1016/j.jmrt.2021.07.037",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2021.07.037"
+    },
+    {
+      "paper": "Effect of building orientation  heat-treatment on microhardness  surface roughness of additive manufactured IN718 alloy",
+      "doi": "10.1016/j.matpr.2021.12.180",
+      "doi_url": "https://doi.org/10.1016/j.matpr.2021.12.180"
+    },
+    {
+      "paper": "Effect of cold rolling process on microstructure and mechanical properties of high strength β titanium alloy thin sheets",
+      "doi": "10.1016/j.pnsc.2018.10.004",
+      "doi_url": "https://doi.org/10.1016/j.pnsc.2018.10.004"
+    },
+    {
+      "paper": "Effect of common alloying elements on α martensite start temperature in titanium alloys",
+      "doi": "10.1016/j.jmrt.2023.10.159",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2023.10.159"
+    },
+    {
+      "paper": "Effect of cooling rate on phosphorus segregation behavior and the corresponding precipitation of γ and γ phases in IN718 alloy",
+      "doi": "10.1016/j.jmst.2019.02.006",
+      "doi_url": "https://doi.org/10.1016/j.jmst.2019.02.006"
+    },
+    {
+      "paper": "Effect of cooling rate on solidification microstructure and mechanical properties of TiBceinflocpost2ceinf-containing TiAl alloy",
+      "doi": "10.1016/S1003-6326(21)65504-8",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(21)65504-8"
+    },
+    {
+      "paper": "Effect of heat treatment on microstructure and creep behavior of Ti35Al5Mo6V3Cr2Sn05Fe high-strength ceitalicβceitalic titanium alloy",
+      "doi": "10.1016/S1003-6326(25)66813-0",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(25)66813-0"
+    },
+    {
+      "paper": "Effect of heat treatment on microstructure and mechanical properties of 316LIN718 graded materials prepared by high-throughput SLM",
+      "doi": "10.1016/j.matdes.2025.115206",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.115206"
+    },
+    {
+      "paper": "Effect of heat treatment on microstructure evolution of Inconel 718 alloy fabricated by selective laser melting",
+      "doi": "10.1016/j.jallcom.2018.06.112",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.06.112"
+    },
+    {
+      "paper": "Effect of heat treatment on microstructures and properties of vacuum laser welding Ti6Al4V titanium alloy",
+      "doi": "10.1016/j.jmrt.2024.04.265",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.04.265"
+    },
+    {
+      "paper": "Effect of heat treatment on the anisotropic machinability of additive manufactured titanium alloys in micro-milling",
+      "doi": "10.1016/j.jmrt.2024.08.172",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.08.172"
+    },
+    {
+      "paper": "Effect of heat treatment temperatures on the microstructure and mechanical properties of marine engineering titanium alloy ring components",
+      "doi": "10.1016/j.jmrt.2025.10.090",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.10.090"
+    },
+    {
+      "paper": "Effect of laser energy density on the microstructure mechanical properties and deformation of Inconel 718 samples fabricated by selective laser melting",
+      "doi": "10.1016/j.jallcom.2019.01.377",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2019.01.377"
+    },
+    {
+      "paper": "Effect of laser intensity profile on the microstructure and texture of Inconel 718 superalloy fabricated by direct energy deposition",
+      "doi": "10.1016/j.jmrt.2022.03.035",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.03.035"
+    },
+    {
+      "paper": "Effect of laser power on the microstructure and mechanical properties of heat treated Inconel 718 superalloy by laser solid forming",
+      "doi": "10.1016/j.jallcom.2018.02.268",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.02.268"
+    },
+    {
+      "paper": "Effect of microstructure induced anisotropy on fatigue behaviour of functionally graded Inconel 718 fabricated by additive manufacturing",
+      "doi": "10.1016/j.matchar.2021.111350",
+      "doi_url": "https://doi.org/10.1016/j.matchar.2021.111350"
+    },
+    {
+      "paper": "Effect of post-processes on the microstructure and mechanical properties of laser powder bed fused IN718 superalloy",
+      "doi": "10.1016/j.addma.2021.102416",
+      "doi_url": "https://doi.org/10.1016/j.addma.2021.102416"
+    },
+    {
+      "paper": "Effect of secondary α-phase precipitation on high-strain-rate deformation and shear band evolution in metastable β-titanium alloy",
+      "doi": "10.1016/j.jmrt.2025.10.158",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.10.158"
+    },
+    {
+      "paper": "Effect of solution treatment on microstructure and stress rupture properties of precipitation hardened IN718 superalloy fabricated by laser powder-bed fusion process",
+      "doi": "10.1016/j.jmrt.2022.10.047",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.10.047"
+    },
+    {
+      "paper": "Effects of Ga on the structural mechanical and electronic properties of β-Ti-45Nb alloy by experiments and ceitalicab initioceitalic calculations",
+      "doi": "10.1016/j.jmbbm.2023.105728",
+      "doi_url": "https://doi.org/10.1016/j.jmbbm.2023.105728"
+    },
+    {
+      "paper": "Effects of microstructural heterogeneity and structural defects on the mechanical behaviour of wire  arc additively manufactured Inconel 718 components",
+      "doi": "10.1016/j.msea.2022.142826",
+      "doi_url": "https://doi.org/10.1016/j.msea.2022.142826"
+    },
+    {
+      "paper": "Effects of post-heat treatment on anisotropic mechanical properties of laser additively manufactured IN718",
+      "doi": "10.1016/j.msea.2023.145144",
+      "doi_url": "https://doi.org/10.1016/j.msea.2023.145144"
+    },
+    {
+      "paper": "Effects of powder bed fusion process parameters on hardness for Inconel 718",
+      "doi": "10.1016/j.matpr.2020.06.388",
+      "doi_url": "https://doi.org/10.1016/j.matpr.2020.06.388"
+    },
+    {
+      "paper": "Effects of projectile material on high-speed penetrationperforation of Inconel 718 alloy plates Experiments and simulations",
+      "doi": "10.1016/j.dt.2025.09.026",
+      "doi_url": "https://doi.org/10.1016/j.dt.2025.09.026"
+    },
+    {
+      "paper": "Effects of residual stress and surface roughness on measurement of mechanical properties of IN718 by instrumented indentation testing",
+      "doi": "10.1016/j.jmrt.2025.10.199",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.10.199"
+    },
+    {
+      "paper": "Effects of sandblasting and HIP on very high cycle fatigue performance of SLM-fabricated IN718 superalloy",
+      "doi": "10.1016/j.jmrt.2022.02.077",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.02.077"
+    },
+    {
+      "paper": "Effects of temperature and strain rate on isothermal low-cycle fatigue behaviour of Inconel 718 superalloy Damage mechanisms microstructure evolution and life prediction",
+      "doi": "10.1016/j.ijfatigue.2025.109005",
+      "doi_url": "https://doi.org/10.1016/j.ijfatigue.2025.109005"
+    },
+    {
+      "paper": "Effects of temperature on microstructure and mechanical properties of IN718 reinforced by reduced graphene oxide through spark plasma sintering",
+      "doi": "10.1016/j.jallcom.2018.07.071",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.07.071"
+    },
+    {
+      "paper": "Enhanced mechanical properties in β-Ti alloy aged from recrystallized ultrafine β grains",
+      "doi": "10.1016/j.matdes.2020.109017",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.109017"
+    },
+    {
+      "paper": "Enhanced microstructural homogeneity and strength-ductility synergy of Ti-6Cr-5Mo-5V-4Al ceitalicβceitalic-titanium alloy wires through boron addition",
+      "doi": "10.1016/j.matdes.2023.112288",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2023.112288"
+    },
+    {
+      "paper": "Enhanced strength and ductility of laser-directed energy deposition repaired IN718 superalloy via a novel tailored heat treatment",
+      "doi": "10.1016/j.jmst.2024.03.008",
+      "doi_url": "https://doi.org/10.1016/j.jmst.2024.03.008"
+    },
+    {
+      "paper": "Enhanced strength and reduced elastic modulus of biomedical metastable β TiNb alloy via intermediate phase transformation",
+      "doi": "10.1016/j.matdes.2025.113662",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.113662"
+    },
+    {
+      "paper": "Enhanced structural and tribological performance of nanostructured Ti15Nb alloy for biomedical applications",
+      "doi": "10.1016/j.rinp.2019.102767",
+      "doi_url": "https://doi.org/10.1016/j.rinp.2019.102767"
+    },
+    {
+      "paper": "Enhancing mechanical properties of wirearc additively manufactured INCONEL 718 superalloy through in-process thermomechanical processing",
+      "doi": "10.1016/j.matdes.2018.10.038",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2018.10.038"
+    },
+    {
+      "paper": "Experimental and numerical analysis of tensile properties of Ti-13Nb-13Zr alloy and determination of influence of anodization process",
+      "doi": "10.1007/s12540-020-00837-z",
+      "doi_url": "https://doi.org/10.1007/s12540-020-00837-z"
+    },
+    {
+      "paper": "Experimental study and crystal plasticity finite element simulations of nano-indentation-induced lattice rotation and the underlying mechanism in TC6 single α-grain",
+      "doi": "10.1016/j.matdes.2019.108423",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2019.108423"
+    },
+    {
+      "paper": "Fabrication of titanium-based alloys with bioactive surface oxide layer as biomedical implants Opportunity and challenges",
+      "doi": "10.1016/S1003-6326(21)65776-X",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(21)65776-X"
+    },
+    {
+      "paper": "Fatigue crack growth characterization of Inconel 718 after additive manufacturing by laser powder bed fusion and heat treatment",
+      "doi": "10.1016/j.ijfatigue.2022.107287",
+      "doi_url": "https://doi.org/10.1016/j.ijfatigue.2022.107287"
+    },
+    {
+      "paper": "Feasibility study of advanced manufacturing processes Integrating LPBF and LMD for Inconel 718",
+      "doi": "10.1016/j.jajp.2025.100296",
+      "doi_url": "https://doi.org/10.1016/j.jajp.2025.100296"
+    },
+    {
+      "paper": "Findings and perspectives of β-Ti alloys with biomedical applications Exploring beyond biomechanical and biofunctional behaviour",
+      "doi": "10.1016/j.jmrt.2024.09.248",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.09.248"
+    },
+    {
+      "paper": "From deformation twinning to α martensitic transformation in deforming Ti12Mo alloy with increasing grain size",
+      "doi": "10.1016/j.jmrt.2024.11.158",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.11.158"
+    },
+    {
+      "paper": "Grain disintegration and dynamic recrystallization during impact tests of additively manufactured nickel-based alloy 718",
+      "doi": "10.1016/j.jmrt.2024.10.157",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.10.157"
+    },
+    {
+      "paper": "Grain gradient in the heat-affected zone acquires an advancement in the ductility of flash-butt welded IN718 alloy",
+      "doi": "10.1016/j.jmrt.2024.10.100",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.10.100"
+    },
+    {
+      "paper": "Heat treatment behaviour of IN718 superalloy fabricated by laser-powder bed fusion",
+      "doi": "10.1016/j.matchar.2023.112788",
+      "doi_url": "https://doi.org/10.1016/j.matchar.2023.112788"
+    },
+    {
+      "paper": "Identification of an affordable and printable metastable β Ti alloy with outstanding deformation behaviour for use in laser powder bed fusion",
+      "doi": "10.1016/j.msea.2024.146619",
+      "doi_url": "https://doi.org/10.1016/j.msea.2024.146619"
+    },
+    {
+      "paper": "Impact of IN718 bimodal powder size distribution on the performance and productivity of laser powder bed fusion additive manufacturing process",
+      "doi": "10.1016/j.powtec.2020.07.092",
+      "doi_url": "https://doi.org/10.1016/j.powtec.2020.07.092"
+    },
+    {
+      "paper": "Impact of high temperature stress relieving on final properties of Inconel 718 processed by laser powder bed fusion",
+      "doi": "10.1016/j.msea.2021.141111",
+      "doi_url": "https://doi.org/10.1016/j.msea.2021.141111"
+    },
+    {
+      "paper": "Improved plasticity of Inconel 718 superalloy fabricated by selective laser melting through a novel heat treatment process",
+      "doi": "10.1016/j.matdes.2019.107915",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2019.107915"
+    },
+    {
+      "paper": "Improving microstructural and mechanical characteristics of cold-sprayed Inconel 718 deposits via local induction heat treatment",
+      "doi": "10.1016/j.jallcom.2019.05.099",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2019.05.099"
+    },
+    {
+      "paper": "Inconel 718 fabricated ceitalicviaceitalic arc-based directed energy deposition assisted with ceitalicin situceitalic interlayer hot forging",
+      "doi": "10.1016/j.msea.2025.149269",
+      "doi_url": "https://doi.org/10.1016/j.msea.2025.149269"
+    },
+    {
+      "paper": "Independent effects of laser power and scanning speed on IN718s precipitation and mechanical properties produced by LBPF plus heat treatment",
+      "doi": "10.1016/j.msea.2022.143530",
+      "doi_url": "https://doi.org/10.1016/j.msea.2022.143530"
+    },
+    {
+      "paper": "Influence of annealing on microstructure and mechanical properties of ultrafine-grained Ti45Nb",
+      "doi": "10.1016/j.matdes.2019.107864",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2019.107864"
+    },
+    {
+      "paper": "Influence of heat treatment on the fatigue resistance of Inconel 718 fabricated by selective laser melting SLM",
+      "doi": "10.1016/j.matpr.2021.02.447",
+      "doi_url": "https://doi.org/10.1016/j.matpr.2021.02.447"
+    },
+    {
+      "paper": "Influence of heat treatment on the high temperature properties of Inconel 718 fabricated via Laser Beam Powder Bed Fusion",
+      "doi": "10.1016/j.jmrt.2025.05.140",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.05.140"
+    },
+    {
+      "paper": "Influence of laser beam shape and post heat-treatment on the microstructure and mechanical properties of nickel-based alloy IN718 manufactured by laser powder bed fusion",
+      "doi": "10.1016/j.jmrt.2025.06.119",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.06.119"
+    },
+    {
+      "paper": "Influence of molten-pool cooling rate on solidification structure and mechanical property of laser additive manufactured Inconel 718",
+      "doi": "10.1016/j.jmrt.2022.06.162",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.06.162"
+    },
+    {
+      "paper": "Influence of reduced carbon content on microstructure and mechanical behavior of Inconel 718 prepared by laser powder bed fusion",
+      "doi": "10.1016/j.addlet.2022.100037",
+      "doi_url": "https://doi.org/10.1016/j.addlet.2022.100037"
+    },
+    {
+      "paper": "Influence of remelting sequence on defect generation and high-temperature mechanical properties in laser powder bed fusion of IN718 alloys",
+      "doi": "10.1016/j.addma.2025.104854",
+      "doi_url": "https://doi.org/10.1016/j.addma.2025.104854"
+    },
+    {
+      "paper": "Influence of solution heat treatment on microstructure and tensile properties of Inconel 718 formed by high-deposition-rate laser metal deposition",
+      "doi": "10.1016/j.jallcom.2017.11.004",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2017.11.004"
+    },
+    {
+      "paper": "Influence of stress on γ precipitation behavior in Inconel 718 during aging",
+      "doi": "10.1016/j.jallcom.2018.01.030",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.01.030"
+    },
+    {
+      "paper": "Laser powder bed fusion of a β titanium alloy Microstructural development post-processing and mechanical behaviour",
+      "doi": "10.1016/j.msea.2024.146617",
+      "doi_url": "https://doi.org/10.1016/j.msea.2024.146617"
+    },
+    {
+      "paper": "Microsegregation behavior of Inconel 718 superalloy prepared by electron beam smelting layered solidification technology",
+      "doi": "10.1016/j.jallcom.2020.155019",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2020.155019"
+    },
+    {
+      "paper": "Microstructural Evolution and High-Temperature Deformation Behavior of Wire Arc Additively Manufactured Inconel 718 Forging Preforms Toward a Hybrid AdditiveForging Process",
+      "doi": "10.1016/j.jmrt.2025.12.213",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.12.213"
+    },
+    {
+      "paper": "Microstructural and mechanical properties of high-performance Inconel 718 alloy by cold spraying",
+      "doi": "10.1016/j.jallcom.2019.04.045",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2019.04.045"
+    },
+    {
+      "paper": "Microstructural control of LPBF Inconel 718 through post processing of intentionally placed AM discontinuity distributions",
+      "doi": "10.1016/j.mtla.2024.102163",
+      "doi_url": "https://doi.org/10.1016/j.mtla.2024.102163"
+    },
+    {
+      "paper": "Microstructural evolution and hot tensile deformation behaviors below δ-solvus temperature of IN718 alloy fabricated by plasma arc additive manufacturing",
+      "doi": "10.1016/j.jmrt.2024.08.055",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.08.055"
+    },
+    {
+      "paper": "Microstructural evolution and mechanical properties of IN718 alloy fabricated by selective laser melting following different heat treatments",
+      "doi": "10.1016/j.jallcom.2018.09.200",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.09.200"
+    },
+    {
+      "paper": "Microstructural evolution and mechanical properties of brazed IN718 ultrathin-walled capillary structure using different particulate reinforced filler alloy",
+      "doi": "10.1016/j.cja.2021.03.001",
+      "doi_url": "https://doi.org/10.1016/j.cja.2021.03.001"
+    },
+    {
+      "paper": "Microstructural heterogeneity and anisotropic mechanical propertiers of titanium alloys manufactured by wire arc additive manufacturing A review",
+      "doi": "10.1016/j.jmrt.2025.05.106",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.05.106"
+    },
+    {
+      "paper": "Microstructure Evolution mechanical Properties and biological Response of Ti-Nb-Zr-Ta TNZThBN metal matrix composites processed via spark plasma sintering SPS",
+      "doi": "10.1016/j.matdes.2025.115103",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.115103"
+    },
+    {
+      "paper": "Microstructure and geometry effects on the compressive behavior of LPBF-manufactured inconel 718 honeycomb structures",
+      "doi": "10.1016/j.jmrt.2023.03.093",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2023.03.093"
+    },
+    {
+      "paper": "Microstructure and machinability evaluation in micro milling of selective laser melted Inconel 718 alloy",
+      "doi": "10.1016/j.jmrt.2021.06.081",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2021.06.081"
+    },
+    {
+      "paper": "Microstructure and mechanical properties of the TiN particles reinforced IN718C composite",
+      "doi": "10.1016/j.jallcom.2018.05.096",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.05.096"
+    },
+    {
+      "paper": "Microstructure and tensile fracture behavior of three-stage heat treated inconel 718 alloy produced via laser powder bed fusion process",
+      "doi": "10.1016/j.jmrt.2020.01.030",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2020.01.030"
+    },
+    {
+      "paper": "Microstructure and tensile properties of IN718 superalloy aged with temperaturestress coupled field",
+      "doi": "10.1016/j.jmrt.2023.02.124",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2023.02.124"
+    },
+    {
+      "paper": "Microstructure and wear resistance of Inconel 718 alloy coating repaired by microwave heating remanufacturing",
+      "doi": "10.1016/j.matdes.2025.115288",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.115288"
+    },
+    {
+      "paper": "Microstructure evolution and mechanical properties of a hot-rolled Ti alloy",
+      "doi": "10.1016/j.pnsc.2020.11.007",
+      "doi_url": "https://doi.org/10.1016/j.pnsc.2020.11.007"
+    },
+    {
+      "paper": "Microstructure evolution and mechanical property response of TC11 titanium alloy under electroshock treatment",
+      "doi": "10.1016/j.matdes.2020.109322",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.109322"
+    },
+    {
+      "paper": "Microstructure homogenization of laser powder bed fusion support-free low angle IN718 walls through heat treatment",
+      "doi": "10.1016/j.addlet.2025.100312",
+      "doi_url": "https://doi.org/10.1016/j.addlet.2025.100312"
+    },
+    {
+      "paper": "Microstructure precipitates and mechanical properties of powder bed fused inconel 718 before and after heat treatment",
+      "doi": "10.1016/j.jmst.2018.12.006",
+      "doi_url": "https://doi.org/10.1016/j.jmst.2018.12.006"
+    },
+    {
+      "paper": "Microstructure-based modelling of the anisotropic creep behaviour in additively manufactured Inconel 718",
+      "doi": "10.1016/j.msea.2025.149029",
+      "doi_url": "https://doi.org/10.1016/j.msea.2025.149029"
+    },
+    {
+      "paper": "Microstructures and stress rupture properties of pulse laser repaired Inconel 718 superalloy after different heat treatments",
+      "doi": "10.1016/j.jallcom.2018.08.063",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2018.08.063"
+    },
+    {
+      "paper": "New insights into the effect of heat-treatment on the machinability and tool wear in machining of additively manufactured metastable β-Ti Alloy Beta-C Ti-3Al-8V-6Cr-4Mo-4Zr",
+      "doi": "10.1016/j.triboint.2025.111033",
+      "doi_url": "https://doi.org/10.1016/j.triboint.2025.111033"
+    },
+    {
+      "paper": "Novel bainitic Ti alloys designed for additive manufacturing",
+      "doi": "10.1016/j.matdes.2024.113176",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2024.113176"
+    },
+    {
+      "paper": "Oxidation behaviors in additive manufacturing titanium alloys via multi-eutectoid elements alloying",
+      "doi": "10.1016/j.jmrt.2025.03.148",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.03.148"
+    },
+    {
+      "paper": "Phase transformation in titanium alloys A review",
+      "doi": "10.1016/S1003-6326(24)66597-0",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(24)66597-0"
+    },
+    {
+      "paper": "Precipitation kinetics in cryogenic-rolled TLM titanium alloy during isothermal aging treatment",
+      "doi": "10.1016/j.jmrt.2025.10.258",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2025.10.258"
+    },
+    {
+      "paper": "Recrystallization and grain growth kinetics of IN718 manufactured by laser powder bed fusion",
+      "doi": "10.1016/j.jmrt.2022.06.157",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.06.157"
+    },
+    {
+      "paper": "SLM process parameters effects on the fatigue strength of AMed Inconel 718",
+      "doi": "10.3390/met10091180",
+      "doi_url": "https://doi.org/10.3390/met10091180"
+    },
+    {
+      "paper": "Silicide precipitation behavior of Si-containing near-ceitalicβceitalic titanium alloy and its effect on grain refinement",
+      "doi": "10.1016/S1003-6326(25)66784-7",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(25)66784-7"
+    },
+    {
+      "paper": "Simultaneous improvement of strength and ductility in near β Ti alloy with α  β hybrid structure via intermediate phases transformation",
+      "doi": "10.1016/j.jmrt.2024.03.232",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.03.232"
+    },
+    {
+      "paper": "Study of pre-precipitated δ phase promoting deformation twinning and recrystallization behavior of Inconel 718 superalloy during hot compression",
+      "doi": "10.1016/j.matdes.2023.111693",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2023.111693"
+    },
+    {
+      "paper": "Study of residual stress and microstructural evolution in as-deposited and inter-pass rolled wire plus arc additively manufactured Inconel 718 alloy after ageing treatment",
+      "doi": "10.1016/j.msea.2020.140368",
+      "doi_url": "https://doi.org/10.1016/j.msea.2020.140368"
+    },
+    {
+      "paper": "Study on fatigue damage in additively manufactured IN718 alloy",
+      "doi": "10.1016/j.msea.2017.12.043",
+      "doi_url": "https://doi.org/10.1016/j.msea.2017.12.043"
+    },
+    {
+      "paper": "Study on location-related thermal cycles and microstructure variation of additively manufactured inconel 718",
+      "doi": "10.1016/j.jmrt.2022.03.178",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2022.03.178"
+    },
+    {
+      "paper": "Tailoring microstructure tensile properties and creep resistance of additively manufactured Inconel 718 superalloy by post heat treatment",
+      "doi": "10.1016/S1003-6326(25)66789-6",
+      "doi_url": "https://doi.org/10.1016/S1003-6326(25)66789-6"
+    },
+    {
+      "paper": "Tailoring the strength of inconel 718 Insights into LPBF parameters and heat treatment synergy",
+      "doi": "10.1016/j.matdes.2025.113627",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2025.113627"
+    },
+    {
+      "paper": "The effect of Co additions on the microstructure and mechanical properties of solute lean   β Ti alloys",
+      "doi": "10.1016/j.msea.2025.149489",
+      "doi_url": "https://doi.org/10.1016/j.msea.2025.149489"
+    },
+    {
+      "paper": "The effect of energy density on texture and mechanical anisotropy in selective laser melted Inconel 718",
+      "doi": "10.1016/j.matdes.2020.108642",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2020.108642"
+    },
+    {
+      "paper": "The effect of forging texture and machining parameters on the fatigue performance of titanium alloy disc components",
+      "doi": "10.1016/j.ijfatigue.2020.105949",
+      "doi_url": "https://doi.org/10.1016/j.ijfatigue.2020.105949"
+    },
+    {
+      "paper": "The effect of heat treatment on the electrochemical properties of additive manufactured TC4 titanium alloy",
+      "doi": "10.1016/j.ijoes.2025.101007",
+      "doi_url": "https://doi.org/10.1016/j.ijoes.2025.101007"
+    },
+    {
+      "paper": "The effect of laser focus shift on microstructural variation of Inconel 718 produced by selective laser melting",
+      "doi": "10.1016/j.matdes.2018.04.019",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2018.04.019"
+    },
+    {
+      "paper": "The effect of processing parameters on rapid-heating β recrystallization in inter-pass deformed Ti-6Al-4V wire-arc additive manufacturing",
+      "doi": "10.1016/j.matchar.2020.110298",
+      "doi_url": "https://doi.org/10.1016/j.matchar.2020.110298"
+    },
+    {
+      "paper": "The effects of forging strategies on microstructures and mechanical properties of a Ti5Al5Mo5V1Cr1Fe near β-titanium alloy",
+      "doi": "10.1016/j.jmrt.2024.08.174",
+      "doi_url": "https://doi.org/10.1016/j.jmrt.2024.08.174"
+    },
+    {
+      "paper": "The influence of the manufacturing process conditions on the in-vitro bio-performance of Titanium alloys",
+      "doi": "10.1016/j.procir.2022.06.071",
+      "doi_url": "https://doi.org/10.1016/j.procir.2022.06.071"
+    },
+    {
+      "paper": "The intricacies of α-β microstructures in titanium alloys Insights into α-phase variant spatial distribution and orientation",
+      "doi": "10.1016/j.scriptamat.2025.116690",
+      "doi_url": "https://doi.org/10.1016/j.scriptamat.2025.116690"
+    },
+    {
+      "paper": "The possibility of using laser surface engineered titanium alloy implants as a treatment for cardiovascular diseases",
+      "doi": "10.1016/j.bea.2024.100131",
+      "doi_url": "https://doi.org/10.1016/j.bea.2024.100131"
+    },
+    {
+      "paper": "Titanium-Based alloys and composites for orthopedic implants Applications A comprehensive review",
+      "doi": "10.1016/j.matdes.2024.112850",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2024.112850"
+    },
+    {
+      "paper": "Towards load-bearing biomedical titanium-based alloys From essential requirements to future developments",
+      "doi": "10.1016/j.pmatsci.2024.101277",
+      "doi_url": "https://doi.org/10.1016/j.pmatsci.2024.101277"
+    },
+    {
+      "paper": "ceitalicIn situceitalic characterization of a high work hardening Ti-6Al-4V prepared by electron beam melting",
+      "doi": "10.1016/j.actamat.2019.08.037",
+      "doi_url": "https://doi.org/10.1016/j.actamat.2019.08.037"
+    },
+    {
+      "paper": "ceitalicαceitalic martensite engineering A strategy to achieve high yield strength and low yield ratio synergy for dual-phase titanium alloy",
+      "doi": "10.1016/j.matdes.2024.112764",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2024.112764"
+    },
+    {
+      "paper": "A study of fatigue notch sensibility on titanium alloy TiAl6V4 parts manufactured by selective laser melting",
+      "doi": "10.1016/j.prostr.2018.12.186",
+      "doi_url": "https://doi.org/10.1016/j.prostr.2018.12.186",
+      "crossref_title": "A study of fatigue notch sensibility on titanium alloy TiAl6V4 parts manufactured by selective laser melting",
+      "score": 85.97828
+    },
+    {
+      "paper": "Alpha-case kinetics and high temperature plasticity of Ti-6Al-4V alloy oxidized in different phase regions",
+      "doi": "10.1016/j.proeng.2017.10.973",
+      "doi_url": "https://doi.org/10.1016/j.proeng.2017.10.973",
+      "crossref_title": "Alpha-case kinetics and high temperature plasticity of Ti-6Al-4V alloy oxidized in different phase regions",
+      "score": 91.84616
+    },
+    {
+      "paper": "Analysis of microstructure in electro-spark deposited IN718 superalloy",
+      "doi": "10.1016/j.matchar.2016.07.025",
+      "doi_url": "https://doi.org/10.1016/j.matchar.2016.07.025",
+      "crossref_title": "Analysis of microstructure in electro-spark deposited IN718 superalloy",
+      "score": 54.697254
+    },
+    {
+      "paper": "Cooling rate effect on tensile strength of laser deposited Inconel 718",
+      "doi": "10.1016/j.promfg.2018.07.118",
+      "doi_url": "https://doi.org/10.1016/j.promfg.2018.07.118",
+      "crossref_title": "Cooling rate effect on tensile strength of laser deposited Inconel 718",
+      "score": 56.17948
+    },
+    {
+      "paper": "Crack growth in titanium alloy under ultrasonic loading",
+      "doi": "10.1016/j.prostr.2018.12.291",
+      "doi_url": "https://doi.org/10.1016/j.prostr.2018.12.291",
+      "crossref_title": "Crack growth in titanium alloy under ultrasonic loading",
+      "score": 49.148083
+    },
+    {
+      "paper": "Crystallographic texture control of beta-type Ti15Mo5Zr3Al alloy by selective laser melting for the development of novel implants with a biocompatible low Youngs modulus",
+      "doi": "10.1016/j.scriptamat.2016.12.038",
+      "doi_url": "https://doi.org/10.1016/j.scriptamat.2016.12.038",
+      "crossref_title": "Crystallographic texture control of beta-type Ti–15Mo–5Zr–3Al alloy by selective laser melting for the development of novel implants with a biocompatible low Young's modulus",
+      "score": 83.01538
+    },
+    {
+      "paper": "Deformation and fracture of a titanium alloy during penetration of high-speed impactor to the target",
+      "doi": "10.1016/j.prostr.2020.10.013",
+      "doi_url": "https://doi.org/10.1016/j.prostr.2020.10.013",
+      "crossref_title": "Deformation and fracture of a titanium alloy during penetration of high-speed impactor to the target",
+      "score": 65.34683
+    },
+    {
+      "paper": "Effect of Heat Treatment on Microstructure and Properties of Ti-6Al-4V-05Si alloy",
+      "doi": "10.14264/uql.2018.336",
+      "doi_url": "https://doi.org/10.14264/uql.2018.336",
+      "crossref_title": "Effect of Heat Treatment on the Microstructure and Mechanical Properties of Ti-6Al-4V Produced by Wire Arc Additive Manufacturing",
+      "score": 59.592052
+    },
+    {
+      "paper": "Effect of base metal and welding speed on fusion zone microstructure and HAZ hot-cracking of electron-beam welded Inconel 718",
+      "doi": "10.1016/j.matdes.2015.10.082",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2015.10.082",
+      "crossref_title": "Effect of base metal and welding speed on fusion zone microstructure and HAZ hot-cracking of electron-beam welded Inconel 718",
+      "score": 82.65087
+    },
+    {
+      "paper": "Effects of processing routes on room temperature tensile strength and elongation for Inconel 718",
+      "doi": "10.1016/j.matdes.2017.01.069",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2017.01.069",
+      "crossref_title": "Effects of processing routes on room temperature tensile strength and elongation for Inconel 718",
+      "score": 64.20696
+    },
+    {
+      "paper": "Effects of thermal cycles on the microstructure evolution of Inconel 718 during selective laser melting process",
+      "doi": "10.1016/j.addma.2017.08.016",
+      "doi_url": "https://doi.org/10.1016/j.addma.2017.08.016",
+      "crossref_title": "Effects of thermal cycles on the microstructure evolution of Inconel 718 during selective laser melting process",
+      "score": 73.887924
+    },
+    {
+      "paper": "Fatigue behavior of IN718 microtrusses produced via additive manufacturing",
+      "doi": "10.1016/j.matdes.2016.05.032",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2016.05.032",
+      "crossref_title": "Fatigue behavior of IN718 microtrusses produced via additive manufacturing",
+      "score": 68.10248
+    },
+    {
+      "paper": "Feasibility of in situ controlled heat treatment ISHT of Inconel 718 during electron beam melting additive manufacturing",
+      "doi": "10.1016/j.addma.2016.09.001",
+      "doi_url": "https://doi.org/10.1016/j.addma.2016.09.001",
+      "crossref_title": "Feasibility of in situ controlled heat treatment (ISHT) of Inconel 718 during electron beam melting additive manufacturing",
+      "score": 76.05506
+    },
+    {
+      "paper": "Formation of roll coating in cold rolling of titanium sheets",
+      "doi": "10.1016/j.proeng.2017.10.898",
+      "doi_url": "https://doi.org/10.1016/j.proeng.2017.10.898",
+      "crossref_title": "Formation of roll coating in cold rolling of titanium sheets",
+      "score": 55.381233
+    },
+    {
+      "paper": "Improvement of material performance of Inconel 718 formed by high deposition-rate laser metal deposition",
+      "doi": "10.1016/j.matdes.2016.03.006",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2016.03.006",
+      "crossref_title": "Improvement of material performance of Inconel 718 formed by high deposition-rate laser metal deposition",
+      "score": 69.13037
+    },
+    {
+      "paper": "Microstructural and mechanical properties of Inconel 718 TIG weldments",
+      "doi": "10.1016/j.matpr.2017.11.544",
+      "doi_url": "https://doi.org/10.1016/j.matpr.2017.11.544",
+      "crossref_title": "Microstructural and mechanical properties of Inconel 718 TIG weldments",
+      "score": 57.653374
+    },
+    {
+      "paper": "Microstructural and micromechanical characterization of IN718 theta shaped specimens built with electron beam melting",
+      "doi": "10.1016/j.actamat.2016.02.005",
+      "doi_url": "https://doi.org/10.1016/j.actamat.2016.02.005",
+      "crossref_title": "Microstructural and micromechanical characterization of IN718 theta shaped specimens built with electron beam melting",
+      "score": 57.158585
+    },
+    {
+      "paper": "Microstructural evolution and constitutive equations of Inconel 718 alloy under quasi-static and quasi-dynamic conditions",
+      "doi": "10.1016/j.matdes.2015.12.157",
+      "doi_url": "https://doi.org/10.1016/j.matdes.2015.12.157",
+      "crossref_title": "Microstructural evolution and constitutive equations of Inconel 718 alloy under quasi-static and quasi-dynamic conditions",
+      "score": 90.54279
+    },
+    {
+      "paper": "Microstructural investigation of as-fabricated and heat-treated Inconel 625 and Inconel 718 fabricated by direct metal laser sintering contribution of Politecnico di Torino and Istituto Italiano di Tecnologia IIT di Torino",
+      "doi": "10.1016/j.mprp.2016.06.002",
+      "doi_url": "https://doi.org/10.1016/j.mprp.2016.06.002",
+      "crossref_title": "Microstructural investigation of as-fabricated and heat-treated Inconel 625 and Inconel 718 fabricated by direct metal laser sintering: contribution of Politecnico di Torino and Istituto Italiano di Tecnologia (IIT) di Torino",
+      "score": 138.63269
+    },
+    {
+      "paper": "Microstructure and directional fatigue behavior of Inconel 718 produced by selective laser melting",
+      "doi": "10.1016/j.prostr.2016.06.298",
+      "doi_url": "https://doi.org/10.1016/j.prostr.2016.06.298",
+      "crossref_title": "Microstructure and directional fatigue behavior of Inconel 718 produced by selective laser melting",
+      "score": 64.237495
+    },
+    {
+      "paper": "Microstructure evolution mechanism during post-bond heat treatment of transient liquid phase bonded wrought IN718 superalloy An approach to fabricate boride-free joints",
+      "doi": "10.1016/j.jallcom.2017.06.206",
+      "doi_url": "https://doi.org/10.1016/j.jallcom.2017.06.206",
+      "crossref_title": "Microstructure evolution mechanism during post-bond heat treatment of transient liquid phase bonded wrought IN718 superalloy: An approach to fabricate boride-free joints",
+      "score": 125.24514
+    },
+    {
+      "paper": "Microstructure evolution of IN718 alloy during the delta process",
+      "doi": "10.1016/j.proeng.2017.10.1137",
+      "doi_url": "https://doi.org/10.1016/j.proeng.2017.10.1137",
+      "crossref_title": "Microstructure evolution of IN718 alloy during the delta process",
+      "score": 50.729668
+    },
+    {
+      "paper": "The effect of loading mode on fatigue crack initiation of IN718 superalloy",
+      "doi": "10.1016/j.prostr.2023.10.075",
+      "doi_url": "https://doi.org/10.1016/j.prostr.2023.10.075",
+      "crossref_title": "The effect of loading mode on fatigue crack initiation of IN718 superalloy",
+      "score": 54.001904
+    }
+  ],
+  "missing": []
+}

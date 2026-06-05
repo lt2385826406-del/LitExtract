@@ -1,0 +1,87 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "required": [
+    "samples"
+  ],
+  "properties": {
+    "samples": {
+      "type": "array",
+      "items": {
+        "$ref": "#/definitions/Sample"
+      }
+    },
+    "causal_claims": {
+      "type": "array"
+    },
+    "contrast_pairs": {
+      "type": "array"
+    },
+    "mechanism_links": {
+      "type": "array"
+    },
+    "global_figures": {
+      "type": "array"
+    }
+  },
+  "definitions": {
+    "Sample": {
+      "type": "object",
+      "required": [
+        "id"
+      ],
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "composition": {
+          "$ref": "#/definitions/Composition"
+        },
+        "processes": {
+          "type": "array"
+        },
+        "microstructures": {
+          "type": "array"
+        },
+        "properties": {
+          "type": "array"
+        },
+        "causal_relations": {
+          "type": "array"
+        }
+      }
+    },
+    "Composition": {
+      "type": "object",
+      "properties": {
+        "canonical_name": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "system": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "elements_str": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "elements": {
+          "type": "array"
+        },
+        "notes": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+# DAG Validation Rules
+
+structural:
+  - {rule: no_cycles, action: remove_lowest_confidence_edge}
+  - {rule: node_type_order, action: filter_edge}
+  - {rule: self_loop, action: remove}
+
+semantic:
+  - {rule: incompatible_phases, action: flag_for_review}
+  - {rule: temperature_range, action: flag_for_review}
+
+statistical:
+  - {rule: min_support, action: filter_edge}
+  - {rule: outlier_detection, action: flag_for_review}

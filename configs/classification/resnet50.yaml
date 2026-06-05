@@ -1,0 +1,34 @@
+# ResNet-50 Microstructure Classification
+
+model:
+  architecture: resnet50
+  pretrained: true
+  weights: IMAGENET1K_V2
+  num_classes: 8
+
+classes:
+  0: equiaxed
+  1: lamellar
+  2: bimodal
+  3: widmanstatten
+  4: acicular
+  5: cellular
+  6: basketweave
+  7: martensitic
+
+training:
+  epochs: 100
+  batch_size: 32
+  learning_rate: 0.001
+  optimizer: Adam
+  scheduler: CosineAnnealingLR
+  weight_decay: 0.0001
+  early_stopping_patience: 15
+  label_smoothing: 0.1
+  dropout: 0.3
+
+input:
+  image_size: 224
+  normalize:
+    mean: [0.485, 0.456, 0.406]
+    std:  [0.229, 0.224, 0.225]

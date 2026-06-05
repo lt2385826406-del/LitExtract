@@ -1,0 +1,39 @@
+# LLM Fine-tuning Training Arguments
+
+dataset:
+  train_file: data/splits/extraction_split.csv
+  format: chatml
+  max_samples: null
+  shuffle: true
+  seed: 42
+
+training:
+  output_dir: training/llm/checkpoints
+  per_device_train_batch_size: 4
+  gradient_accumulation_steps: 4
+  effective_batch_size: 16
+  num_train_epochs: 3
+
+optimizer:
+  learning_rate: 2.0e-4
+  lr_scheduler: cosine
+  warmup_steps: 100
+  weight_decay: 0.001
+
+precision:
+  bf16: true
+  fp16: false
+
+memory:
+  gradient_checkpointing: true
+  max_grad_norm: 1.0
+
+evaluation:
+  eval_strategy: steps
+  eval_steps: 500
+  metric_for_best_model: eval_loss
+  save_total_limit: 3
+
+logging:
+  steps: 10
+  report_to: [tensorboard, wandb]

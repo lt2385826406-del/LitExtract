@@ -1,0 +1,93 @@
+{
+  "node_types": {
+    "Element": {
+      "key_format": "element:{symbol}",
+      "description": "Chemical element"
+    },
+    "Microstructure": {
+      "key_format": "micro:{phase}_{morphology}",
+      "description": "Microstructural feature"
+    },
+    "Property": {
+      "key_format": "prop:{type}",
+      "description": "Mechanical/physical property"
+    },
+    "Process": {
+      "key_format": "proc:{method}",
+      "description": "Processing step"
+    },
+    "Alloy": {
+      "key_format": "alloy:{name}",
+      "description": "Named alloy"
+    }
+  },
+  "edge_types": {
+    "has_composition": {
+      "source": "Alloy",
+      "target": "Element"
+    },
+    "undergoes": {
+      "source": "Alloy",
+      "target": "Process"
+    },
+    "results_in": {
+      "source": "Process",
+      "target": "Microstructure"
+    },
+    "exhibits": {
+      "source": "Alloy",
+      "target": "Microstructure"
+    },
+    "has_property": {
+      "source": "Alloy",
+      "target": "Property"
+    },
+    "causes": {
+      "source": "*",
+      "target": "*",
+      "causal": true
+    }
+  },
+  "vocabularies": {
+    "phase_type": [
+      "γ",
+      "γ'",
+      "γ''",
+      "δ",
+      "MC",
+      "M23C6",
+      "M6C",
+      "Laves",
+      "σ",
+      "μ",
+      "η",
+      "TCP",
+      "β",
+      "α"
+    ],
+    "property_type": [
+      "UTS",
+      "YS",
+      "EL",
+      "RA",
+      "HV",
+      "creep_rupture_life",
+      "LCF_life",
+      "HCF_life",
+      "CTE",
+      "elastic_modulus"
+    ],
+    "process_method": [
+      "VIM",
+      "VAR",
+      "HIP",
+      "solution_treatment",
+      "aging",
+      "SLM",
+      "EBM",
+      "DED",
+      "forging",
+      "rolling"
+    ]
+  }
+}

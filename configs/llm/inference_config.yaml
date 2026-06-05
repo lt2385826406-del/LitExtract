@@ -1,0 +1,27 @@
+# LLM Inference Configuration
+
+model:
+  base_model_path: null
+  lora_path: null
+  use_4bit: true
+  device_map: auto
+  torch_dtype: bfloat16
+
+generation:
+  max_new_tokens: 4096
+  temperature: 0.1
+  top_p: 0.95
+  top_k: 50
+  do_sample: false
+  repetition_penalty: 1.05
+
+prompt:
+  format: chatml
+  system_prompt: prompts/deepseek_preannotation_prompt.txt
+
+api:
+  provider: deepseek
+  api_base: https://api.deepseek.com/v1
+  model: deepseek-chat
+  max_retries: 3
+  timeout: 120

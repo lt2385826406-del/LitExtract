@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use LitExtract in your research, please cite it as below."
+title: "LitExtract: A multimodal causality-aware framework for knowledge organization in materials science literature"
+version: 1.0.0
+date-released: 2026-06-05
+authors:
+  - family-names: "Li"
+    given-names: "Ting"
+    orcid: "https://orcid.org/0009-0008-3135-0624"
+repository-code: "https://github.com/lt2385826406-del/LitExtract"
+license: MIT
+keywords:
+  - materials-science
+  - knowledge-extraction
+  - causal-discovery
+
+abstract: >
+  Materials science leverages knowledge dispersed across a vast corpus of scientific literature, where critical information often appears in unstructured and multimodal forms. Recent advances in large language models and computer vision have enabled automated extraction of materials information from scientific literature. However, existing approaches primarily organize relationships as associations and often lack mechanisms for representing directional dependencies across materials variables. Here, we present LitExtract, a multimodal framework for causality-aware knowledge organization from materials literature. The framework integrates document parsing, visual understanding, and LLM-driven extraction to construct structured representations linking composition, processing, microstructure, and properties. We further introduce a causality-aware graph construction layer that organizes extracted relationships into directed acyclic graphs through literature-derived statistical evidence and domain-informed constraints, enabling structured representation of directional dependencies among materials variables. Applied to titanium alloy literature, LitExtract reconstructs representative composition–processing–microstructure–property pathways that are broadly consistent with established metallurgical understanding. This work demonstrates a multimodal strategy for organizing literature-derived knowledge into structured and causality-aware representations, providing a foundation for literature navigation, hypothesis generation, and future materials informatics applications.
+identifiers:
+  - type: doi
+    value: "<doi-for-this-article>"

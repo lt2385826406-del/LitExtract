@@ -1,0 +1,17 @@
+# YOLOv11 Inference Configuration
+
+model:
+  weights: models/yolov11_pdf_figures.pt
+  device: 0
+  imgsz: 640
+  conf_thres: 0.25
+  iou_thres: 0.45
+  max_det: 300
+  augment: false
+
+visualization:
+  show_labels: true
+  show_conf: true
+  line_width: 2
+  save_crops: true
+  crop_dir: output_bboxes
