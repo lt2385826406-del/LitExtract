@@ -20,7 +20,5 @@ Users who wish to reproduce the experiments must obtain the original PDFs direct
 - Trained model checkpoints (>500MB each)
 
 ## Supplementary Materials
-- `supplementary/corpus_metadata.xlsx` — Full corpus metadata
-- `supplementary/ti_case_metadata.xlsx` — Ti case study metadata
-- `supplementary/robustness_results/` — Robustness experiment outputs
-- `supplementary/extra_figures/` — Additional visualizations
+- `supplementary/ti_case_figures/` — Ti case study publication figures (8 figures)
+- Corpus metadata available upon request from corresponding author

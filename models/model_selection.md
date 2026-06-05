@@ -6,9 +6,9 @@
 - Trained on 98 Ti-alloy papers with ~2,000 annotated figures
 
 ## ResNet-50 for Microstructure Classification
-- Pre-trained on ImageNet, fine-tuned on 8-class microstructure taxonomy
+- Pre-trained on ImageNet, fine-tuned for binary classification (microstructure vs. other)
 - Chosen over ViT for lower computational cost with similar accuracy
-- Classes: equiaxed, lamellar, bimodal, widmanstatten, acicular, cellular, basketweave, martensitic
+- A downstream step filters detected figures into microstructure images and non-microstructure content
 
 ## Qwen2.5-7B-Instruct + QLoRA for Semantic Extraction
 - 7B parameter model fits in single GPU with 4-bit quantization

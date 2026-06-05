@@ -10,7 +10,7 @@ This file records all trained model checkpoints for reproducibility.
 ## ResNet-50 — Microstructure Classification
 | Task | Accuracy | Path |
 |------|----------|------|
-| 8-class micro. | — | models/resnet50_micro.pth |
+| Binary (microstructure vs. other) | — | models/resnet50_micro.pth |
 
 ## Qwen2.5-7B-Instruct + LoRA — Semantic Extraction
 | Base Model | LoRA Rank | Dataset | Path |

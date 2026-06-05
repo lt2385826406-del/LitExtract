@@ -4,17 +4,11 @@ model:
   architecture: resnet50
   pretrained: true
   weights: IMAGENET1K_V2
-  num_classes: 8
+  num_classes: 2
 
 classes:
-  0: equiaxed
-  1: lamellar
-  2: bimodal
-  3: widmanstatten
-  4: acicular
-  5: cellular
-  6: basketweave
-  7: martensitic
+  0: microstructure
+  1: other
 
 training:
   epochs: 100

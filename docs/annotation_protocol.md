@@ -8,7 +8,7 @@
 
 ## Microstructure Classification
 1. Extract figure crops using YOLO bounding boxes
-2. Assign one of 8 classes: equiaxed, lamellar, bimodal, widmanstatten, acicular, cellular, basketweave, martensitic
+2. Binary classification: determine whether the image contains a microstructure (label 0: microstructure) or not (label 1: other)
 3. Each image labeled by at least 2 annotators
 4. Disagreements resolved by domain expert
 

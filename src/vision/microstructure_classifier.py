@@ -37,14 +37,8 @@ def _lazy_import():
 
 #
 DEFAULT_CLASSES = [
-    "equiaxed",
-    "lamellar",
-    "bimodal",
-    "widmanstatten",
-    "acicular",
-    "cellular",
-    "basketweave",
-    "martensitic",
+    "microstructure",
+    "other",
 ]
 
 # ImageNet standardizeArgs
@@ -105,6 +99,8 @@ def get_transform(img_size: int = 224):
 
 
 class MicrostructureClassifier:
+    """
+    Binary microstructure image classifier (microstructure vs. other).
     """
     """
 
