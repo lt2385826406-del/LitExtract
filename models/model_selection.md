@@ -1,9 +1,10 @@
 # Model Selection Rationale
 
-## YOLOv11 for PDF Figure Detection
+## YOLOv11 for PDF Graphic Element Detection
 - Chosen over Faster R-CNN for speed and ease of training
-- Nano variant (yolov11n) provides sufficient accuracy for figure/table/chart detection
-- Trained on 98 Ti-alloy papers with ~2,000 annotated figures
+- Nano variant (yolov11n) provides sufficient accuracy for detecting four structural categories: `caption`, `image`, `subgraph`, `subgraph_label`
+- Trained on 219 annotated PDF page images from Ti/Ni-alloy papers
+- See `training_process_paper.md` (training folder) for full training documentation
 
 ## ResNet-50 for Microstructure Classification
 - Pre-trained on ImageNet, fine-tuned for binary classification (microstructure vs. other)

@@ -8,18 +8,28 @@ This file records all trained model checkpoints for reproducibility.
 
 ---
 
-## YOLOv11 — PDF Figure/Element Detection
+## YOLOv11 — PDF Graphic Element Detection
 
 | Variant | Dataset | Classes | mAP@0.5 | Weights Path |
 |---------|---------|---------|---------|--------------|
-| yolov11n | 98 Ti-alloy PDFs, ~2,000 annotated elements | 5 (`figure`, `table`, `equation`, `chart`, `micrograph`) | 0.87 (validation set) | `models/yolov11_pdf.pt` |
+| yolov11n | 219 annotated PDF page images (Ti + Ni alloys) | 4 (`caption`, `image`, `subgraph`, `subgraph_label`) | 0.9175 (validation set) | `models/yolov11_pdf.pt` |
+
+Per-class Precision / Recall / F1 (validation set):
+
+| Class | Precision | Recall | F1 |
+|-------|-----------|--------|-----|
+| caption (0) | 0.9906 | 0.9814 | 0.9860 |
+| image (1) | 0.9846 | 0.9938 | 0.9891 |
+| subgraph (2) | 0.8866 | 0.9339 | 0.9097 |
+| subgraph_label (3) | 0.9054 | 0.8996 | 0.9025 |
+| **Overall** | **0.9326** | **0.9456** | **0.9390** |
 
 **Training config**: `configs/yolo/hyperparams.yaml`
-- Epochs: 300, batch size: 16, image size: 640
-- Optimizer: AdamW, lr0: 0.001
+- Epochs: 58 (early stopped, patience=100), batch size: 4–6, image size: 640
+- Optimizer: SGD (lr0=0.01, momentum=0.937, weight_decay=0.0005)
+- Data augmentation: Mosaic, HSV jitter, horizontal flip
 - See `training/yolo/evaluate_yolo.py` for evaluation script
-
-> **Paper note**: The manuscript describes the detection output as four structural categories — `image`, `caption`, `subgraph`, `subgraph_label` — which are derived from the five YOLO detection classes via post-processing (caption matching, subgraph extraction). The YOLO training itself uses five content-type classes as listed above.
+- See `training_process_paper.md` (training folder) for full training documentation
 
 ---
 
