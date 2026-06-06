@@ -36,7 +36,6 @@ The extracted structured data (compositions, processing parameters, property val
 
 Due to copyright restrictions or file size limits, the following are **not** included in the repository but may be made available upon reasonable request to the corresponding author:
 
-- Raw PDF files (users should obtain via publisher DOIs)
 - YOLO training/validation/test images (1,091 annotated PDF page images) — these are copyright-protected figure crops from published papers; users must obtain original PDFs via publisher DOIs and reproduce the conversion pipeline
 - ResNet classification training images (paper-reported 1,684 Ti-alloy figure crops; expanded pool 3,200) — same copyright restriction applies
 - Trained model checkpoint files (>500 MB each): YOLOv11 weights, ResNet-50 weights, QLoRA adapters

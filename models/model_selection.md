@@ -15,4 +15,4 @@
 - 7B parameter model fits in single GPU with 4-bit quantization
 - QLoRA (r=16, alpha=32) enables efficient fine-tuning
 - ChatML format for SFT with structured JSON output
-- Alternative: Mistral-7B-Instruct-v0.2 (r=64, α=128; similar performance)
+- Alternative: Mistral-7B-Instruct-v0.2 (same config, r=16, α=32; similar performance)

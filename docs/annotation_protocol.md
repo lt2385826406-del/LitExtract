@@ -90,7 +90,7 @@ Extract structured materials science information from full-text papers into a st
 1. Read the full paper text (abstract, body, conclusions)
 2. Identify and extract relevant information for each schema category
 3. Populate the JSON schema fields with extracted values and units
-4. Mark causal/associative relations between fields (with confidence scores)
+4. Mark candidate associative/hypothesis relations between fields (with confidence scores; see Schema section 4.3 for relation annotation conventions)
 5. DeepSeek-assisted pre-annotation followed by full manual verification
 
 ### 3.3 Dataset Summary
