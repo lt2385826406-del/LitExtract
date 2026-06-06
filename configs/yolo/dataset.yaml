@@ -1,5 +1,17 @@
 # YOLOv11 Dataset Configuration — PDF Figure Detection
 # LitExtract
+#
+# Class definitions (5 content-type classes detected by YOLO):
+#   0: figure        — any figure image (maps to "image" in paper's structural categories)
+#   1: table         — data table
+#   2: equation      — mathematical/chemical equation
+#   3: chart         — bar/line/pie chart (non-micrograph)
+#   4: micrograph    — microscopy image (SEM/TEM/EBSD etc.)
+#
+# In the manuscript, the pipeline output is described as four structural categories:
+#   image, caption, subgraph, subgraph_label
+# These are derived from the 5 YOLO classes via post-processing (caption matching,
+# subgraph region extraction, label association), not by YOLO directly.
 
 # Dataset paths
 train: data/annotations/yolo_labels/train/images

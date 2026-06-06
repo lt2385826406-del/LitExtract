@@ -18,7 +18,7 @@
 python scripts/build_ti_case_study.py
 ```
 
-### Nickel-alloy Causal DAG Demo (69 papers)
+### Nickel-alloy Causal Hypothesis Graph Demo (69 papers)
 ```bash
 python scripts/build_nickel_demo.py
 ```

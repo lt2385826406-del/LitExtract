@@ -2,23 +2,57 @@
 
 ## Copyright Notice
 
-**PDF files and images are NOT included in this repository.** All source documents (academic papers in PDF format) are copyright-protected by their respective publishers (Elsevier, Springer, MDPI, etc.). Under publisher copyright policies, we cannot publicly redistribute the full-text PDFs or extracted images from those PDFs.
+**PDF files and images are NOT included in this repository.** All source documents (academic papers in PDF format) are copyright-protected by their respective publishers (Elsevier, Springer Nature, MDPI, etc.). Under publisher copyright policies, we cannot publicly redistribute the full-text PDFs or raw images extracted from those PDFs.
 
-Users who wish to reproduce the experiments must obtain the original PDFs directly from the publishers via the DOIs listed in `data/metadata/paper_dois.csv` (or `paper_dois.json`). The extracted structured data (compositions, processing parameters, property values, etc.) is factual information not subject to the original publications' copyright.
+Users who wish to reproduce the experiments must obtain the original PDFs directly from the publishers via the DOIs listed in `data/metadata/paper_dois.csv`.
 
-## Included in Repository
-- DOI index: `data/metadata/paper_dois.json` / `paper_dois.csv` (201 papers)
-- Corpus metadata: `data/metadata/paper_metadata.csv`
-- Annotation examples: `data/annotations/schema_examples/`
-- Train/val/test splits: `data/splits/`
-- Ground truth for validation: `data/validation_ground_truth/`
+The extracted structured data (compositions, processing parameters, property values, etc.) consists of factual information and is not subject to the original publications' copyright. This data is included in the repository.
 
-## Available Upon Request
-- Raw PDF files (copyright restrictions — users must obtain via publisher DOIs)
-- Full annotation datasets (YOLO labels, classification labels)
-- Extracted JSON outputs for all 98 Ti-alloy papers
-- Trained model checkpoints (>500MB each)
+---
 
-## Supplementary Materials
-- `supplementary/ti_case_figures/` — Ti case study publication figures (8 figures)
-- Corpus metadata available upon request from corresponding author
+## Assets Publicly Available in This Repository
+
+| Asset | Path | Description |
+|-------|------|-------------|
+| DOI index | `data/metadata/paper_dois.csv` | 201 papers with titles and DOIs |
+| Corpus metadata | `data/metadata/paper_metadata.csv` | Paper-level metadata (journal, year, alloy type) |
+| Extracted JSON data | `data/extracted_json/` | LLM-extracted structured data (Ti + Ni alloys) |
+| KG outputs | `data/kg_outputs/` | Knowledge graph edge/node lists (JSON, HTML) |
+| Causal Hypothesis Graph outputs | `data/dag_outputs/` | Candidate causal edges with confidence (JSON) |
+| Annotation schemas | `data/annotations/` | YOLO label format, classification label definitions |
+| Ground truth | `data/validation_ground_truth/` | Expert-annotated validation set |
+| Train/val/test splits | `data/splits/` | Dataset splits (where applicable) |
+| Configuration files | `configs/` | All model, training, and inference configs |
+| Training scripts | `training/` | YOLO, ResNet, QLoRA training scripts |
+| Inference scripts | `scripts/` | End-to-end pipeline and KG/DAG construction |
+| Prompt templates | `prompts/` | LLM prompt templates (ChatML format) |
+
+---
+
+## Assets Available Upon Reasonable Request
+
+Due to copyright restrictions or file size limits, the following are **not** included in the repository but may be made available upon reasonable request to the corresponding author:
+
+- Raw PDF files (users should obtain via publisher DOIs)
+- Trained model checkpoint files (>500 MB each): YOLOv11 weights, ResNet-50 weights, QLoRA adapters
+- Full YOLO annotation label files (bounding box coordinates for ~2,000 figure regions)
+
+To request access, please contact the corresponding author with a brief description of your intended use. We may provide download links or arrange data transfer via a secure channel.
+
+---
+
+## Reproduction Instructions
+
+To fully reproduce the LitExtract pipeline from scratch:
+
+1. Obtain the 201 paper PDFs from publishers using DOIs in `data/metadata/paper_dois.csv`
+2. Place PDFs in `data/pdfs/` (not included in repo)
+3. Run the full pipeline: `python scripts/run_pipeline.py --pdf_dir data/pdfs/ --output outputs/`
+4. For training YOLO/ResNet: use scripts under `training/` with your own annotated data, or request our pre-trained weights
+5. For LLM fine-tuning: use `training/llm/train_qlora.py` with configs in `configs/llm/`
+
+---
+
+## Contact
+
+For data requests or questions about reproduction, please open a GitHub Issue or contact the corresponding author.

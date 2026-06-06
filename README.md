@@ -7,7 +7,7 @@ LitExtract is a modular pipeline that extracts structured materials knowledge �
 ## Architecture
 
 ```
-PDF → [YOLO Figure Detection] → [OCR/Alignment] → [LLM Extraction] → [KG + Causal DAG]
+PDF → [YOLO Element Detection] → [OCR/Alignment] → [LLM Extraction] → [KG + Causal Hypothesis Graph]
 ```
 
 ### Key Components
@@ -15,16 +15,16 @@ PDF → [YOLO Figure Detection] → [OCR/Alignment] → [LLM Extraction] → [KG
 | Module | Description | Technology |
 |--------|-------------|------------|
 | `pdf_parser` | PDF-to-image conversion, page parsing | PyMuPDF, pdf2image |
-| `vision` | Figure/table/micrograph detection | YOLOv11 |
+| `vision` | Image/caption/subgraph detection & microstructure classification | YOLOv11, ResNet-50 |
 | `ocr_alignment` | OCR text extraction, figure-caption matching | Tesseract |
 | `semantic_extraction` | Structured entity/relation extraction | DeepSeek / Qwen2.5-7B + LoRA |
 | `kg_construction` | Knowledge graph construction | NetworkX, pyvis |
-| `dag_construction` | Causal DAG from co-occurrence patterns | Causal discovery pipeline |
+| `dag_construction` | Causality-aware DAG construction from co-occurrence patterns | Hypothesis graph construction |
 
 ### Output
 
 - **Knowledge Graph (KG)**: Element → Microstructure → Property triples
-- **Causal Hypothesis Graph (CHG)**: Cross-paper causal inferences
+- **Causal Hypothesis Graph (CHG)**: Cross-paper candidate causal relations (hypothesis graph, not validated causal claims)
 
 ## Quick Start
 
@@ -38,8 +38,8 @@ python scripts/run_pipeline.py paper.pdf --api-key $DEEPSEEK_API_KEY
 # Build knowledge graph
 python src/kg_construction/build_graph.py --semantic_results outputs/ --output kg.json
 
-# Build causal DAG
-python src/dag_construction/build_dag.py --kg kg.json --output dag.json
+# Build Causal Hypothesis Graph (CHG)
+python src/dag_construction/build_dag.py --kg kg.json --output chg.json
 ```
 
 ## Repository Structure
@@ -71,14 +71,26 @@ If you use LitExtract in your research, please cite:
 
 ## Data Availability
 
-**PDF files and images are NOT included in this repository** due to publisher copyright restrictions. The repository provides:
+**PDF files and images are NOT included in this repository** due to publisher copyright restrictions.
 
-- **DOI index**: `data/metadata/paper_dois.csv` — 201 papers (Ti + Ni alloys) with DOIs so users can obtain the original PDFs from publishers
-- **Extracted structured data**: `data/extracted_json/` — factual information (compositions, processing, properties) extracted by LLM
-- **Annotation templates**: `data/annotations/` — label formats and schema, without the underlying images
-- **Ground truth**: `data/validation_ground_truth/` — domain expert-annotated metallurgical mechanisms
+The repository provides the following publicly redistributable assets:
 
-See `docs/data_availability.md` for the complete data access policy.
+- **DOI index**: `data/metadata/paper_dois.csv` — 201 papers (Ti + Ni alloys) with DOIs, titles, and DOIs so users can obtain the original PDFs from publishers
+- **Extracted structured data**: `data/extracted_json/` — factual information (compositions, processing, properties, heat treatment) extracted by LLM, in structured JSON format
+- **Knowledge graph outputs**: `data/kg_outputs/` — constructed KGs in JSON/HTML format (node/edge lists, not raw images)
+- **Causal Hypothesis Graph outputs**: `data/dag_outputs/` — candidate causal edge lists with confidence scores (hypothesis only, not validated claims)
+- **Annotation schemas**: `data/annotations/` — label formats, YOLO label README, classification label definitions (no underlying images)
+- **Ground truth**: `data/validation_ground_truth/` — domain expert-annotated metallurgical mechanism validation set
+- **Configuration files**: `configs/` — all model, training, and inference configs required to reproduce the pipeline
+- **Training & inference scripts**: `training/` and `scripts/` — full reproducibility scripts
+- **Metadata & splits**: `data/metadata/` — paper index, train/val/test splits (where applicable)
+
+**What is NOT redistributed:**
+- Original publisher PDFs
+- Raw figure images extracted from PDFs
+- Trained model checkpoint files (available upon reasonable request)
+
+See `docs/data_availability.md` for the complete data access policy and request process.
 
 ## License
 
