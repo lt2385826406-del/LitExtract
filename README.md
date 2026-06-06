@@ -17,7 +17,7 @@ PDF → [YOLO Element Detection] → [OCR/Alignment] → [LLM Extraction] → [K
 | `pdf_parser` | PDF-to-image conversion, page parsing | PyMuPDF, pdf2image |
 | `vision` | Image/caption/subgraph detection & microstructure classification | YOLOv11, ResNet-50 |
 | `ocr_alignment` | OCR text extraction, figure-caption matching | Tesseract |
-| `semantic_extraction` | Structured entity/relation extraction | DeepSeek / Qwen2.5-7B + LoRA |
+| `semantic_extraction` | Structured entity/relation extraction | DeepSeek API (pre-annotation); Qwen2.5 / Mistral-7B / LLaMA-3 + LoRA (SFT benchmark) |
 | `kg_construction` | Knowledge graph construction | NetworkX, pyvis |
 | `dag_construction` | Causality-aware DAG construction from co-occurrence patterns | Hypothesis graph construction |
 
