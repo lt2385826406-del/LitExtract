@@ -11,8 +11,23 @@
 - Chosen over ViT for lower computational cost with similar accuracy
 - A downstream step filters detected figures into microstructure images and non-microstructure content
 
-## Qwen2.5-7B-Instruct + QLoRA for Semantic Extraction
-- 7B parameter model fits in single GPU with 4-bit quantization
-- QLoRA (r=16, alpha=32) enables efficient fine-tuning
+## LLM Benchmark and Final Model Selection
+
+Three open-weight LLMs were benchmarked under the same QLoRA configuration (r=16, α=32, 4-bit NF4, 3 epochs):
+
+| Model | Selected as Final | Notes |
+|-------|-------------------|-------|
+| Mistral-7B-Instruct-v0.2 | ✅ **Yes** | Best overall performance on materials NER and relation extraction (see paper Section 4.3) |
+| Qwen2.5-7B-Instruct | Benchmarked | Strong baseline, comparable performance |
+| LLaMA-3-8B-Instruct | Benchmarked | Included for open-weight benchmark completeness |
+
+### Mistral-7B-Instruct-v0.2 — Final Selected Model
+- 7B parameters, fits in single GPU with 4-bit quantization
+- QLoRA (r=16, α=32) enables efficient fine-tuning
 - ChatML format for SFT with structured JSON output
-- Alternative: Mistral-7B-Instruct-v0.2 (same config, r=16, α=32; similar performance)
+- Selected as the final model for all reported results in the manuscript
+
+### Qwen2.5-7B-Instruct and LLaMA-3-8B-Instruct — Benchmarked Alternatives
+- Same QLoRA configuration as Mistral (r=16, α=32)
+- Provided as drop-in alternatives for users who prefer different model families
+- Performance comparison reported in paper Section 4.3
