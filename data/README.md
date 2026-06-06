@@ -22,17 +22,17 @@ data/
 │   ├── kg.graphml                    # GraphML network graph
 │   ├── ti_mmkg_data.json             # Ti-MMKG case study extracted data
 │   └── example_subgraphs/           # 16 key node subgraphs (JSON + INDEX)
-├── dag_outputs/                       # Causal DAG outputs (Ti/Ni separated)
+├── dag_outputs/                       # Causal Hypothesis Graph (CHG) outputs (Ti/Ni separated)
 │   ├── ti/                           # Titanium alloy DAG
-│   │   ├── dag_edges.csv             # Causal edge table (8,625 edges)
+│   │   ├── dag_edges.csv             # Hypothesis edge table (8,625 edges)
 │   │   ├── node_metadata.csv         # Node metadata (647 nodes)
-│   │   ├── representative_paths.md   # Representative causal paths (Top-10)
+│   │   ├── representative_paths.md   # Representative hypothesis paths (Top-10)
 │   │   └── dag.graphml               # GraphML (647 nodes, 8,625 edges)
-│   └── ni/                           # Nickel-based alloy DAG
-│       ├── dag_edges.csv             # Causal edge table
+│   └── ni/                           # Nickel-based alloy CHG
+│       ├── dag_edges.csv             # Hypothesis edge table
 │       ├── node_metadata.csv         # Node metadata (195 nodes)
 │       ├── validation_results.csv    # Validation metrics (7 metrics)
-│       ├── representative_paths.md   # Representative causal paths (Top-20)
+│       ├── representative_paths.md   # Representative hypothesis paths (Top-20)
 │       └── dag.graphml               # GraphML (195 nodes, 1,010 edges)
 ├── validation_ground_truth/           # Ground Truth validation data
 │   └── ground_truth_mechanisms.json  # 10 classical metallurgical mechanisms for titanium alloys
@@ -71,4 +71,4 @@ The semantic extraction results in `extracted_json/` are machine-extracted struc
 | Ti-MMKG | 98 | Titanium alloys (Ti-6Al-4V, Ti-17, etc.) | Automated extraction from public literature |
 | Ni-DAG | 68 | Nickel-based superalloys (IN718, CMSX-4, etc.) | Automated extraction from public literature |
 | Ground Truth | 10 mechanisms | Classical titanium alloy metallurgical theory | Domain expert annotation |
-| DOI Index | 201 | Ti + Ni alloys | CrossRef + automated extraction |
+| DOI Index | 199 | Ti + Ni alloys | CrossRef + automated extraction |
