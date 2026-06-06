@@ -61,14 +61,14 @@ Per-class Precision / Recall / F1 (validation set):
 
 ---
 
-## Mistral-7B-Instruct-v0.2 + QLoRA — Semantic Extraction (Alternative)
+## Mistral-7B-Instruct-v0.2 + QLoRA — Semantic Extraction Benchmark
 
 | Base Model | LoRA Rank (r) | LoRA Alpha | Max Seq Length | Dataset | LoRA Path |
 |-----------|---------------|------------|----------------|---------|-----------|
 | `mistralai/Mistral-7B-Instruct-v0.2` | 16 | 32 | 8,192 | 199 papers (Ti + Ni), 5,432 chunks | `models/mistral7b_lora/` (not included) |
 
 Same QLoRA configuration as Qwen2.5-7B (r=16, α=32; see `configs/llm/qlora_config.yaml`).
-Mistral variant is provided as a drop-in alternative; performance is comparable (see paper Section 4.3).
+Mistral-7B-Instruct-v0.2 was included as one of the benchmarked open-weight LLMs under the same QLoRA configuration (see paper Section 4.3 for benchmark results).
 
 ---
 
