@@ -5,14 +5,17 @@
 ```
 data/
 ├── README.md                          # This file
-├── metadata/                          # Paper metadata and DOI index
-│   ├── paper_dois.json               # DOI index (JSON) for 201 papers (Ti + Ni alloys)
-│   ├── paper_dois.csv                # DOI index (CSV) — same data, spreadsheet-compatible
+├── metadata/                          # Paper metadata and DOI indices
+│   ├── paper_dois.json               # Unified DOI index (JSON) — 199 papers (Ti + Ni)
+│   ├── paper_dois.csv                # Unified DOI index (CSV) — same data, spreadsheet-compatible
+│   ├── llm_training_dois.csv         # LLM training set only (199 papers)
+│   ├── ti_mmkg_dois.csv              # Ti-MMKG case study subset (98 papers)
+│   ├── ni_dag_dois.csv               # Ni-DAG case study subset (68 papers)
 │   ├── paper_metadata.csv            # Paper metadata template
 │   └── corpus_statistics.csv         # Corpus statistics
 ├── extracted_json/                    # LLM semantic extraction results
 │   ├── ti_semantic_data.json         # Titanium alloys
-│   └── nickel_semantic_data.json     # Nickel-based alloys
+│   └── nickel_semantic_data.json     # Nickel-based alloys (68 papers)
 ├── kg_outputs/                        # Knowledge graph outputs (standardized format)
 │   ├── nodes.csv                     # Node table (301 nodes)
 │   ├── edges.csv                     # Edge table (3,747 edges)

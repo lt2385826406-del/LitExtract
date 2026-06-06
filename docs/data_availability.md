@@ -14,7 +14,10 @@ The extracted structured data (compositions, processing parameters, property val
 
 | Asset | Path | Description |
 |-------|------|-------------|
-| DOI index | `data/metadata/paper_dois.csv` | 201 papers with titles and DOIs |
+| Unified DOI index | `data/metadata/paper_dois.csv` | 199 papers (Ti + Ni alloys) with titles and DOIs |
+| LLM training DOI index | `data/metadata/llm_training_dois.csv` | 199 training papers — SFT corpus |
+| Ti-MMKG DOI index | `data/metadata/ti_mmkg_dois.csv` | 98 Ti-alloy papers — KG case study |
+| Ni-DAG DOI index | `data/metadata/ni_dag_dois.csv` | 68 Ni-alloy papers — CHG case study |
 | Corpus metadata | `data/metadata/paper_metadata.csv` | Paper-level metadata (journal, year, alloy type) |
 | Extracted JSON data | `data/extracted_json/` | LLM-extracted structured data (Ti + Ni alloys) |
 | KG outputs | `data/kg_outputs/` | Knowledge graph edge/node lists (JSON, HTML) |
@@ -45,7 +48,7 @@ To request access, please contact the corresponding author with a brief descript
 
 To fully reproduce the LitExtract pipeline from scratch:
 
-1. Obtain the 201 paper PDFs from publishers using DOIs in `data/metadata/paper_dois.csv`
+1. Obtain the 199 paper PDFs from publishers using DOIs in `data/metadata/paper_dois.csv` (or the per-dataset indices `ti_mmkg_dois.csv` / `ni_dag_dois.csv`)
 2. Place PDFs in `data/pdfs/` (not included in repo)
 3. Run the full pipeline: `python scripts/run_pipeline.py --pdf_dir data/pdfs/ --output outputs/`
 4. For training YOLO/ResNet: use scripts under `training/` with your own annotated data, or request our pre-trained weights

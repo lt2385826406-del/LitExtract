@@ -50,7 +50,7 @@ Per-class Precision / Recall / F1 (validation set):
 
 | Base Model | LoRA Rank (r) | LoRA Alpha | Max Seq Length | Dataset | LoRA Path |
 |-----------|---------------|------------|----------------|---------|-----------|
-| `Qwen/Qwen2.5-7B-Instruct` | 16 | 32 | 8,192 | 201 papers (Ti + Ni), ~5,500 samples | `models/qwen25_lora/` (not included) |
+| `Qwen/Qwen2.5-7B-Instruct` | 16 | 32 | 8,192 | 199 papers (Ti + Ni), ~5,500 samples | `models/qwen25_lora/` (not included) |
 
 **Training config**: `configs/llm/qlora_config.yaml`
 - 4-bit QLoRA (NF4, double quant, bfloat16 compute)
@@ -65,7 +65,7 @@ Per-class Precision / Recall / F1 (validation set):
 
 | Base Model | LoRA Rank (r) | LoRA Alpha | Max Seq Length | Dataset | LoRA Path |
 |-----------|---------------|------------|----------------|---------|-----------|
-| `mistralai/Mistral-7B-Instruct-v0.3` | 16 | 32 | 8,192 | 201 papers (Ti + Ni), ~5,500 samples | `models/mistral7b_lora/` (not included) |
+| `mistralai/Mistral-7B-Instruct-v0.3` | 16 | 32 | 8,192 | 199 papers (Ti + Ni), ~5,500 samples | `models/mistral7b_lora/` (not included) |
 
 Same QLoRA configuration as Qwen2.5-7B (see `configs/llm/qlora_config.yaml`).
 Mistral variant is provided as a drop-in alternative; performance is comparable (see paper Section 4.3).

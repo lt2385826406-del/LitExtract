@@ -69,13 +69,28 @@ If you use LitExtract in your research, please cite:
 }
 ```
 
+## Datasets
+
+This repository involves three distinct paper collections. Each has its own DOI index and serves a different purpose:
+
+| Dataset | Papers | DOI Index | Purpose | Example Output |
+|---------|--------|-----------|---------|---------------|
+| **LLM Training** | 199 (Ti + Ni alloys) | `data/metadata/llm_training_dois.csv` | Fine-tune Qwen2.5-7B / Mistral-7B for semantic extraction (SFT) | `data/extracted_json/` |
+| **Ti-MMKG** | 98 Ti-alloy papers | `data/metadata/ti_mmkg_dois.csv` | Multi-modal knowledge graph construction case study | `data/kg_outputs/ti_mmkg_data.json` |
+| **Ni-DAG** | 68 Ni-alloy papers | `data/metadata/ni_dag_dois.csv` | Causal Hypothesis Graph construction case study | `data/dag_outputs/ni/` |
+
+**Key distinctions:**
+- **LLM Training (199)**: The full fine-tuning corpus used for SFT of Qwen2.5-7B-Instruct and Mistral-7B-Instruct-v0.3. Covers Ti-based and Ni-based alloys for broad domain coverage. Each paper has manually verified structured JSON annotations in `output_0205/`.
+- **Ti-MMKG (98)**: A focused subset of Ti-alloy papers used to demonstrate the full multi-modal KG workflow — YOLO detection → OCR → LLM extraction → KG construction. The output `ti_mmkg_data.json` is a published example KG with `Element → Microstructure → Property` triples.
+- **Ni-DAG (68)**: A focused subset of Ni-alloy papers used to demonstrate the CHG construction pipeline. The output `dag_outputs/ni/` contains candidate causal edge lists with confidence scores derived from cross-paper co-occurrence patterns. **These are hypotheses, not validated causal claims.**
+
 ## Data Availability
 
 **PDF files and images are NOT included in this repository** due to publisher copyright restrictions.
 
 The repository provides the following publicly redistributable assets:
 
-- **DOI index**: `data/metadata/paper_dois.csv` — 201 papers (Ti + Ni alloys) with DOIs, titles, and DOIs so users can obtain the original PDFs from publishers
+- **DOI indices**: `data/metadata/` — three per-dataset DOI indices (`ti_mmkg_dois.csv`, `ni_dag_dois.csv`, `llm_training_dois.csv`), plus the unified `paper_dois.csv` and `paper_dois.json`
 - **Extracted structured data**: `data/extracted_json/` — factual information (compositions, processing, properties, heat treatment) extracted by LLM, in structured JSON format
 - **Knowledge graph outputs**: `data/kg_outputs/` — constructed KGs in JSON/HTML format (node/edge lists, not raw images)
 - **Causal Hypothesis Graph outputs**: `data/dag_outputs/` — candidate causal edge lists with confidence scores (hypothesis only, not validated claims)
@@ -83,7 +98,7 @@ The repository provides the following publicly redistributable assets:
 - **Ground truth**: `data/validation_ground_truth/` — domain expert-annotated metallurgical mechanism validation set
 - **Configuration files**: `configs/` — all model, training, and inference configs required to reproduce the pipeline
 - **Training & inference scripts**: `training/` and `scripts/` — full reproducibility scripts
-- **Metadata & splits**: `data/metadata/` — paper index, train/val/test splits (where applicable)
+- **Metadata & splits**: `data/metadata/` — paper indices, corpus statistics, train/val/test splits (where applicable)
 
 **What is NOT redistributed:**
 - Original publisher PDFs
