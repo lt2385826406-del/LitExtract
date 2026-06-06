@@ -1,5 +1,6 @@
 # QLoRA Fine-tuning Configuration
-# For Qwen2.5-7B-Instruct / Mistral-7B-Instruct-v0.3
+# For Qwen2.5-7B-Instruct (r=16, alpha=32).
+# Mistral-7B-Instruct-v0.2 variant uses r=64, alpha=128 (see paper).
 
 model:
   base_model: Qwen/Qwen2.5-7B-Instruct

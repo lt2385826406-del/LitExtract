@@ -24,15 +24,15 @@ data/
 │   └── example_subgraphs/           # 16 key node subgraphs (JSON + INDEX)
 ├── dag_outputs/                       # Causal Hypothesis Graph (CHG) outputs (Ti/Ni separated)
 │   ├── ti/                           # Titanium alloy DAG
-│   │   ├── dag_edges.csv             # Hypothesis edge table (8,625 edges)
+│   │   ├── dag_edges.csv             # Candidate hypothesis edge table (8,625 edges)
 │   │   ├── node_metadata.csv         # Node metadata (647 nodes)
-│   │   ├── representative_paths.md   # Representative hypothesis paths (Top-10)
+│   │   ├── representative_paths.md   # Representative candidate paths (Top-10)
 │   │   └── dag.graphml               # GraphML (647 nodes, 8,625 edges)
 │   └── ni/                           # Nickel-based alloy CHG
-│       ├── dag_edges.csv             # Hypothesis edge table
+│       ├── dag_edges.csv             # Candidate hypothesis edge table
 │       ├── node_metadata.csv         # Node metadata (195 nodes)
 │       ├── validation_results.csv    # Validation metrics (7 metrics)
-│       ├── representative_paths.md   # Representative hypothesis paths (Top-20)
+│       ├── representative_paths.md   # Representative candidate paths (Top-20)
 │       └── dag.graphml               # GraphML (195 nodes, 1,010 edges)
 ├── validation_ground_truth/           # Ground Truth validation data
 │   └── ground_truth_mechanisms.json  # 10 classical metallurgical mechanisms for titanium alloys

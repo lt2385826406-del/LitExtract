@@ -3,7 +3,7 @@
 ## YOLOv11 for PDF Graphic Element Detection
 - Chosen over Faster R-CNN for speed and ease of training
 - Nano variant (yolov11n) provides sufficient accuracy for detecting four structural categories: `caption`, `image`, `subgraph`, `subgraph_label`
-- Trained on 219 annotated PDF page images from Ti/Ni-alloy papers
+- Trained on 1,091 annotated PDF page images (763 train / 109 val / 219 test) from Ti/Ni-alloy papers
 - See `training_process_paper.md` (training folder) for full training documentation
 
 ## ResNet-50 for Microstructure Classification
@@ -15,4 +15,4 @@
 - 7B parameter model fits in single GPU with 4-bit quantization
 - QLoRA (r=16, alpha=32) enables efficient fine-tuning
 - ChatML format for SFT with structured JSON output
-- Alternative: Mistral-7B-Instruct-v0.3 (similar performance)
+- Alternative: Mistral-7B-Instruct-v0.2 (r=64, α=128; similar performance)

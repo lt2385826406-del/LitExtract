@@ -105,7 +105,7 @@ def run_pipeline(
     skip_match : bool
         Skip Stage 3 (figure-caption matching).
     base_model_path : str
-        Path to the base LLM (e.g. models/Mistral-7B-Instruct-v0.3).
+        Path to the base LLM (e.g. models/Mistral-7B-Instruct-v0.2).
         Required when use_local_model=True.
     lora_path : str
         Path to the LoRA adapter checkpoint.

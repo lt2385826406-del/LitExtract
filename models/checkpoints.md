@@ -12,7 +12,7 @@ This file records all trained model checkpoints for reproducibility.
 
 | Variant | Dataset | Classes | mAP@0.5 | Weights Path |
 |---------|---------|---------|---------|--------------|
-| yolov11n | 219 annotated PDF page images (Ti + Ni alloys) | 4 (`caption`, `image`, `subgraph`, `subgraph_label`) | 0.9175 (validation set) | `models/yolov11_pdf.pt` |
+| yolov11n | 1,091 annotated PDF page images (763 train / 109 val / 219 test; Ti + Ni alloys) | 4 (`caption`, `image`, `subgraph`, `subgraph_label`) | 0.9175 (validation set) | `models/yolov11_pdf.pt` |
 
 Per-class Precision / Recall / F1 (validation set):
 
@@ -37,7 +37,7 @@ Per-class Precision / Recall / F1 (validation set):
 
 | Task | Dataset | Accuracy | Weights Path |
 |------|---------|----------|--------------|
-| Binary (microstructure vs. other) | Ti-alloy figure crops, 3,200 images | 0.91 (validation) | `models/resnet50_micro.pth` |
+| Binary (microstructure vs. other) | 1,684 Ti-alloy figure crops (paper-reported); expanded pool of 3,200 available | 0.91 (validation) | `models/resnet50_micro.pth` |
 
 **Training config**: `configs/classification/resnet50.yaml`
 - Pre-trained on ImageNet (`IMAGENET1K_V2`), fine-tuned for 100 epochs
@@ -61,13 +61,13 @@ Per-class Precision / Recall / F1 (validation set):
 
 ---
 
-## Mistral-7B-Instruct-v0.3 + QLoRA — Semantic Extraction (Alternative)
+## Mistral-7B-Instruct-v0.2 + QLoRA — Semantic Extraction (Alternative)
 
 | Base Model | LoRA Rank (r) | LoRA Alpha | Max Seq Length | Dataset | LoRA Path |
 |-----------|---------------|------------|----------------|---------|-----------|
-| `mistralai/Mistral-7B-Instruct-v0.3` | 16 | 32 | 8,192 | 199 papers (Ti + Ni), ~5,500 samples | `models/mistral7b_lora/` (not included) |
+| `mistralai/Mistral-7B-Instruct-v0.2` | 64 | 128 | 8,192 | 199 papers (Ti + Ni), ~5,500 samples | `models/mistral7b_lora/` (not included) |
 
-Same QLoRA configuration as Qwen2.5-7B (see `configs/llm/qlora_config.yaml`).
+Same QLoRA configuration as Qwen2.5-7B (see `configs/llm/qlora_config.yaml`), except with higher LoRA rank (r=64, α=128).
 Mistral variant is provided as a drop-in alternative; performance is comparable (see paper Section 4.3).
 
 ---

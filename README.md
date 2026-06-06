@@ -80,7 +80,7 @@ This repository involves three distinct paper collections. Each has its own DOI 
 | **Ni-DAG** | 68 Ni-alloy papers | `data/metadata/ni_dag_dois.csv` | Causal Hypothesis Graph construction case study | `data/dag_outputs/ni/` |
 
 **Key distinctions:**
-- **LLM Training (199)**: The full fine-tuning corpus used for SFT of Qwen2.5-7B-Instruct and Mistral-7B-Instruct-v0.3. Covers Ti-based and Ni-based alloys for broad domain coverage. Each paper has manually verified structured JSON annotations in `output_0205/`.
+- **LLM Training (199)**: The full fine-tuning corpus used for SFT of Qwen2.5-7B-Instruct and Mistral-7B-Instruct-v0.2. Covers Ti-based and Ni-based alloys for broad domain coverage. Each paper has manually verified structured JSON annotations in `output_0205/`.
 - **Ti-MMKG (98)**: A focused subset of Ti-alloy papers used to demonstrate the full multi-modal KG workflow — YOLO detection → OCR → LLM extraction → KG construction. The output `ti_mmkg_data.json` is a published example KG with `Element → Microstructure → Property` triples.
 - **Ni-DAG (68)**: A focused subset of Ni-alloy papers used to demonstrate the CHG construction pipeline. The output `dag_outputs/ni/` contains candidate causal edge lists with confidence scores derived from cross-paper co-occurrence patterns. **These are hypotheses, not validated causal claims.**
 
@@ -102,7 +102,7 @@ The repository provides the following publicly redistributable assets:
 
 **What is NOT redistributed:**
 - Original publisher PDFs
-- Raw figure images extracted from PDFs
+- Raw figure images extracted from PDFs (YOLO training set: 1,091 annotated pages; ResNet training set: 1,684 figure crops). Users must obtain PDFs from publishers via the provided DOIs.
 - Trained model checkpoint files (available upon reasonable request)
 
 See `docs/data_availability.md` for the complete data access policy and request process.
